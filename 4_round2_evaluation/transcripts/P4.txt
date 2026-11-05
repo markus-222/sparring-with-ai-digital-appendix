@@ -1,0 +1,321 @@
+Interview-ID: [P4]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:03#
+I: Kannst du am Start kurz ein paar Sätze über dich sagen? Was sind deine Rollen in bisherigen Projekten und wie lange bist du schon im Requirements Engineering beziehungsweise in den frühen Projektphasen unterwegs?
+
+V02 #00:00:32#
+B1: Ich bin [Name] und arbeite jetzt seit insgesamt sechs Jahren im Projekt-Kontext. Zuvor war ich in einer Product-Operations-Rolle bei einer Produktfirma und als Project Lead in einer Design-Agentur tätig. Seit zweieinhalb Jahren bin ich bei [Arbeitgeber] als Product Consultant. Diese Rolle vereint Aufgaben als Requirements Engineer, Business Analyst, Proxy PO sowie teilweise UX/UI- und Projekt-Lead-Themen. Ich achte dabei auch auf die Wirtschaftlichkeit, Ressourcenplanung und Budgets.
+Eher unüblich für [Arbeitgeber] habe ich hier bisher viele kleine Projekte in verschiedenen Bereichen betreut (z. B. Change Management und Product-Discovery für den Mittelstand sowie Projekte für öffentliche Auftraggeber). Mit frühen Projektphasen habe ich jetzt vor allem seit meiner Zeit bei [Arbeitgeber] zu tun.
+
+V03 #00:01:45#
+I: Perfekt, danke. Das reicht mir schon fürs Erste.
+
+V04 #00:01:53#
+I: Genau, wie oft nutzt du bei deiner Arbeit gerade irgendwelche KI-Tools, von nie über gelegentlich bis zu täglich?
+
+V05 #00:02:03#
+B1: Claude Code täglich. Es gibt keinen Arbeitstag, an dem ich das nicht benutze. Also ja, täglich.
+
+V06 #00:02:09#
+I: Okay, und wenn du dich jetzt in irgendwelche unbekannten Informationen einarbeiten musst oder die irgendwie analysieren und aufbereiten musst, welche Art von Unterstützung erwartest du dir dabei von KI-Tools?
+
+V07 #00:02:23#
+B1: Kommt dann natürlich immer darauf an, was.
+
+V08 #00:02:34#
+B1: Ich versuche es in – oder ich sehe es so in zwei Punkten zusammengefasst. Entweder ist es: Okay, recherchier es mir komplett eigenständig und gib mir dann so eine Zusammenfassung, aggregierte Info, vor allem in Kombi mit: Er kann es mir in verschiedenen Komplexitätsstufen erklären oder dann noch mal die Details genau erklären. Ich bin wahnsinnig großer Fan mittlerweile von einfach prompten: „Explained like I'm five“ oder „Fasse es kurz und bündig zusammen“, das einmal.
+
+V09 #00:03:11#
+B1: Oder wenn ich schon eine bestehende Wissensbasis habe oder irgendwas konzeptioniert habe, dann ein Sparring zu kriegen. Das Sparring entweder dann aus dem Modell heraus oder mit „Hey, recherchieren wir mal was dagegen“, also einfach frei verfügbar im Internet, oder ich feede Quellen noch mal zusätzlich rein und sage dann: „Erklär mir das aus der Perspektive, also –“ Keine Ahnung. Hier ist das. Hier sind die Trainingsunterlagen, die ich habe. Oder hier ist es noch mal dieses Framework. Sieh das mal in dem Kontext. Also keine Ahnung, so ein Product-Discovery-Framework. Wenn ich mich da auf eins konzentrieren möchte, weil ich mich da selber auskenne, dann in die Richtung zum Beispiel.
+
+V10 #00:04:04#
+I: Okay, vielen Dank. Das war's mit meinen Fragen fürs Erste.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:04#
+I: Ja, genau. Kannst du vielleicht erst in ein, zwei Sätzen sagen, wie es dir erging, und dann starte ich mit meinen Fragen.
+
+N02 #00:00:11#
+B1: Mir ging es gut damit, es hat alles gut funktioniert. Was ich gut fand und was ein echter Vorteil ist gegenüber Terminal oder so, dass man Chat und Dokument sieht und sieht, wie man die Kommentare Stück für Stück ins Dokument reinspeist. Finde ich, also ganz grundsätzlich finde ich das sehr angenehm, ja.
+
+N03 #00:00:39#
+I: Okay, dann die erste Frage: Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N04 #00:00:49#
+B1: Also, ich glaube, das eigentliche Problem ist nicht, dass ein Tool fehlt. Sondern die Mitarbeitenden haben keine Zeit, keine Klarheit darüber, was für ihre Entwicklung überhaupt relevant ist, und kein gebündeltes Angebot.
+
+N05 #00:01:06#
+I: Also, die Plattform allein würde sozusagen das Problem nicht lösen.
+
+N06 #00:01:10#
+B1: Ja, das ist zumindest die Vermutung von mir, aber da würde ich jetzt schon noch mal mehr, vor allem in dem Gespräch mit einem internen Kollegen oder auch dann noch mal mit den Dokumenten, noch mal ein bisschen mehr Zeit investieren einfach, um zu checken: Ja, bilde ich mir das gerade jetzt nur ein aufgrund der Dokumente.
+
+N07 #00:01:36#
+B1: Und wenn ja, wie greife ich das beim Kunden in der Erwartungshaltung auf? Wenn das für die okay ist, dass man sagt: „Hey, wir machen jetzt erst mal ein geiles LMS.“ Und schauen dann, ob sich das dadurch steigert. Wohl wissend mit der Gefahr, dass es vielleicht auch dann an anderen Stellen liegt, kann man das machen oder nicht.
+
+N08 #00:01:58#
+I: Okay, danke. Dann hätte ich noch vier kurze Aussagen, die du bitte von 1 bis 5 bewertest. 1 heißt, trifft gar nicht zu, 5 heißt, trifft voll zu. Und gern noch ein Satz dazu, warum.
+
+N09 #00:02:17#
+I: Die erste Aussage: „Durch das AI-Tool habe ich den Fall schneller erfasst.“
+
+N10 #00:02:26#
+B1: 5. Ja, das ging schon sehr viel schneller, den Fall zu erfassen.
+
+N11 #00:02:35#
+I: Die zweite: „Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N12 #00:02:44#
+B1: 4. Ja, ich hätte in der kurzen Zeit nicht alle Widersprüche entdeckt. Wie es mit etwas mehr Zeit aussieht, kann ich nicht sagen.
+
+N13 #00:02:58#
+I: Dann: „Ich wusste jederzeit, was in meinem Dokument steht und woher es kommt.“
+
+N14 #00:03:07#
+B1: 4. Also, so grob wusste ich schon, was drinsteht und woher das kommt, aber jetzt nicht jedes Detail.
+
+N15 #00:03:18#
+I: Und die letzte: „Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.“
+
+N16 #00:03:28#
+B1: Auch eine 4. Ich denke, es ist so weit alles passend, aber mit hundertprozentiger Sicherheit kann ich das nicht sagen.
+
+N17 #00:03:40#
+I: Okay. Wie bist du denn in den 30 Minuten vorgegangen? Führ mich mal kurz durch deinen Prozess.
+
+N18 #00:03:53#
+B1: Es ist ein bisschen künstlich, weil diesen Kontext von „Ich habe wirklich vorher keine Informationen, nur die Dokumente“ habe ich selber so eigentlich nicht. Wenn dann ein Workshop ansteht, kriege ich meistens ein Briefing von jemandem bei [Arbeitgeber].
+
+N19 #00:04:05#
+B1: Ich habe mich jetzt trotzdem einfach mal in die Lage versetzt und habe trotzdem aber mal kurz abgefragt, so: Hey, haben wir denn irgendeine Dokumentation zu, wie das Projekt sich bei uns angebahnt hat als Dienstleister, weil da sehr viel in den Zwischentönen oder so stecken würde oder sonstiges. Das heißt, ich würde versuchen, mit der Person, die das Projekt irgendwie angebahnt hat, zu sprechen. Weil man noch mal anders nachfragen kann.
+
+N20 #00:04:37#
+B1: Die Infos sind für mich ganz fachlich für die Gestaltung sehr essentiell, um dann auch wirklich checken zu können, okay, wo stehen wir gerade, wie müsste ich weitermachen und wie waren die Leute zum Beispiel auch einfach im Gespräch drauf, was man ja durch ein File nicht sieht.
+
+N21 #00:04:57#
+B1: Ansonsten war es für mich am wichtigsten erst mal zu verstehen: Es ist ein internes Tool. Und das ist deswegen wichtig, also es bringt – Interne Tools im Kontrast zu Produktsoftware müssen keinen Umsatz bringen. B2B-Produkte oder B2C müssen Umsatz bringen. Das ist sehr offensichtlich, aber dadurch ist die Zielstellung nicht umsatzbringend, sondern sie ist immer an eine interne Zielstellung gekoppelt. Und die ist ja auch gegeben. Ganz banal im Sinne von: Ja, wir möchten die Lernrate erhöhen.
+
+N22 #00:05:48#
+B1: Also ich habe dann vor allem erst mal Fragen gestellt. Also sollen zum Beispiel persönliche Entwicklungsgespräche geführt werden oder gibt es eine allgemeine Strategie, die wirklich schon verankert ist? Oder führen wir gerade zuerst das Tool ein und hoffen damit auf Besserung. Und wenn man zuerst das Tool einführt und dadurch auf Besserung hofft, vor allem wenn der Blocker – das ist auch so ein bisschen Henne-Ei-Problem – wenn die Leute dann mehr Zeit hätten, dann würden sie vielleicht auch die Plattform mehr nutzen, deswegen muss die Plattform auch richtig sein oder man führt eine Plattform ein, aber die Leute haben trotzdem keine Zeit und es ist nicht in der Gesamtstrategie irgendwie verankert.
+
+N23 #00:06:47#
+B1: Das heißt, um es jetzt noch mal auf eine abstrakte Ebene zu bringen, für mich war erst mal die grobe Strukturierung wichtig und die Erkenntnis, es ist ein internes Tool, und ein internes Tool ist immer an andere Unternehmensziele geknüpft, wie gut greift das ineinander und wie gut das ineinander greift, das habe ich versucht zu verstehen.
+
+N24 #00:07:10#
+B1: Ja, und ich bin nicht im Detail durch alle Dokumente gekommen, aber das war für mich erst mal der wichtigste Punkt. Weil man muss sich dann auch immer dagegen wehren im Sinne von: „Ja, ihr habt uns ja ein neues Tool hingestellt, die Leute nutzen das ja gar nicht“, wo liegt denn das Problem.
+
+N25 #00:07:30#
+I: Okay, ja. Also ging es dir erst mal um ein grundsätzliches Problemverständnis. Und wer hat das Vorgehen eher bestimmt, du oder das AI-Tool? Hast du dich eher geführt oder eher eingeengt gefühlt?
+
+N26 #00:07:55#
+B1: Also, ich konnte mich selber durchführen. Worauf ich schon auch sehr viel Wert drauf lege. Wenn ich jetzt über Claude arbeite oder also generell über ein Terminal und dann Agent.mds drin habe, dass ich ihm sehr genau definiere, wie er Antworten geben soll. Das habe ich jetzt hier auch schon mal reingepromptet, das hat er sich so halb gemerkt. Weil meine persönliche Präferenz ist: Hey, fass dich sehr kurz und simpel zusammen und vermeide Fachbegriffe und Abkürzungen. Und wenn ich dann Sachen im Detail haben möchte, dann frage ich nach. Also so erarbeite ich mir das Wissen oder durch Dokumente.
+
+N27 #00:08:44#
+B1: Also, wenn das nicht gut in dem Tool geht, wäre mir das sonst zu restriktiv. Und würde ich – das wäre dann auch ein Blocker für mich oder zumindest so nervig, dass ich das Tool nicht wählen würde, wenn ich das nicht einstellen könnte, einfach weil ich die Alternative mit Terminal-CLIs habe.
+
+N28 #00:09:04#
+I: Okay, also legst du Wert darauf, dass du gewisse Dinge selber anpassen und auf deinen Kontext zuschneiden kannst, damit es eben für dich optimal passt?
+
+N29 #00:09:15#
+B1: Ja, weil sonst bin ich immer dazu gezwungen, viel Text zu scannen. Und dann ist finde ich – dann ist der Mehrwert des Agenten sehr schnell verfallen, weil dann könnte ich auch gleich das eigentliche Dokument scannen. Und wenn dann das Dokument auch noch vielleicht auch noch mal agentisch erstellt ist. Dann denke ich mir: „Okay, jetzt sind hier so viele Transformation Layers, dann kann ich auch gleich wieder mit der Person sprechen oder das Originaldokument anschauen.“
+
+N30 #00:09:45#
+B1: Ja, es ist jetzt in dem Fall eine etwas künstliche Projektsituation, aber ja.
+
+N31 #00:09:49#
+I: Würdest du am Anfang gerne auch erst mal zu deinem Ziel befragt werden oder das einstellen können?
+
+N32 #00:10:00#
+B1: Also, (...) ich glaube, ja, weil das ja auch von Projekt zu Projekt sehr unterschiedlich sein kann, was man genau braucht. Und es gibt ja auch gewisse Templates, ich denke, das wäre gut.
+
+N33 #00:10:18#
+I: Okay, ja. Die nächste Frage wäre: Gab es eine Stelle, an der du einen Vorschlag des AI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N34 #00:10:33#
+B1: Also, abgelehnt habe ich nichts. Die meisten Vorschläge habe ich angenommen, und bei einem habe ich noch mal Rückfragen über den Chat gestellt. Das hat gut geklappt und war auch hilfreich, dass man sich da dann direkt drauf beziehen konnte.
+
+N35 #00:10:55#
+I: Okay, sehr gut. Ganz kurz noch zwei Fakten: Wie oft hast du den Review gestartet? Und hast du einen Quellenverweis geöffnet?
+
+N36 #00:11:08#
+B1: Den Review habe ich einmal bei jedem Dokument gestartet, also dreimal. Und Quell-Icons habe ich auch mal angeklickt.
+
+N37 #00:11:19#
+I: Okay. Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N38 #00:11:29#
+B1: Also, nicht so richtig. Das war eher so ein Drilldown, wo ich mich dann immer weiter reingearbeitet habe. Aber da war zum Beispiel ein Kommentar, der das Auslastungsziel als mögliche Ursache dafür genannt hat, dass die Leute keine Zeit haben. Und das hat meine Vermutung, dass die Plattform jetzt nicht alle Probleme löst, dann eher noch bestätigt.
+
+N39 #00:11:58#
+I: Okay. Wie hast du die Menge an Text, die du zurückbekommen hast, sei es in den Dokumenten oder auch in den Kommentaren, das Tool hat ja Kommentare erstellt beim Review. Wie hast du einerseits die Kommentare empfunden, haben die dir geholfen und hast du die eher als zu viel Text empfunden?
+
+N40 #00:12:31#
+B1: Ich teile meine Antwort mal kurz auf. Also, was ich empfunden habe, ist: Die eigentlichen Chat-Antworten habe ich mir eben runterkürzen lassen beziehungsweise habe ich mir simpler zusammenfassen lassen, das habe ich gleich am Anfang als Prompt reingegeben. Das hat jetzt so halb gut funktioniert, es war okay, aber das würde ich dann auf jeden Fall noch feintunen.
+
+N41 #00:12:54#
+B1: Die Artefakte, die ich mir dann habe erstellen lassen, waren jetzt nicht crazy groß, sondern das war eher so eine Bullet-Point-Liste. Gerade bei den offenen Fragen war das ganz gut zu sehen, ich sehe diese Inconsistencies oder da würde ich gerne noch mal mehr nachfragen, um da erst mal so eine Brain Dump zu haben. Das sollte ich noch mal nachschauen, das sollte ich noch mal nachschauen. Das fand ich hilfreich, auch die Markdown- und die Preview-Ansicht.
+
+N42 #00:13:31#
+B1: Ich finde, der eigentliche Mehrwert kommt dann erst durch den Review. Also der Mehrwert von „Hey, speicher mir das mal“ ist schon gegeben. Ich bin aber genauso schnell und kann es mir noch mal anders strukturieren, wenn ich selber Obsidian oder keine Ahnung, einfach einen simplen Editor daneben habe. Den größeren Mehrwert sehe ich grundsätzlich darin, dass ich die ganze Zeit, während ich arbeite, ins Tool reinspeise und es dann in einem Stück reviewen kann.
+
+N43 #00:14:05#
+I: Ja, verstehe ich. Ja, das ist jetzt in der halben Stunde schwierig abzutesten, weil normalerweise nutzt man ja so ein Tool irgendwie über Tage oder Wochen.
+
+N44 #00:14:17#
+I: Und noch mal konkret zu den Kommentaren aus dem Review: War die Menge je Review für dich handhabbar, oder wurde es irgendwann zu viel?
+
+N45 #00:14:35#
+B1: Für die halbe Stunde war das schon eher viel, ja. Weil die Anmerkungen will ich mir ja auch anschauen und checken, ob die stimmen. Im echten Projekt würde ich mir dafür aber einfach mehr Zeit nehmen und dann auch öfter noch mal mit dem Agenten drüber diskutieren oder Rückfragen stellen.
+
+N46 #00:15:01#
+I: Würdest du gerne alles, was das AI-Tool bemerkt hat, auf einmal sehen, auch Nebensächliches?
+
+N47 #00:15:09#
+B1: Kommt immer darauf an, wie viel Zeit ich habe und wie genau es sein muss. Was ich öfters mache: Ich lasse mir einen Confidence Score mit ausgeben, und anhand dessen kann ich dann priorisieren, was wirklich relevant ist. Oder man könnte im Tool irgendwie selber festlegen, wie tief der Review gehen soll.
+
+N48 #00:15:37#
+I: Okay, ja, das ist vielleicht sinnvoll. Vorhin hast du gesagt, du erwartest von einem KI-Tool unter anderem ein Sparring zu dem, was du schon konzipiert hast. Wie siehst du das jetzt? Hilft es dir beim Verstehen, wenn du Kommentare bekommst und die noch mal approven musst, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N49 #00:16:09#
+B1: Dieses Sparring mit Kommentaren ist, finde ich, sehr hilfreich, weil man sich da noch mal Gedanken machen muss. Grundsätzlich ein Sparring von „Hey, hilf mir mal, das zu verstehen“ oder „Challenge mich mal“ oder so finde ich wichtig, ich kann das ja schon auch rein prompten, die Frage ist dann immer, wie gut das dann ist. Da muss man dann mit der Zeit im Projekt auch ein gewisses Gefühl für entwickeln.
+
+N50 #00:16:44#
+B1: Was ich sonst gerne mache mit Claude ist, dass ich mir einfach ein HTML-File oder so erstellen lasse, das mir hilft, mich dann zurechtzufinden und zu visualisieren, um einen Überblick zu bekommen.
+
+N51 #00:17:01#
+I: Also, Visualisierungen würden dir auch helfen, damit du Abhängigkeiten und so etwas darstellen kannst?
+
+N52 #00:17:07#
+B1: Zum Beispiel, ja.
+
+N53 #00:17:12#
+B1: Es ist ein bisschen schwierig zu sagen, weil es ist ja nicht so, also man arbeitet ja nicht nur in der Konsole für sich, sondern hat verschiedene Tools. Ich kann ja immer Claude auch sagen, hey, packen wir das mal in HTML, packen wir das mal in eine PowerPoint, mach mir ein – also gut, wir haben selber jetzt bei [Arbeitgeber] keine Miro-Anbindung, aber theoretisch, wenn ich jetzt außerhalb von Governance Restrictions liegen würde, könnte ich ja auch sagen, hey, ich schmeiß mir das jetzt mal auf ein Board oder mach mir ein Excalidraw oder sonstiges.
+
+N54 #00:17:48#
+B1: Dadurch habe ich bei Claude immer dann direkt das Angebot oder für den jeweiligen Kontext habe ich ein Angebot der Unendlichkeit und kann es dann immer auf den jeweiligen Kontext anpassen. Ich geb dir mal gerade ein anderes Beispiel.
+
+N55 #00:18:02#
+B1: Ich mache jetzt gerade auf meinem Projekt – mache ich auch gerade viel UX/UI-Themen. In der Sache ist es sehr visuell, offensichtlich. Ich lasse mir dann entweder – bearbeite ich direkt an dem Prototypen oder ich lasse mir die Changes kurz in einem HTML-File visualisieren und kann dadurch in dem Kontext auch immer sehr gut erkennen, was jetzt gerade wichtig ist, oder ich lass mir eine Empfehlung ausgeben, welches Tool passt jetzt gerade. Das geht mit Claude also alles schon. Was ich bei dem Tool hier aber schon als Vorteil sehe: dass so ein Projektdokument quasi live mitwächst.
+
+N56 #00:18:50#
+B1: Und sehr gut finde ich, dass es diese Texteditierfunktion gibt. Also ich kann das Dokument selbst manuell bearbeiten, und gleichzeitig schreibt der Agent über den Chat mit rein. Das finde ich richtig gut. Was auch noch hilfreich wäre: wenn man selber auch Kommentare im Dokument schreiben könnte, also nicht nur das Dokument selber ändern, sondern Anmerkungen machen. Dann können Kollegen und auch die KI das direkt auch als Kommentare erkennen.
+
+N57 #00:19:23#
+I: Okay, ja, verstehe. Das habe ich jetzt schon öfters gehört. Die nächste Frage wäre: Würdest du sagen, das AI-Tool hat deine Einschätzungen eher bestätigt oder eher infrage gestellt?
+
+N58 #00:20:03#
+B1: Ich habe selber meine Statements auch direkt als Vermutung eingegeben. Deswegen wird der Agent das auch als solches erkannt haben und ich bin selber aber schon sehr darauf bedacht, auch dann immer zu sagen: „Hey, ich habe gerade die und die Vermutung. Findest du dazu irgendwas?“ Oder: „Challenge mich aber mal kritisch, ob ich mich hier jetzt gerade verrenne.“
+
+N59 #00:20:30#
+B1: Also, diesen – ich glaube, es gibt da mittlerweile auch einen Begriff – aber dieses, was Agenten immer haben, dass sie sehr zustimmend sind, egal welcher Anbieter, versuche ich direkt vorzugreifen, indem ich es auch dagegen prompte.
+
+N60 #00:20:50#
+I: Ja. Du hast ja vorhin gesagt, du hast Quellenverweise geöffnet. In dem Tool wurden ja immer angemerkt oder angezeigt, wo aus welchem Dokument welche Informationen kommen. War es für dich dadurch besser nachvollziehbar, wie das Tool zu seinen Ergebnissen, Anmerkungen kommt?
+
+N61 #00:21:12#
+B1: Ja, das finde ich gut, mache ich bei mir oft auch so, dass ich ihm damit prompte, hey, beleg – also liefere mir immer gleich mit, was die Quelle ist. Vor allem, wenn es Wissenssachen sind im Sinne von: Hey, dieses Statement stütze ich jetzt gerade da drauf. Ja, oder hier oder hier widersprechen sich Dokumente. Kann ja auch vorkommen.
+
+N62 #00:21:42#
+I: Und wofür hast du die Quellenverweise geöffnet?
+
+N63 #00:21:48#
+B1: Ich wollte einfach mal schauen, was dann passiert, und sehen, woher die Info kommt. Da wurde dann ja einfach das Ausgangsdokument geöffnet.
+
+N64 #00:22:02#
+I: Hättest du da erwartet, dass die genaue Stelle angezeigt wird? Und hättest du auch ohne Verweise geprüft?
+
+N65 #00:22:13#
+B1: Ja, das wäre top gewesen, wenn die genaue Stelle markiert worden wäre. Und geprüft hätte ich im echten Projekt so oder so. Ich will mich da nicht blind auf den Agenten verlassen, gerade wenn ich das dann vor dem Kunden so vertreten muss.
+
+N66 #00:22:36#
+I: Hatten die Verweise Auswirkungen auf dein Vertrauen in die Dokumente?
+
+N67 #00:22:44#
+B1: Ja, schon. Wenn ich sehe, worauf sich ein Statement stützt, vertraue ich dem auch mehr.
+
+N68 #00:22:54#
+I: Okay. Was am AI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt? Also vielleicht jetzt vom grundsätzlichen Aufbau.
+
+N69 #00:23:13#
+B1: All das, was ich schon gesagt habe, lässt sich sehr banal zusammenfassen auf: Ich sehe die Gefahr, dass es mich stören könnte, dass ich nicht so viel Freiheit habe, einfach wie ich einfach so habe mit Terminal, also mit Claude Code oder so.
+
+N70 #00:23:29#
+B1: Und als Vorteil sehe ich eben (...) die grundsätzliche Struktur mit dieser Live-Preview.
+
+N71 #00:23:38#
+I: Also eigentlich ist das Wichtigste, dass du Dokumente zusammen mit Agenten bearbeiten kannst. Der zweite wichtige Aspekt ist, dass du deine Freiheit behältst und nicht irgendwie in ein Korsett gezwängt wirst, was du dann als störend empfindest.
+
+N72 #00:23:54#
+B1: Genau, ja.
+
+N73 #00:23:57#
+I: Okay. Dann noch ein paar Fragen zu einzelnen Eigenschaften vom Tool. Innerhalb der Kommentare gab es zwei Absender, den Review und den Explorer. Hast du das als eine Stimme oder als verschiedene Perspektiven erlebt? Gab es Anmerkungen, die sich widersprachen?
+
+N74 #00:24:19#
+B1: Also, dass das zwei unterschiedliche Rollen sind, habe ich schon gesehen. Aber was jetzt genau der Explorer macht und was der Review, war mir nicht so ganz klar. Da würde ich gerne reinschauen können, wie die aufgesetzt sind, im Sinne von: Was ist da der Prompt dahinter? Dass sich Anmerkungen widersprochen hätten, ist mir jetzt aber nicht aufgefallen.
+
+N75 #00:24:48#
+I: Wäre es dir lieber, der Chat selbst würde widersprechen, statt dass das getrennt erscheint?
+
+N76 #00:24:57#
+B1: Also, im Chat habe ich ja eher Fragen gestellt, da habe ich jetzt gar keinen richtigen Widerspruch erwartet. Die Kritik dann getrennt als Anmerkungen zu kriegen, fand ich ganz angenehm, ja.
+
+N77 #00:25:15#
+I: Okay, ja. Das AI-Tool hat Stellen als „unklar“ oder „Konflikt“ markiert und Fragen an den Kunden vorgeschlagen. Was hast du mit solchen Stellen gemacht?
+
+N78 #00:25:29#
+B1: Die habe ich mir einfach erst mal in die Open Issues packen lassen, damit ich das dann mit dem Kunden oder mit dem internen Kollegen klären kann.
+
+N79 #00:25:44#
+I: Hättest du lieber gehabt, dass das AI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N80 #00:25:53#
+B1: Lieber nachfragen. Ich will ja sehen, wo es noch offen ist, und nicht, dass der Agent da im Hintergrund irgendwas für mich festlegt.
+
+N81 #00:26:06#
+I: Du hast ja die meisten Vorschläge angenommen. War das am Ende dein Dokument oder das des Tools?
+
+N82 #00:26:17#
+B1: Für mich ist das ein Sparring. Verantworten muss ich das am Ende aber trotzdem selbst, gerade in Kundenprojekten kann man sich nicht zu 100 % drauf verlassen.
+
+N83 #00:26:33#
+I: Hättest du Änderungen lieber direkt im Text gehabt, ohne den Schritt des Annehmens?
+
+N84 #00:26:42#
+B1: Bequemer wäre es direkt im Text, klar. Aber dass ich das noch mal approven muss, finde ich eigentlich gut, weil ich mich dann wirklich damit beschäftige.
+
+N85 #00:26:57#
+I: Okay. Hat das AI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N86 #00:27:08#
+B1: Eher zum Problem, würde ich sagen. Das Tool hat am Anfang erst mal vorgeschlagen, das Problem zu analysieren und zu beschreiben.
+
+N87 #00:27:20#
+I: Hättest du lieber früher über die Lösung gesprochen?
+
+N88 #00:27:27#
+B1: Nein, das hat für mich so gepasst.
+
+N89 #00:27:33#
+I: Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N90 #00:27:48#
+B1: Vor allem, dass ich die Rollen und die Prompts selber einstellen kann, so wie mit meinen Agent.mds. Und dann noch Verweise, die direkt an die Textstelle springen und nicht nur ins Dokument.
+
+N91 #00:28:05#
+I: Okay. Würdest du das AI-Tool in einem echten Projekt einsetzen? Wofür, und wofür nicht?
+
+N92 #00:28:14#
+B1: Grundsätzlich finde ich den Ansatz spannend, ein paar Sachen fehlen noch und es müsste flexibler werden, und das müsste ich dann auch erst mal testen.
+
+N93 #00:28:34#
+I: Gibt es noch etwas, das du mir sagen möchtest?
+
+N94 #00:28:41#
+B1: Nein, von meiner Seite war's das.

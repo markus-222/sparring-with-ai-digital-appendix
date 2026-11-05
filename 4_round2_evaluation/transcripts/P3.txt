@@ -1,0 +1,203 @@
+Interview-ID: [P3]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:00#
+I: Zum Start wäre es cool, wenn du kurz ein bisschen über deinen Hintergrund erzählen kannst. Welche Rolle hast du aktuell, und wie lange arbeitest du schon in der frühen Projektphase beziehungsweise im Requirements Engineering?
+
+V02 #00:00:15#
+B1: Gerne. Also, ich bin jetzt seit über 20 Jahren in der IT-Branche tätig, seit 2018 bei [Arbeitgeber]. In den Projekten bin ich eigentlich immer an der Schnittstelle zwischen Fachseite und IT unterwegs – meistens als Business Analystin, Proxy PO oder Requirements Engineer. Mein Schwerpunkt liegt auf der Konzeption von Stakeholder-Workshops, strategischer Produktentwicklung und Informationsarchitekturen.
+
+V03 #00:01:05#
+I: Alles klar. Wie oft nutzt du bei dieser Arbeit KI-Tools, und wofür? Also eher nie, gelegentlich, regelmäßig oder täglich?
+
+V04 #00:01:20#
+B1: KI nutze ich tatsächlich täglich, für alle möglichen Dinge. Meistens, um mir Dokumente zusammenfassen zu lassen, teilweise auch für die Recherche oder Transkription von Meetings. Manchmal nutze ich sie auch als Unterstützung bei fachlichen Themen, wenn ich irgendwelche Begriffe nicht ganz verstanden habe.
+
+V05 #00:01:45#
+I: Okay, verstehe. Wenn du dich in unbekannte Informationen einarbeiten, diese analysieren und aufbereiten musst: Welche Unterstützung erwartest du dabei von einem KI-Tool?
+
+V06 #00:02:05#
+B1: Also vor allem, dass ich mir die Dokumente gut zusammenfassen lassen kann und dem Tool Fragen dazu stellen kann. Schön wäre auch, wenn es schon ein wenig priorisieren kann, welche Themen wirklich wichtig sind.
+
+V07 #00:02:25#
+I: Was genau müsste das Tool tun oder wie müsste die Ausgabe aussehen, damit du die Informationen dann auch richtig verstehen kannst?
+
+V08 #00:02:35#
+B1: Es sollte natürlich vor allem übersichtlich sein und gut lesbar sein. Es darf keine ellenlangen Ausgaben produzieren, damit man den Fokus aufs Wesentliche nicht verliert. Das bringt mir sonst nichts, wenn ich dann wieder ewig lesen muss.
+
+V09 #00:02:55#
+I: Ja, das macht Sinn.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:03#
+I: Dann wäre die erste Frage: Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk? Nur ganz grob erst mal.
+
+N02 #00:00:25#
+B1: Ganz grob: Die wollen eine neue Plattform, aber Budget und Planung passen da noch nicht richtig zusammen, und da gibt es Widersprüche, gerade bei den finanziellen Mitteln. Da ist einfach noch vieles nicht geklärt.
+
+N03 #00:00:43#
+I: Okay, danke. Dann hätte ich vier kurze Aussagen, die du bitte von 1, trifft gar nicht zu, bis 5, trifft voll zu, bewertest. Die erste: Durch das AI-Tool habe ich den Fall schneller erfasst.
+
+N04 #00:01:01#
+B1: Das würde ich mit einer 5 bewerten. Den Überblick hatte ich deutlich schneller, als wenn ich alles selber durchgearbeitet hätte.
+
+N05 #00:01:13#
+I: Okay. Der nächste Satz: Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.
+
+N06 #00:01:24#
+B1: Eine 3. Es hat Sachen aufgelistet, die ich beim Überfliegen nicht im Blick hatte, gerade bei den finanziellen Themen. Ob ich die beim richtigen Lesen übersprungen hätte, weiß ich nicht genau, eher nicht.
+
+N07 #00:01:41#
+I: Gut. Dann: Ich wusste jederzeit, was in meinem Dokument steht und was sich daran geändert hat.
+
+N08 #00:01:51#
+B1: Da würde ich eine 2 geben. Wenn die KI was überarbeitet hat, kam ja jedes Mal eine komplett neue Version, und was da zwischendurch rausgefallen ist, sieht man nicht. Und auch am Schluss wusste ich nicht genau was jetzt alles in den Dokumenten stand.
+
+N09 #00:02:08#
+I: Und die letzte: Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.
+
+N10 #00:02:17#
+B1: Auch eine 2. Bevor ich damit zum Kunden gehe, müsste ich das natürlich alles noch mal gegen die Originaldokumente halten.
+
+N11 #00:02:29#
+I: Okay. Würdest du sagen, du fühlst dich für den Workshop bereit und hast dich genug in das Thema eingearbeitet?
+
+N12 #00:02:47#
+B1: Nein, also grundsätzlich würde ich erst mal sagen, nein. Den Überblick hatte ich zwar schnell, aber man ist trotzdem zu wenig an das Thema herangekommen. Man gibt so ein bisschen zu sehr die Verantwortung ab, ohne dass man richtig ins Boot geholt wird. Deswegen eher nicht.
+
+N13 #00:03:11#
+I: Okay. Du hattest beim Vertrauen ja eine 2 gegeben. Hat das auch damit zu tun, oder vertraust du darauf, dass das Tool die Dokumente richtig zusammengefasst und nichts vergessen hat?
+
+N14 #00:03:27#
+B1: Nee, vertraue ich nicht drauf. Ich würde sagen, vielleicht inhaltlich bei dem, was keine Widersprüche hat, das ist höchstwahrscheinlich sehr gut wiedergegeben, vielleicht auch besser wie bei mir. Aber bei Widersprüchen, da es keine Einsicht gewährt, wie der Denkvorgang oder der Denkprozess da ist, weshalb ich die 60 %, sag ich mal, abziehen würde und dann irgendwie bei 40 % wäre, zumindest was inhaltliche Themen angeht, an denen nicht zu rütteln ist.
+
+N15 #00:04:05#
+I: Okay, verstehe. Dann zu deinem Vorgehen: Wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das AI-Tool? Also hast du erst die Dokumente selber gelesen, oder bist du direkt mit der KI gestartet?
+
+N16 #00:04:27#
+B1: Also, ich habe die Dokumente davor überflogen. Dann habe ich es der KI gefüttert mit den Dokumenten und prinzipiell dann eigentlich die Führung übergeben. Wo dann natürlich auch das Problem war, dass wenig Teamarbeit und da kaum Nachfragen kam, sondern sehr viel einfach ohne konkrete Rückfragen an mich ausgeführt wurde.
+
+N17 #00:05:02#
+I: Okay, also du würdest sagen, die KI hat einfach mal gemacht und das Artefakt erstellt, ohne vorher noch mal viel mit dir in Austausch zu gehen.
+
+N18 #00:05:13#
+B1: Ja, fast gar nicht.
+
+N19 #00:05:18#
+I: Alles klar. Gab es eine Stelle, an der du einen Vorschlag des AI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N20 #00:05:32#
+B1: Nein, eigentlich nicht. Ich habe nichts rausgenommen oder umgeschrieben, das ist so stehen geblieben, wie es kam.
+
+N21 #00:05:42#
+I: Okay. Wenn die KI dann Dokumente erstellt hat oder auch gewisse Aspekte entdeckt hat, die irgendwie widersprüchlich oder unklar waren, hast du das in den Unterlagen noch mal geprüft, oder bist du dann noch mal in die Diskussion gegangen, oder hast du das erst mal einfach so übernommen?
+
+N22 #00:06:02#
+B1: Ich habe es erst mal übernommen, und dann habe ich mit der KI darüber nachgeschaut, also nicht manuell. Also in der Kommunikation einfach Gegenfragen gestellt: „Erklär mir das nochmal" und so weiter und so fort.
+
+N23 #00:06:18#
+I: Ja, verstehe. Und ganz kurz noch eine Sachfrage: Hast du Claude irgendwann korrigiert?
+
+N24 #00:06:27#
+B1: Korrigiert nicht, nein. Dafür hätte ich ja wissen müssen, dass etwas falsch ist, und so tief war ich in den Dokumenten gar nicht drin.
+
+N25 #00:06:42#
+I: Gut, dann noch eine andere Frage: Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat? Also wo du sagst: „Ah, okay, krass, jetzt habe ich das noch mal anders wahrgenommen, als ich es beim Überfliegen oder ursprünglich gedacht hatte.“
+
+N26 #00:07:05#
+B1: Ursprünglich, als ich es mir selber durchgelesen hatte, oder? Wie lange meinst du?
+
+N27 #00:07:12#
+I: Nein, also einfach allgemein, ob die KI dich zum kritischen Hinterfragen irgendwann angeregt hat, dass du gesagt hast: „Ah, okay, so habe ich das jetzt noch gar nicht betrachtet, da ist mir jetzt was aufgefallen", und falls ja, was war der Auslöser dafür? War es irgendwie eine Rückfrage von dem Tool, oder war es irgendwas, was du im Dokument dann entdeckt hast?
+
+N28 #00:07:37#
+B1: Nein, also zum kritischen Hinterfragen hat die KI eigentlich überhaupt nicht angesetzt, würde ich sagen. Es wurde sehr viel einfach (...) ja, nicht zusammengedichtet, aber sehr viel zusammengetragen, ohne wirklich grundsätzlich kritisch zu hinterfragen, also sehr viele Annahmen getroffen und dann einfach ausgegeben. Also, es war jetzt nicht so ein Zeitpunkt, wo ich dachte, okay, jetzt schau hier noch mal genauer nach, das war gar nicht der Fall. Also hatte ich nicht diesen Punkt.
+
+N29 #00:08:15#
+I: Okay, so hat es einfach zusammengefasst und erstellt und jetzt nicht dir dabei geholfen, irgendwie das Thema besser zu verstehen.
+
+N30 #00:08:22#
+B1: Nein. Nein, also nur auf Nachfragen. Ja, hey, von wegen, was heißt denn das und das hier? Aber jetzt grundsätzlich beim Einlesen, sag ich mal, oder beim Kennenlernen von dem Thema und von dem Projekt gar nicht.
+
+N31 #00:08:46#
+I: Verstehe. Hat das AI-Tool deine Einschätzungen eher bestätigt oder eher infrage gestellt?
+
+N32 #00:08:54#
+B1: Eher bestätigt. Infrage gestellt wurde da, wie gesagt, nichts. Was ich beim Überfliegen im Kopf hatte, kam im Prinzip so wieder raus, nur ausführlicher.
+
+N33 #00:09:08#
+I: Okay. Hättest du dir einen Widerspruch gewünscht, oder hätte das gestört?
+
+N34 #00:09:16#
+B1: Gewünscht, ja. Solange das nicht bei jeder Kleinigkeit kommt, hätte mich das nicht gestört, im Gegenteil, weil ich mich dann mit den Punkten mehr hätte auseinandersetzen müssen.
+
+N35 #00:09:30#
+I: Alles klar, dann zum AI-Tool selbst: Was hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N36 #00:09:43#
+B1: Geholfen hat mir, dass relativ schnell eine Struktur da war. Für alle drei Sachen hatte ich nach kurzer Zeit ein Gerüst, mit dem man arbeiten kann, gerade die Stakeholder-Analyse war ordentlich aufgebaut. Gefehlt hat mir (...) also, die Begründung dahinter. Wenn da zu einem Stakeholder steht, der ist eher skeptisch, dann will ich wissen, woran sie das festmacht, und das stand da nirgends.
+
+N37 #00:10:15#
+I: Okay. Wie hast du die Menge an Text wahrgenommen, die dann auf einmal auf deine Anfragen kam? Also, konntest du das gut verarbeiten, oder war es eher so, dass es irgendwie erschlagend war?
+
+N38 #00:10:28#
+B1: Es ist meistens sehr erschlagend, also bis man dann dreimal noch mal sagt: „Okay, hey, hier, ich hätte das noch gerne kürzer und prägnanter und gib mir wirklich nur die wichtigsten Insights." Aber jetzt, wenn ich auf den ersten Prompt schaue, ist es extrem erschlagend, viel zu große Informationsflut.
+
+N39 #00:10:54#
+I: Gut. Wenn in den Unterlagen etwas fehlte oder sich widersprach: Hat Claude das offen gelassen oder selbst entschieden, und was hast du dann gemacht?
+
+N40 #00:11:08#
+B1: Zum größten Teil selbst entschieden. Manches ist bei den offenen Punkten als Frage für den Workshop gelandet, aber an anderen Stellen hat sie sich einfach eine Variante rausgesucht und damit weitergeschrieben, ohne dass irgendwo stand, das ist noch nicht geklärt. Bei ein paar Stellen habe ich dann nachgehakt, warum sie das so annimmt. Aber bei allen? Nee, da habe ich nicht so drauf geachtet.
+
+N41 #00:11:40#
+I: Und hättest du lieber gehabt, dass das AI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N42 #00:11:50#
+B1: Nachfragen. Dann weiß ich wenigstens, an welcher Stelle überhaupt etwas entschieden wurde.
+
+N43 #00:11:57#
+I: Okay, verstehe. Hat das AI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N44 #00:12:09#
+B1: Schwer zu sagen, so ein bisschen beides. Die Widersprüche hat sie schon rausgearbeitet, das geht ja Richtung Problem. Aber die Plattform selbst hat sie an keiner Stelle angezweifelt, die stand im Scope von Anfang an als Ziel drin. Gemerkt habe ich das eigentlich erst jetzt, wo du fragst.
+
+N45 #00:12:35#
+I: Ja, okay. Hättest du lieber früher über die Lösung gesprochen?
+
+N46 #00:12:43#
+B1: Nee, eher nicht. Die Lösung kommt in Projekten meistens viel zu früh auf den Tisch, das erlebe ich bei Kunden andauernd. Grundsätzlich will ich erst mal verstehen, wo es wirklich hakt.
+
+N47 #00:13:00#
+I: Gut. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, wo du dich in so ein Thema einarbeiten musst, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N48 #00:13:19#
+B1: Also, in erster Linie sehr viel mehr Kommunikation, sodass das Thema oder das Projekt an einen rangetragen wird, weil sehr viel aus Bequemlichkeit einfach übernommen wird: „Okay, hey, ich vertraue dem Ganzen, was da jetzt ausgegeben wird." Da würde ich auf jeden Fall sagen, sehr viel mehr kritische Reflexion und auch Nachfragen an den Menschen in dem Fall, also an mich jetzt. Wäre so der Hauptaspekt, den ich sehen würde. Und was wäre noch relevant? Nee, ich glaube, das wäre so der wichtigste Punkt, den ich auf jeden Fall sehen würde.
+
+N49 #00:14:03#
+I: Also, dass du ein bisschen mehr abgeholt wirst und nicht einfach nur die Aufgabe abgibst, sondern ein bisschen mehr involviert bist, noch.
+
+N50 #00:14:10#
+B1: Genau, einfach, ja, genau, und nicht alles auf einmal erstellt wird, sondern Schritt für Schritt iterativ an das Thema rangegangen wird, weil man dann natürlich auch viel mehr mitnimmt für sich selber und dann natürlich die Möglichkeit hat, kritisch zu hinterfragen: „Okay, das macht vielleicht keinen Sinn, weil du das und das gesagt hast."
+
+N51 #00:14:32#
+I: Okay. Dann zum Abschluss: Vorhin hast du gesagt, du erwartest von einem KI-Tool vor allem, dass du dir Dokumente gut zusammenfassen lassen und Fragen dazu stellen kannst und dass die Ausgabe übersichtlich ist und nicht ellenlang. Wie siehst du das jetzt, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N52 #00:14:58#
+B1: Also, Zusammenfassen und Fragen stellen, das hat gut geklappt, da ist es auch nicht anders als bei den Tools, die ich sonst im Alltag habe. Beim Priorisieren weniger. Da stand vieles gleichwertig nebeneinander, und was davon für den Workshop wirklich zählt, musste ich dann doch selber rausfiltern. Und übersichtlich war es am Anfang nicht, darüber haben wir ja vorhin gesprochen.
+
+N53 #00:15:27#
+I: Alles klar. Würdest du das AI-Tool in einem echten Projekt einsetzen? Wofür, und wofür nicht?
+
+N54 #00:15:37#
+B1: Ja, schon, aber für Vorarbeiten. Also Meetingprotokolle oder lange Dokumente zusammenfassen, eine erste Gliederung für ein Konzept, sag ich mal, solche Sachen. Die Workshop-Vorbereitung an sich, da würde ich mich nicht drauf verlassen. Und echte Kundenunterlagen würde ich da auch nicht ohne Weiteres reinladen, das müsste man vorher mit dem Datenschutz klären.
+
+N55 #00:16:05#
+I: Gut. Gibt es noch etwas, das du mir sagen möchtest?
+
+N56 #00:16:13#
+B1: Ach so, nee, eigentlich nicht. Fand es ganz interessant, mal so bewusst draufzuschauen, wie ich mit der KI arbeite.

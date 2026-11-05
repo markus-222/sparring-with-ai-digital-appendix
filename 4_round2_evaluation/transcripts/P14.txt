@@ -1,0 +1,194 @@
+Interview-ID: [P14]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:05#
+I: Und genau, es wäre cool, wenn du vielleicht zum Start einfach kurz sagen könntest, was du für eine Rolle hast, also was deine Berufserfahrung ist und wie lange du schon im Feld Requirements Engineering oder frühe Projektphasen unterwegs bist.
+
+V02 #00:00:22#
+B1: Okay, genau. Also, ich bin bei [Arbeitgeber] als Requirements Engineer/Scrum Master, etwas auch Tester seit [Jahr], also jetzt seit fast acht Jahren, und davor habe ich etwas mehr als zwei Jahre als Business Analyst beziehungsweise Requirements Engineer, auch schon als Consultant, als externer Berater bei [Kunde B] gearbeitet.
+
+V03 #00:00:52#
+B1: Genau, und jetzt mache ich weniger Scrum durch die ganze KI-Arbeit und bin jetzt eigentlich nur noch als Requirements Engineer tätig.
+
+V04 #00:01:03#
+I: Du hast die KI-Arbeit schon angesprochen. Wie oft würdest du sagen, nutzt du KI-Tools bei deiner Arbeit? Also, schwankt von nie zu täglich.
+
+V05 #00:01:15#
+B1: Immer wenn ich arbeite eigentlich täglich, ja.
+
+V06 #00:01:21#
+I: Okay, ja, wenn du dich jetzt in unbekannte Infos einarbeiten musst, die irgendwie analysieren und aufbereiten musst, was erwartest du dir da an Unterstützung von dem KI-Tool? Also, was sind deine, ja, Erwartungen, was du als Output bekommst oder was es dir bringt.
+
+V07 #00:01:42#
+B1: Kommt natürlich immer darauf an, wie ich die KI anspreche. Shit in, Shit out. Normalerweise erhoffe ich mir eine Zusammenfassung in einer Sprache, die mir verständlich ist. Genau, und ich kann das ja durch verschiedenen Input selbst beeinflussen. Also durch Screenshots, Copy and Paste, durch irgendwelche Transkripte. Genau, und ich hoffe, dass ich mir dadurch einfach Recherche, die ich sonst selber durchführen würde, erspare. Also im Prinzip ist es für mich ein Tool, um an Wissen zu kommen und es zu verarbeiten.
+
+V08 #00:02:22#
+I: Okay, also einfach viele Informationen schnell verarbeiten.
+
+V09 #00:02:27#
+B1: Yep, genau.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:03#
+I: Zum Einstieg würde ich gerne wissen: Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:12#
+B1: Also zum einen glaube ich, dass das Budget nicht geklärt ist, weil also was ich gelesen habe, ist nur die Hälfte von dem eigentlich benötigten Budget schon durchgewunken und die andere Hälfte wurde noch gar nicht abgesegnet.
+
+N03 #00:00:28#
+B1: Und der eigentliche Bedarf nach Weiterbildung hat eigentlich einen anderen Ursprung als der, also als er besprochen wurde. Also das Hauptproblem ist, glaube ich, eher, dass Ausschreibungen nicht gewonnen wurden, weil Nachweise gefehlt haben, weil das Wissen nicht da war. Daraus folgend mussten sie dann externe Mitarbeiter beauftragen, was wieder Geld gekostet hat, und die Menschen in der Firma waren unmotiviert und haben die Firma verlassen.
+
+N04 #00:01:01#
+B1: Genau, und das Problem bei der Weiterbildung soll, glaube ich, sie wollen eigentlich ein LMS einführen und hoffen, sie können damit ihr gesamtes Problem lösen. Aber ich glaube, dass eigentlich nur Teile von ihrem Weiterbildungsproblem damit gelöst werden.
+
+N05 #00:01:26#
+I: Also die Firma hat vor, einfach, wir führen eine Plattform ein, dann sind alle Probleme gelöst, aber du würdest sagen, das ist nicht der Fall.
+
+N06 #00:01:40#
+B1: Ja genau, also zumindest nicht in 100 %, sondern nur in einem gewissen Anteil.
+
+N07 #00:01:52#
+I: Ja, verstehe. Ich würde jetzt noch ein paar, so vier, kurze Fragen stellen, und du müsstest die einfach kurz auf einer Skala von 1 bis 5 beantworten.
+
+N08 #00:02:07#
+I: 1 ist, es trifft überhaupt nicht zu, und 5 ist, es trifft voll zu. Die erste Aussage wäre: „Durch das AI-Tool habe ich den Fall schneller erfasst.“
+
+N09 #00:02:21#
+B1: Ja, 5. Ich bin dadurch auf jeden Fall schneller gewesen.
+
+N10 #00:02:29#
+I: Okay, dann: „Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N11 #00:02:40#
+B1: 4.
+
+N12 #00:02:42#
+I: Hast du da vielleicht ein Beispiel dafür?
+
+N13 #00:02:48#
+B1: Ja. Also gerade bei der, bei der Stakeholder-Analyse fand ich besonders cool im Ergebnis von der KI, dass eingeschätzt wurde, wie hoch das persönliche Interesse von dem einzelnen Stakeholder ist und ob er dem Thema positiv, neutral oder negativ gestimmt ist. Das fand ich ganz wichtig, weil wenn du dann in Kundengespräche in das Projekt reingehst, dann kannst du bei den Menschen direkt zuordnen, ob du die erst noch für dich gewinnen musst oder nicht. Und also, das fand ich eigentlich eine ganz coole Sache. Weiß ich nicht, ob ich mir das ohne die KI auch so überlegt hätte. Zumindest nicht in der kurzen Zeit.
+
+N14 #00:03:29#
+B1: Und die offenen Punkte, finde ich, sind auch sehr umfangreich. Also, da hätte ich garantiert auch nicht alles auf dem Schirm gehabt.
+
+N15 #00:03:42#
+I: Genau, okay. Der nächste Satz ist: „Ich wusste jederzeit, was in meinem Dokument steht und was sich daran geändert hat.“
+
+N16 #00:03:54#
+B1: (...) Da würde ich eine 3 geben. Also was grob in den drei Dateien steht, wusste ich schon, aber nicht bis in jeden einzelnen Punkt rein. Wenn du mich jetzt fragst, was genau bei einem bestimmten Stakeholder steht, müsste ich nachschauen.
+
+N17 #00:04:24#
+I: Ja. Wie würdest du bewerten: „Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.“ Nach Skala 1 bis 5.
+
+N18 #00:04:37#
+B1: 4. Wie gesagt, ich denke, dass es grundsätzlich passt. Die KI sagt ja auch selber, wo es an die Grenzen gekommen ist. Also, dass es irgendwie nur Schätzungen sind bei manchen Zahlen und so und dass man das noch prüfen muss. Und das habe ich auch noch mal überflogen und ich, also ich hatte den Eindruck, gerade wenn ich so Punkte durchlese, wo die KI selber schon sagt, dass sie da nicht sicher ist und dass ich das noch mal prüfen muss, gibt mir noch mal Vertrauen, dass der Output glaubwürdig ist.
+
+N19 #00:05:15#
+I: Okay, verstehe. Dann zum Vorgehen: Wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das KI-Tool?
+
+N20 #00:05:29#
+B1: Also sagen wir es so, ich habe die Rahmenbedingungen gegeben, also das initiale Dokument habe ich mehr oder weniger rüberkopiert, zumindest, ja, sagen wir, die ersten zwei Drittel. Und dann habe ich mich mehr oder weniger so ein bisschen darauf verlassen, wenn ich die ganzen anderen Dokumente reinkopiert habe, was an Output kommt. Und dann habe ich immer so ein bisschen quergelesen, um zu prüfen, ob der Output zum Ergebnis passt. Von daher, ich würde sagen, fifty-fifty. Also, ich habe immer mal wieder Input gegeben und habe verifiziert und dann habe ich ein Ergebnis bekommen. Ich würde jetzt nicht sagen, dass ich fremdbestimmt war, aber ich würde jetzt auch nicht sagen, dass ich die KI die ganze Zeit angeleitet habe, weil es so komplex, also es ist, glaube ich, ein Fall, den kann die KI ganz gut überschauen.
+
+N21 #00:06:35#
+I: Ja. Hast du erst mal einfach alles selber überflogen und gelesen oder hast du direkt angefangen, dir das zusammenfassen zu lassen?
+
+N22 #00:06:51#
+B1: Also ich habe das erste Dokumente reinkopiert und habe kurz beschrieben, worum es geht und was ich als Ergebnis haben möchte. Dann habe ich noch mal Rückfragen bekommen, wie der Output ungefähr strukturiert sein soll, das fand ich gut. Und dann habe ich da noch mal ein bisschen so die Rahmenbedingungen mitgegeben. Eigentlich hat er dann nur gefragt, ja, wenn er die drei Artefakte erstellen soll, dann braucht er die Ausgangsdokumente. Dann habe ich die reinkopiert, dann hat er die verarbeitet. Und dann hat er mich noch gefragt, ob er irgendwas anpassen soll, weil es stichpunktartig sein soll. Ich fand die MDs schon sehr umfangreich, weil es schon relativ viel auch zu lesen ist.
+
+N23 #00:07:44#
+I: Okay. Gab es eine Stelle, an der du einen Vorschlag des KI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N24 #00:07:58#
+B1: Nee, wüsste ich jetzt nicht. Inhaltlich habe ich da nichts rausgeschmissen oder umgeschrieben.
+
+N25 #00:08:06#
+I: Genau. Soweit noch nicht gesagt, ganz kurz ein paar Fakten: Hast du Text übernommen, ohne ihn an den Unterlagen zu prüfen? Und hast du das KI-Tool mal korrigiert?
+
+N26 #00:08:22#
+B1: Ja, also zum Teil schon. Bei den Stakeholdern zum Beispiel, da habe ich nicht in den Dokumenten nachgeschaut, ob die Einschätzungen so hinkommen, das habe ich ihm einfach geglaubt. Und korrigiert habe ich ihn nicht.
+
+N27 #00:08:41#
+I: Okay, dann noch eine andere Frage: Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N28 #00:08:53#
+B1: Eigentlich (...) war für mich das Lesen von der Problem-und-Scope-MD. Das war für mich eigentlich das wichtigste Dokument, weil die Dokumente, die ich der KI mitgegeben habe, fand ich eigentlich weniger spannend als den Output, den ich davon bekomme, weil irgendwelche Protokolle oder so zu lesen, habe ich mir gedacht, das kann die KI auch, aber das Problem und den Scope zu lesen mit den ganzen Widersprüchen, das hat mir eigentlich so ein bisschen die Augen geöffnet. Was das ganze Szenario eigentlich bedeutet und warum es irgendwie nicht so wirklich Hand und Fuß hat.
+
+N29 #00:09:36#
+I: Ja, verstehe. Hat das KI-Tool deine Einschätzungen eher bestätigt oder eher infrage gestellt? Gab es irgendwie Einwände, die du so nicht erwartet hättest?
+
+N30 #00:09:50#
+B1: (...) Nee, Einwände nicht. Eher bestätigt, so vom Gefühl her. Wobei ich jetzt auch keine fertigen Annahmen zu dem Fall hatte, die er hätte infrage stellen können, dafür war ich da noch nicht lange genug drin.
+
+N31 #00:10:09#
+I: Okay. Hättest du dir einen Widerspruch gewünscht, oder hätte das gestört?
+
+N32 #00:10:17#
+B1: Gestört hätte mich das nicht. Wenn ich ihm was Falsches reingebe oder mich irgendwo verrenne, dann soll er das ruhig sagen. Aber dass mir das ist jetzt nicht passiert, also das kann ich auch nicht behaupten.
+
+N33 #00:10:35#
+I: Gut, dann zum KI-Tool selbst: Was am KI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N34 #00:10:49#
+B1: Also das ist natürlich Teil von dem Szenario, aber ich fand die Parteien, die in dem ganzen Szenario involviert sind, waren doch einige. Ich denke, also, ich könnte mir vorstellen, dass es realistisch ist. Ist in der Kürze der Zeit ein bisschen (...) Da gibt es irgendwie ein Außencontrolling, irgendwelche Ingenieure, Bereichsleitungen, whatever. Die Details waren mir da aber ehrlicherweise egal. Ich weiß, es ist immer so, dass du irgendwen hast, der das gut findet, und irgendwen, der dagegen arbeitet.
+
+N35 #00:11:37#
+B1: Da fand ich die Tabellenübersichten ganz gut in den MDs, dass du einfach noch mal ein bisschen strukturiert vor dir hast. Sind wirklich alle Punkte abgedeckt oder fehlt irgendwas oder so? Da finde ich eine tabellarische Übersicht hilfreich. Oder auch, dass mir die KI – die hat hier einen Oberpunkt mit Konfliktlinien aufgezeigt, wo verschiedene Stakeholder und auch verschiedene Abteilungen, wo es da vielleicht irgendwie Spannungen geben könnte in dem Projekt. Das fand ich auch noch ganz hilfreich. Gestört hat mich jetzt nichts direkt, außer vielleicht dass der Output relativ viel war.
+
+N36 #00:12:13#
+I: Okay. War die Menge und Länge dessen, was das KI-Tool geliefert hat, für dich handhabbar?
+
+N37 #00:12:23#
+B1: Ja, ging, also ich fand es so ein bisschen an der Grenze von dem was man verarbeiten kann. Ich habe mich dann mehr an den Überschriften entlanggehangelt und nur da genauer reingelesen, wo ich dachte, das wird für den Kick-off wichtig. Den Rest habe ich nur überflogen.
+
+N38 #00:12:45#
+I: Okay, aber es gab jetzt irgendwie keine Funktion oder irgendwas, was du sagst: „Ah, das wäre mir noch hilfreich gewesen, wenn das jetzt auch noch möglich gewesen wäre.“
+
+N39 #00:13:01#
+B1: Also zumindest fällt mir da gerade nichts ein, nee.
+
+N40 #00:13:08#
+I: Okay. Wenn in den Unterlagen etwas fehlte oder sich widersprach: Hat das KI-Tool das offen gelassen oder selbst entschieden, und was hast du dann gemacht?
+
+N41 #00:13:22#
+B1: Was ich spannend fand, war zum Beispiel ein paar Unstimmigkeiten, die die KI gefunden hat, eben das mit dem Budget oder dass das Altsystem eigentlich schon stillgeschaltet wird, bevor das Go-live von dem neuen LMS stattfindet, weil das sind ja alles Zeilen, die man mal schnell überfliegt, aber dass es da eine Diskrepanz gibt, dass es da irgendwie über monatelang gar keine Weiterbildungsmöglichkeit wirklich gibt, fällt einem auf den ersten Blick dann vielleicht nicht gleich auf. Also entschieden hat er da nichts, das finde ich auch gut, dass das dann als offene Frage drin stand, die man im Workshop klären muss. Und so habe ich es auch gelassen, weil das kann ich von außen ja gar nicht beurteilen, das muss der Kunde selber beantworten.
+
+N42 #00:14:18#
+I: Also hättest du lieber gehabt, dass das KI-Tool an der Stelle nachfragt oder selbst entscheidet?f
+
+N43 #00:14:28#
+B1: Weder noch eigentlich. Wenn er mich fragt, kann ich auch nur raten, und wenn er es selbst entscheidet, steht am Ende was im Dokument, was so keiner gesagt hat. Von daher passt das so, einfach als Frage notieren.
+
+N44 #00:14:49#
+I: Okay. Hat das KI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N45 #00:15:01#
+B1: Ich glaube, eher zum Problem. So genau habe ich da aber nicht drauf geachtet. Das LMS war natürlich drin, aber in der, in der Scope-MD standen vorne erst mal die Ursachen, und die Plattform kam relativ weit hinten. Daran würde ich es festmachen.
+
+N46 #00:15:24#
+I: Und hättest du lieber früher über die Lösung gesprochen?
+
+N47 #00:15:31#
+B1: Nicht unbedingt. Über das LMS reden die in der Firma ja schon genug, da muss ich nicht auch noch mit anfangen. Ich denke da sind erstmal andere Themen wichtig.
+
+N48 #00:15:44#
+I: Alles klar. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das KI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N49 #00:16:00#
+B1: Also so was Großes eigentlich nicht. Vielleicht, dass er mir am Ende noch eine Übersicht über alle drei Dateien zusammen macht, so als Tabelle auf einer Seite. Dann hätte ich für den Kick-off was, wo ich schnell draufschauen kann, ohne die ganzen MDs aufzumachen.
+
+N50 #00:16:22#
+I: Okay. Vorhin hast du gesagt, du erhoffst dir von einem KI-Tool vor allem eine Zusammenfassung in einer Sprache, die dir verständlich ist. Wie siehst du das jetzt, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N51 #00:16:48#
+B1: Hat sich eigentlich bestätigt, ja. Internetrecherche war hier gar kein Thema, weil die Infos ja alle schon da waren, aber das Zusammenfassen hat gut geklappt. Und im Vergleich, also ich nutze sonst auch viel Claude, deswegen gab es jetzt keinen großen Unterschied zu sonst. Was ich normalerweise noch machen würde und diesmal nicht gemacht habe, ist, das Ganze noch mal durch ein anderes Modell zu schicken und zu schauen, ob da was anderes rauskommt. Genau.
+
+N52 #00:17:25#
+I: Okay, ja, das wäre es dann eigentlich so weit schon. Zum Abschluss noch die Frage: Gibt es irgendwas, was dir aufgefallen ist, was du gerne noch loswerden willst, was ich jetzt nicht abgefragt habe?
+
+N53 #00:17:38#
+B1: Nee, ich glaube, von mir war es das.

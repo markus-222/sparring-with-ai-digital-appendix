@@ -1,0 +1,215 @@
+Interview-ID: [P13]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:03#
+I: Und zum Start wäre es ganz cool, wenn du vielleicht einfach ganz kurz zwei, drei Sätze über dich sagen kannst, was deine Rolle aktuell ist in deiner Firma und wie lange du schon in den frühen Phasen oder im Requirements Engineering unterwegs bist.
+
+V02 #00:00:18#
+B1: Okay, genau, ich bin in der Energiebranche tätig und da bin ich sozusagen als IT-Lead Flexibilität unterwegs. Das ist ein neues Geschäftsfeld in der Energiebranche, wo es darum geht, spezielle Assets wie zum Beispiel eine PV-Anlage, Elektroauto oder andere Dinge sozusagen dezentral zu steuern. Und dafür braucht es verschiedene Lösungen und da muss man verstehen, was sind eigentlich die Anforderungen, was braucht es, dass man so etwas umsetzen kann.
+
+V03 #00:00:54#
+B1: Oder also heißt, es gibt verschiedene Themenbereiche. Zum Beispiel Richtung Kundenportal: Was möchte man dem Kunden anzeigen? Richtung Daten: Wie integriert man die Daten? Macht man Prognosen oder auch dann Richtung Energiemärkte? Welche Märkte gehen wir an und so weiter und so fort?
+
+V04 #00:01:16#
+I: Okay, verstehe. Und bei deiner?
+
+V05 #00:01:18#
+B1: Genau. Und wie lang war noch die Frage, oder wie lange ich das schon mache? Also, ich würde sagen, Requirements Engineering, das betrifft mich irgendwie seit eh und je. Also, ich habe jetzt 13, 14 Jahre Arbeitserfahrung. Und ich würde sagen, so in den letzten Jahren habe ich immer Requirements Engineering in irgendeiner Form in meinen vorherigen Rollen auch durchgeführt.
+
+V06 #00:01:48#
+I: Okay, cool, genau. Und wie oft nutzt du bei deiner Arbeit irgendwelche KI-Tools, von nie über gelegentlich bis täglich? Was würdest du da sagen?
+
+V07 #00:02:01#
+B1: Ich würde sagen, schon täglich inzwischen, ja.
+
+V08 #00:02:05#
+I: Okay, ja, ich glaube, das geht uns allen so. Genau, und wenn du dir jetzt vorstellst, du bekommst so wie jetzt irgendwelche Dokumente, unbekannte Informationen und musst dich in die einarbeiten und die analysieren und aufbereiten, welche Art von Unterstützung würdest du davon, so KI-Tools, erwarten oder wünschen?
+
+V09 #00:02:29#
+B1: Also, wenn es irgendwie diverse Dokumente sind, natürlich, dass ich irgendwie eine Zusammenfassung erhalte mit den wichtigsten Punkten und was der Auftrag ist oder was die Themen sind. Genau, wenn ich so einen Auftrag erhalten würde.
+
+V10 #00:02:50#
+B1: Was ich aber in der Zwischenzeit auch tue oder mache, ist, wenn ich irgendwie in Form von Workshops Requirements oder basierend zum Beispiel auf Use Cases definiere, dann habe ich so einen Skill gebaut, der mir eigentlich basierend auf allen Informationen bereits Requirements definieren kann. Und die kann ich dann eigentlich wie noch refinen und nutzen bereits als Feature, Epic Feature und dann auch theoretisch Richtung Stories.
+
+V11 #00:03:21#
+I: Okay, cool, das reicht mir jetzt auch erst mal für den Start.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:04#
+I: Genau, als erste Einstiegsfrage: Du hast dich ja jetzt eine halbe Stunde damit beschäftigt. Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:18#
+B1: Einen Moment. (...) Ich denke, es sind mehrere Probleme, die ich jetzt identifiziert hätte. Ich hätte jetzt nicht gesagt, das ist nur ein Problem, so wie ich das verstanden habe.
+
+N03 #00:00:37#
+B1: Also, Fluktuationsherausforderungen, die Leute nutzen nicht die Zeit für Weiterbildungsthemen, die man eigentlich gerne möchte. Und die Weiterbildungsthemen sind nicht in einem System zu finden, sondern in mehreren. Ein Teil ist auf SharePoint, ein Teil ist da, also sehr fragmentiert.
+
+N04 #00:00:58#
+B1: Dann hätte ich jetzt spontan gesagt, gibt es noch ein paar Themen, bevor man überhaupt über Requirements sprechen kann. Was ist jetzt genau das Budget, das man dafür kriegt, was ist genau der Scope, der Umfang, die Metriken die man definiert, was bedeuten die genau, was bedeutet das, wenn man das nicht erreicht. (...) Also, es gibt da sehr viele Unterfragen. Aber im Kern: Man möchte die Leute weiterbilden, und mit der aktuellen Lösung scheint es nicht zu funktionieren.
+
+N05 #00:01:39#
+I: Ja, okay. Ich habe jetzt noch vier Kurzbewertungen, da müsstest du mir bitte einfach eine Zahl zwischen 1 und 5 sagen. 1 bedeutet, es trifft überhaupt nicht zu, und 5 bedeutet, es trifft voll zu. Und dann gern noch kurz, warum. Der erste Satz wäre: „Durch das AI-Tool habe ich den Fall schneller erfasst.“
+
+N06 #00:02:07#
+B1: Ich denke schon, also eine 4. Aber ich glaube nicht, dass ich das wirkliche Problem zu 100 % erfasst habe. Ich habe die Zusammenfassung schon durchgelesen und grob verstanden, aber ich habe mich noch gefragt, was das eigentlich genau für ein Workshop sein soll, weil bevor man über Requirements spricht, sind da noch ein paar andere Dinge zu klären, habe ich das Gefühl.
+
+N07 #00:02:39#
+B1: Also, man kommt so rein, man versteht so grob, um was es geht. Ich glaube aber schon, dass es nochmals notwendig wäre, in so einem Workshop zu verstehen, was wirklich das Problem ist. Den ersten Workshop würde ich sehen als Problemidentifikation nochmals, also Aufrollen und Scope-Definition, um diese offenen Fragen zu klären.
+
+N08 #00:03:06#
+I: Ja, also du würdest sagen, du hast jetzt den Überblick, aber noch kein tiefes Verständnis, verstehe ich.
+
+N09 #00:03:17#
+B1: Ja, genau.
+
+N10 #00:03:21#
+I: Gut, der nächste Satz ist: „Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N11 #00:03:32#
+B1: (...) Es hilft sicher. Ich würde sagen, eine 4 vielleicht. Also, ich habe mir schon Gedanken gemacht, wie ich diesen Workshop angehen würde, und basierend darauf, wie es die Zusammenfassung aufgeteilt hat, konnte ich relativ schnell sagen, welche Themen im Workshop behandelt werden müssten. Ohne diese Informationen hätte ich mir natürlich auch was überlegt, aber es hilft zumindest mal, die Struktur zu definieren.
+
+N12 #00:04:06#
+I: Okay. Der dritte Satz: „Ich wusste jederzeit, was in meinem Dokument steht und was sich daran geändert hat.“
+
+N13 #00:04:17#
+B1: Eine 4, würde ich sagen. Ich habe ja jeweils konkret gesagt, was rein soll, und mir das Resultat dann angeschaut. Bei den einzelnen Teilen war das klar. Nur am Schluss, als es um die drei Dokumente ging, habe ich nicht mehr alles im Detail gelesen, da wurde es dann zeitlich eng.
+
+N14 #00:04:43#
+I: Und der letzte Satz: „Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.“
+
+N15 #00:04:53#
+B1: Hm, eine 3. Als Grundlage, um in den ersten Workshop zu gehen, ja. Aber bevor ich das irgendwie weitergebe, zum Beispiel an den Auftraggeber, würde ich das nochmals gegenprüfen. Gerade bei Zahlen, da möchte ich schon sicher sein, dass die stimmen.
+
+N16 #00:05:15#
+I: Okay, danke. Wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das AI-Tool?
+
+N17 #00:05:28#
+B1: Ich habe direkt gesagt, fassen wir das zusammen. Zuerst mal einen Überblick erhalten, was das Problem ist, was der Scope ist, was die offenen Themen sind, wer die Stakeholder sind, so mal als Gruppe. Übersicht, und dann habe ich die Details mitgegeben. So, und jetzt teilen wir das so auf oder machen wir das so.
+
+N18 #00:05:56#
+B1: Und ich denke, ich hatte das in der Hand. Also, ich konnte durch mein Wissen in diesem Bereich konkret sagen: „Erstelle mir die Stakeholder-Matrix basierend auf diesen Kriterien, also zum Beispiel Einfluss, Wissen. Und sag noch als Farbe, wie wichtig diese Person ist.“ Und konnte da schnell ableiten, wen ich informieren muss, wen ich eng beiziehen muss, wen ich befragen muss.
+
+N19 #00:06:27#
+B1: Auch bei der Problemdefinition habe ich einfach mal gesagt: „Fassen wir das mal zusammen, das Problem und den Scope.“ Das hat er dann gemacht, und ich habe dann noch als Input mitgegeben, er soll das mal in Domänen aufteilen. Also, welche Domänen müssten eigentlich genau angeschaut werden? Da habe ich schon das Gefühl, dass ich das in der Hand hatte. Zumindest, was zu tun ist.
+
+N20 #00:07:00#
+I: Ja, verstehe. Gab es eine Stelle, an der du einen Vorschlag des AI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N21 #00:07:14#
+B1: Abgelehnt eigentlich nicht. (...) Ich habe eher noch ergänzt. Bei den offenen Punkten zum Beispiel, da war mir die Liste zu lang. Da habe ich gesagt, er soll das priorisieren, also was muss vor dem Workshop geklärt sein und was kann später kommen. Aber dass ich gesagt hätte, das stimmt so nicht, das gab es eigentlich nicht.
+
+N22 #00:07:45#
+I: Okay. Und bei dem, was du übernommen hast: Hast du das an den Unterlagen geprüft, oder eher darauf vertraut?
+
+N23 #00:07:57#
+B1: Eher vertraut. Die Zeit war jetzt auch etwas, wie sagt man, limitiert. Ich hatte mir zum Beispiel nicht die Zeit genommen, die Originaldokumente durchzulesen. Darum habe ich gesagt, fass es zusammen, um möglichst schnell reinzukommen.
+
+N24 #00:08:16#
+I: Gut. Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N25 #00:08:26#
+B1: Also, eben so kleinere Themen, die klein scheinen, aber doch sehr wichtig sind, wie zum Beispiel das Thema Budget. Irgendwo ist die Aussage 250.000 Euro und dann sagt das Controlling aber irgendwie 100, 70 oder so, wenn ich das richtig im Kopf habe, und dann je nach Business Case. Und das sind zum Beispiel Themen, die muss man schon vorgängig klären, bevor man mit was loslegt. Oder zumindest, wenn man sagt, das Budget ist gesetzt, dann ändert sich der Scope.
+
+N26 #00:09:05#
+I: Wie bist du darauf gekommen? Hat dich das KI-Tool darauf aufmerksam gemacht: „Hey, hier gibt es ein Problem“, oder hast du das selber in den Dokumenten entdeckt?
+
+N27 #00:09:20#
+B1: Nein, also ich habe es bei der Zusammenfassung beim Durchlesen entdeckt und dachte: „Okay, das ist so ein Problem, das man lösen muss vor den Requirements.“
+
+N28 #00:09:35#
+I: Aber es war jetzt nicht so, dass es direkt gesagt hat: „Hey, hier ist ein Widerspruch, achte da mal bitte drauf.“
+
+N29 #00:09:48#
+B1: Es hat schon ein paar Punkte zusammengefasst für Widersprüche. Das hat es getan. Ich bin mir jetzt gar nicht sicher, ob ich das da gelesen habe. (...) Ich kann auch kurz nachschauen. (...)
+
+N30 #00:10:10#
+B1: Ja, doch, doch, die KI hat mich darauf aufmerksam gemacht bei den Widersprüchen. Also, es gibt da einiges an Widersprüchen.
+
+N31 #00:10:22#
+I: Okay, verstehe. Hat das AI-Tool deine Einschätzungen eher bestätigt oder eher infrage gestellt?
+
+N32 #00:10:31#
+B1: (...) Es hat mir leider nicht widersprochen. Ich habe gesagt, was es tun soll, und dann hat es einfach die Aufgabe ausgeführt und kurz gesagt, was es getan hat, und das Resultat geschickt. Aber es hat nicht wirklich hinterfragt, wenn ich irgendwas gesagt habe.
+
+N33 #00:10:56#
+I: Okay. Hättest du dir einen Widerspruch gewünscht, oder hätte das gestört?
+
+N34 #00:11:04#
+B1: Gewünscht, ja. Ich komme ja nicht aus dem HR oder aus der Weiterbildung. Wenn ich da mit einer falschen Annahme reingehe, merke ich das selber vielleicht gar nicht. Gestört hätte es mich nicht. In einem Workshop wird man ja auch hinterfragt, das gehört dazu.
+
+N35 #00:11:27#
+I: Alles klar. Dann noch zum AI-Tool selbst: Was am AI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N36 #00:11:41#
+B1: (...) Geholfen hat vor allem, dass es so schnell geht. Ich gebe eine Anweisung und habe nach einer Minute eine Matrix oder eine Übersicht, die ich sonst selber zusammenstellen müsste.
+
+N37 #00:12:00#
+B1: Was helfen würde, aber ich denke, das ist eben Teil vom Prompt: wenn es sich noch ein bisschen kürzer halten könnte. Dann würde es wahrscheinlich helfen.
+
+N38 #00:12:15#
+B1: Genau, also ich glaube, es sind diese zwei Dinge: kurz halten und das Wichtigste zusammenfassen. Es hat zwar schon so eine Kurzzusammenfassung gemacht und dann die lange Übersicht, aber trotzdem vielleicht nochmals: Was sind jetzt die Kernpunkte?
+
+N39 #00:12:35#
+I: Okay. Du hast vorhin die Widersprüche angesprochen. Wenn in den Unterlagen etwas fehlte oder sich widersprach: Hat das AI-Tool das offen gelassen oder selbst entschieden, und was hast du dann gemacht?
+
+N40 #00:12:52#
+B1: Offen gelassen, würde ich sagen. Beim Budget hat er zum Beispiel beide Zahlen hingeschrieben, aber nicht gesagt, welche jetzt gilt. Und ich habe das dann als offenen Punkt für den ersten Workshop mitgenommen, zusammen mit dem Scope.
+
+N41 #00:13:12#
+I: Und hättest du lieber gehabt, dass das AI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N42 #00:13:22#
+B1: Nachfragen, oder eben offen lassen, so wie er es gemacht hat. Beim Budget kann die KI das ja gar nicht entscheiden, das muss der Auftraggeber sagen. Wenn er da einfach eine Zahl nimmt, dann plant man nachher mit dem falschen Scope.
+
+N43 #00:13:44#
+I: Gut. Hat das AI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N44 #00:13:56#
+B1: Eher zum Problem. Die Plattform kam in der Zusammenfassung schon vor, aber mehr als eine Option, nicht als gesetzt. Und bei den Domänen war die Plattform dann auch nur eine von mehreren, neben den Inhalten oder der Zeit, die die Leute für Weiterbildung haben.
+
+N45 #00:14:19#
+I: Und hättest du lieber früher über die Lösung gesprochen?
+
+N46 #00:14:26#
+B1: Nein, eigentlich nicht. Wie gesagt, da sind vorher noch andere Dinge zu klären. Über die Lösung kann man dann in einem zweiten Schritt reden.
+
+N47 #00:14:40#
+I: Okay. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N48 #00:14:55#
+B1: (...) Wie vorhin gesagt, dass es mich mehr hinterfragt, also zum Beispiel, macht die Matrix überhaupt Sinn oder nicht?
+
+N49 #00:15:09#
+B1: Und vielleicht auch eine Empfehlung: Was sollte man im Workshop zuerst machen? Das wären so die Dinge.
+
+N50 #00:15:20#
+I: Ja, cool. Vorhin hast du gesagt, du erwartest von einem KI-Tool vor allem eine Zusammenfassung mit den wichtigsten Punkten und was der Auftrag ist. Wie siehst du das jetzt, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N51 #00:15:41#
+B1: Also, die Zusammenfassung hat er gut gemacht. Ob ich mit den Dokumenten selbst weiter gewesen wäre, kann ich leider nicht sagen, die habe ich ja vorher nicht gelesen. Aber ich glaube, um so einen Überblick zu erhalten, hilft es.
+
+N52 #00:16:02#
+B1: Ich habe aber trotzdem das Gefühl, es sind sehr viele Themen drin, die hat man, glaube ich, nicht in einer halben Stunde verstanden. Es sind sehr viele Leute involviert, das klingt nach einem größeren Projekt. Da braucht es entsprechend auch die gewisse Zeit, um das Verständnis aufzubauen, die Probleme zu verstehen, den Scope zu verstehen, bevor man dann weitermacht. Die Zeit hatte ich in dieser halben Stunde nicht.
+
+N53 #00:16:36#
+B1: Und verglichen mit meinen eigenen Tools: Bei meinem Skill ist schon festgelegt, wie die Requirements aufgebaut sein sollen. Hier musste ich das alles selber im Prompt sagen. Das geht auch, aber es braucht mehr Zeit.
+
+N54 #00:16:55#
+I: Okay, verstehe. Würdest du das AI-Tool in einem echten Projekt einsetzen? Wofür, und wofür nicht?
+
+N55 #00:17:05#
+B1: Ja, auf jeden Fall für die Vorbereitung. Also Zusammenfassungen, eine Stakeholder-Matrix, die Struktur für einen Workshop, da sicher. Und für die Requirements selbst würde ich eher meinen eigenen Skill nehmen, da ist die Struktur schon drin.
+
+N56 #00:17:24#
+I: Gut. Das wären eigentlich schon meine Fragen. Gibt es noch etwas, das du mir sagen möchtest?
+
+N57 #00:17:34#
+B1: Nein, ich glaube, das war es. Ich hoffe, ich konnte dir helfen.
+
+N58 #00:17:42#
+I: Ja, auf jeden Fall. Vielen, vielen Dank, dass du dir die Zeit genommen hast.

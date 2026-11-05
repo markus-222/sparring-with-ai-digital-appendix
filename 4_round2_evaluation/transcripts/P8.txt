@@ -1,0 +1,338 @@
+Interview-ID: [P8]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:03#
+I: Wie beim letzten Mal wäre es cool, wenn du einfach noch mal ganz kurz zusammenfassen könntest, was deine Rolle ist und wie lange du schon in den frühen Phasen oder im Digital Design unterwegs bist.
+
+V02 #00:00:17#
+B1: Ja, ich bin [Vorname]. Ich bin aktuell Abteilungsleiter für die Gilde für frühe Produktentdeckung und Strategie. Bin aktuell nicht direkt in Projekten, war aber die letzten 19 Jahre im Digital Design, angefangen von Webdesign und Webentwicklung, Kombination, später zu Konzeption, dann wieder mehr, ein bisschen Frontend-Entwicklung und weiter die Konzeption Richtung Consulting entwickelt.
+
+V03 #00:00:51#
+B1: Dann habe ich Produkt- und Prozessmanagement in der Firma gemacht, habe die Prozesse verantwortet und das Produktmanagement, also die Business-Perspektive, angefangen. Im Prozessmanagement habe ich Businessprozesse bis hin zu technischen Workflows gebaut. Dann habe ich ein Team geleitet, aus Designern und Frontend-Entwicklern, in die gleiche Sprache beigebracht, und in dem Zuge haben wir im Produktmanagement einen Prozess, der drei Wochen gedauert hat, auf drei Stunden reduziert durch Standardisierung von Wordings, Sprache und Vorbereitung, Blueprints, et cetera.
+
+V04 #00:01:34#
+B1: Dann habe ich ein Product Lead gemacht für die Firma, habe das Produktthema weiter getrieben und habe dann bei [Arbeitgeber] angefangen als Digital Designer, wo ich Consulting gemacht habe für verschiedene Kunden, meistens sehr stark bei Touristikdienstleister und habe da Produktvision und Strategie gemacht, sowie Requirements Engineering und Sparring für UI Design und UX Design, das weitergeführt, dann als Letztes ein AI Produkt, um einen Chatbot zu bauen. Wo wir auch wieder Visionen, Strategie entwickelt haben und das zu einem MVP in sechs Wochen gebaut haben, ja.
+
+V05 #00:02:13#
+I: Perfekt, danke dir. Und die zweite Frage wäre, wie oft nutzt du in deinem täglichen Arbeiten KI-Tools, von nie über gelegentlich bis zu täglich?
+
+V06 #00:02:25#
+B1: 80 % meines Tages aktuell laufen zwei Claude-Sessions. Die eine baut mein Tool weiter, die andere recherchiert. Ich nutze es nicht nur zur Entwicklung, sondern ich nutze es, um jegliche Präsentation vorzubereiten. Ich nutze es, um Gesprächszusammenfassungen, Zusammenfassungen, Action Items zu machen, und mache das alles in Markdown-basierten Knowledge Bases, wo ich für jeden Kontext eine eigene Knowledge Base habe und nutze.
+
+V07 #00:02:55#
+I: Und wenn du jetzt angenommen, du bekommst irgendwie ein paar Dokumente mit unbekannten Informationen, in die du dich einarbeiten, die du analysieren und aufbereiten musst, was für eine Art von Unterstützung erwartest du dir da von dem KI-Tool?
+
+V08 #00:03:12#
+B1: Ich bin jetzt ja diese Claude-Geschichten gewohnt. Und den Workflow, den ich da machen würde, ist, ich nehme dieses Dokument und lasse es durch die KI analysieren, schneiden und in kleine, viele kleine Snippets packen, die ich dann besser erfassen kann auf der einen Seite, um besser weiterarbeiten zu können, und auf der anderen Seite erwarte ich mir von der KI, mir zu zeigen, was alles nicht stimmt in diesem Konzept, wo sind die wieder Widersprüche in was wir bekommen haben, welche Fragen sollte man stellen? Also ein Enablement von kritischem Denken. Ich erwarte keine Zusammenfassung, die ich einfach übernehme, sondern ich möchte rausfinden, welche Fragen ich stellen sollte.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:04#
+I: Kommen wir zum Fall. Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:11#
+B1: Ich denke, das eigentliche Problem ist, dass die Mitarbeitenden aktuell überhaupt nicht die Kapazitäten haben, um diese Weiterbildungen in Anspruch zu nehmen.
+
+N03 #00:00:26#
+I: Okay. Dann zur Kurzbewertung von 1 bis 5: Durch das AI-Tool habe ich den Fall schneller erfasst.
+
+N04 #00:00:34#
+B1: Da würde ich eine 5 geben.
+
+N05 #00:00:38#
+I: Okay, und warum die 5?
+
+N06 #00:00:43#
+B1: Ja, weil man mit KI einfach deutlich schneller einen Überblick bekommt. Und dadurch kann ich dann auch schneller einsteigen.
+
+N07 #00:00:55#
+I: Gut, der nächste Satz ist: Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.
+
+N08 #00:01:03#
+B1: Auch eine 5.
+
+N09 #00:01:06#
+I: Cool. Hast du da ein Beispiel?
+
+N10 #00:01:12#
+B1: Ja, ich habe zum Beispiel gefragt, was eigentlich out of scope ist, und dazu dann eine Liste bekommen. Das hätte ich mir sonst erstmal alles selber zusammensuchen müssen.
+
+N11 #00:01:28#
+I: Ja, verstehe. Dann der nächste Satz: Ich wusste jederzeit, was in meinem Dokument steht und woher es kommt.
+
+N12 #00:01:36#
+B1: Eine 3, würde ich sagen.
+
+N13 #00:01:40#
+I: Okay. Und der letzte Satz: Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.
+
+N14 #00:01:47#
+B1: Eine 4. Es war gut, dass die Dokumente referenziert wurden, aber wenn die genaue Textstelle markiert wäre, würde das noch mehr helfen. Die Zeit hat jetzt auch nicht gereicht, um alles detailliert zu prüfen.
+
+N15 #00:02:00#
+I: Perfekt, danke dir, jetzt musst du nicht mehr bewerten. Dann zum Vorgehen: Wie bist du in den 30 Minuten vorgegangen?
+
+N16 #00:02:12#
+B1: Also, ich bin direkt gestartet und habe mir erstmal grundsätzlich erklären lassen, um was es in diesem Projekt überhaupt geht. Danach wollte ich mit der Stakeholder-Analyse weitermachen, und dann kam der Vorschlag, erst das Problem- und Scope-Dokument zu machen.
+
+N17 #00:02:34#
+I: Okay. Der Agent führt einen ja etwas durch den Prozess. Du hattest ja vor, erst die Stakeholder-Analyse zu machen. Wie empfindest du das, wenn du da geleitet wirst? Empfindest du das eher als störend oder als hilfreich?
+
+N18 #00:02:54#
+B1: Ja, ich mache das seit 19 Jahren, ich muss eigentlich nicht geleitet werden. Wenn man ein konkretes Ziel hat, finde ich es einerseits gut, weil man dann den Scope einhält. Also, aus der Sicht finde ich es gut.
+
+N19 #00:03:09#
+B1: Auf der anderen Seite habe ich das Gefühl, na ja, dann ist ein bisschen Bias mit drin. Weil du den Workflow dadurch optimierst, dass er aufeinander aufbaut. Aber in der Praxis habe ich auch Situationen, wo ich flexibler damit umgehen will, und da könnte es sein, dass die Prompts oder die Guidelines, die hinter den Sachen stehen, dann zu starr sind und schnell an Qualität verlieren, wenn man sich nicht an den Prozess hält.
+
+N20 #00:03:36#
+I: Ja, verstehe. Es gibt natürlich Best Practices dafür, was alles in so eine Stakeholder-Analyse reingehört, und so weiter. Aber ich verstehe, du machst das jetzt lang genug, du weißt, was du wann brauchst und du weißt auch, was du wann nicht brauchst.
+
+N21 #00:03:58#
+I: Also, du kannst auch aktiv sagen: „Nee, ich brauche das nicht." Dann macht er das auch nicht, aber es ist halt vielleicht nervig, wenn man dann überhaupt danach gefragt wird. Würdest du sagen, es hilft, wenn das System das vorschlägt, aber nicht erzwingt?
+
+N22 #00:04:21#
+B1: Also, wenn man Menschen in so einen Gesprächsverlauf zwingt, und das reicht ja schon auch, ich kann immer noch Nein sagen, aber das stoppt die Produktivität, weil mein Gedankengang dann unterbrochen wird, ne. Meine Arbeit wird unterbrochen, weil wir sollten jetzt das machen. Und dann sage ich ja, aber nee, will ich aber nicht, dann fängt es an, mit der Zeit zu stören, dann ist die Friction zu groß, sag ich mal.
+
+N23 #00:04:53#
+B1: Also, in dem Kontext, dass wir Denken erzeugen, ist ein bisschen Friction ja gut. Also der Vorschlag, vielleicht wäre es besser, erst die Problemanalyse zu machen, weil das ein gutes Best Practice ist, ist an sich okay. Und ich hätte das jetzt auch einfach gemacht. Also mein Gedankengang ist dann so: Ja, wenn du das brauchst, dann mach das.
+
+N24 #00:05:18#
+B1: Also du sagst zur KI, du brauchst erstmal eine Zusammenfassung, um deinen Kontext-Window im nächsten Chat zu speichern, sage ich, ja, habe ich verstanden. Dann machen wir erstmal das und dann will ich jetzt aber Stakeholder mitmachen, weil das ist, was ich brauche. Und das geht dann so ein bisschen in die Richtung. Also an sich kann etwas Führung hilfreich sein, aber es darf nicht nerven. Da wäre es am besten, wenn man selber entscheiden kann, wie stark man geführt wird.
+
+N25 #00:05:51#
+I: Okay, ja, verstehe. Den Vorschlag mit der Problemanalyse hast du ja erstmal mitgemacht. Gab es eine Stelle, an der du einen Vorschlag des Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N26 #00:06:10#
+B1: Ja, einen Vorschlag vom Explorer habe ich abgelehnt. Da ging's um Betriebsrat und Datenschutz oder sowas, und das war mir für den aktuellen Stand zu viel.
+
+N27 #00:06:25#
+I: Ja, okay. Soweit noch nicht gesagt, ganz kurz ein paar Fakten: Hast du den Review gestartet, wie oft? Die Kommentare grob: eher angenommen, abgelehnt oder nicht angesehen? Und hast du selbst etwas im Text korrigiert oder den Chat korrigieren lassen?
+
+N28 #00:06:46#
+B1: Ja, den Review bin ich für jedes Dokument mal durchgegangen, hab die meisten Kommentare angenommen. Selber bearbeitet hab ich nichts, das mache ich aber auch so gar nicht mehr, ich mache das eigentlich nur noch mit Claude.
+
+N29 #00:07:04#
+B1: Ich muss aber auch sagen, die Aufgabe würde ich real in ein, zwei Stunden machen. Vermutlich. Das ist auch ein Grund, warum ich jetzt mehr Accept klicke und weniger genau gelesen habe.
+
+N30 #00:07:17#
+I: Alles klar, ja. Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N31 #00:07:28#
+B1: Einmal kam ein Kommentar, der das Auslastungsziel als mögliche Ursache für den Zeitmangel genannt hat, als Hypothese. Das hat mich in meinem Eindruck bestätigt.
+
+N32 #00:07:42#
+I: Du sagst, das hat dich bestätigt. Hat das AI-Tool deine Einschätzungen insgesamt eher bestätigt oder eher infrage gestellt?
+
+N33 #00:07:53#
+B1: Im Chat wurden eher einfach meine Fragen beantwortet, das ist aber ja auch gut so. Die Kommentare beim Review waren dann aber eher hinterfragend.
+
+N34 #00:08:07#
+I: Okay. Was am AI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N35 #00:08:18#
+B1: Also, die Aufteilung, links den Chat und rechts das Dokument, finde ich echt gut. Und auch, dass man über den Chat die Dokumente bearbeiten kann, fand ich cool. Die verschiedenen Rollen finde ich auch hilfreich.
+
+N36 #00:08:37#
+B1: Was mir noch so ein bisschen, was jetzt durch meine Usage jetzt fehlt, ist, was ich wahnsinnig wertvoll finde, ist, wenn hier links der Analyst nicht nur einfach produziert, schon, ich mein, der macht das schon kritisch. Aber ich habe ja gesagt, Stakeholder Map, und habe bisschen was gefragt, ich wurde jetzt nicht gefragt, was genau will ich da eigentlich, ne?
+
+N37 #00:09:01#
+B1: Also ich habe was, was nicht schlecht ist. Das ist aber nicht genau das, was ich mir gewünscht habe, weil das zum Beispiel, das ist etwas, was wir immer haben, ne, es ist viel zu viel, um das zu erfassen und alles, was da steht, genau lesen zu können.
+
+N38 #00:09:19#
+I: Also es ist zu viel Text, um das gut zu erfassen?
+
+N39 #00:09:27#
+B1: Das ist ein guter Text, damit die KI weiterarbeiten kann. Gehe ich mal davon aus. Aber ich kann das alles nicht erfassen und es liegt auch jedem ein bisschen was anderes. Manche sind mehr visueller, manche mehr Text, mehr Audio-Gehirne. Wenn ich mir das jetzt durchlese, habe ich nicht mehr gelernt. Ich bin nur mehr verwirrt. Weil sehr vieles auf einmal kommt.
+
+N40 #00:09:56#
+B1: Ich brauche auch nicht ein Dokument Stakeholder Analysis. Ich bräuchte eins für Identification, Classification. Ich bräuchte also Needs und Concerns. Also, das können ruhig mehrere Einzel-Artefakte sein, damit das nicht so groß ist, weil vielleicht sage ich, das finde ich gut, Approve, aber das noch nicht. Und das muss ich ja wieder alles anschauen oder anschauen lassen.
+
+N41 #00:10:25#
+B1: Und es ist ähnlich wie mit Agenten, ne, wollen das Kontext-Window nicht überladen. Was wir dann machen, wenn wir so lange Dokumente erzeugen? Wir überladen das Kontext-Window der Lesenden.
+
+N42 #00:10:37#
+B1: Wobei ich das ja bei uns auch machen muss, zum Kontext sparen, diese Anforderung eben in viele kleine Markdown-Dateien, die semantische Bedeutung haben, auseinanderpflücken.
+
+N43 #00:10:52#
+B1: Also, was wir aktuell machen, ist, wir gehen da sehr viel detaillierter rein als eine Problem-Scope-Definition. Das ist dann quasi nicht ein Dokument. Sondern es ist ein Arbeitsschritt und in diesem Arbeitsschritt entstehen viele Dokumente, die einzelne Probleme, einzelne Features Stück für Stück definieren und ich kann dann im Folgegespräch – Wenn ich jetzt weitergehe, dann wird ja immer dieses ganze Dokument reingeladen. Das will ich eigentlich gar nicht. Will ich nicht immer, soll nicht immer das ganze Ding reinladen, muss nicht immer alles wissen. Und wenn es viele kleine Dokumente sind, habe ich gemerkt, dann kann man sich sehr viel spezifischer Sachen rausziehen.
+
+N44 #00:11:40#
+I: Ja, also du würdest es besser finden, wenn es irgendwie jetzt für die Stakeholder-Analyse zum Beispiel fünf kleinere Dokumente gibt statt ein großes.
+
+N45 #00:11:50#
+B1: Ja genau, dass ich so Stück für Stück meine Artefakte erzeugen kann, dass ich auch schon mal weitergehen kann für Fragen, weil vielleicht entscheide ich, dass potenziell negativ betroffene Stakeholder da im Hintergrund gerade, dass ich das als nicht relevant für den Workshop finde. Oder es kein Fokus ist und ich erstmal weiter im Prozess mit den anderen kleinen Teilen gehen will.
+
+N46 #00:12:19#
+I: Okay. Wie siehst du die Anzahl der Kommentare? Weil würdest du da gern alle Sachen, die er findet, auf einmal bekommen oder würdest du lieber, keine Ahnung, die drei wichtigsten Sachen bekommen?
+
+N47 #00:12:37#
+B1: Alles.
+
+N48 #00:12:42#
+B1: Es ist wieder das an sich Gleiche von vorhin. Es können ruhig einfach eigene Dokumente sein. Und wenn es doch lange Dokumente sind, dann würde ich gerne Abschnitt für Abschnitt durchgehen und einzelne Abschnitte reviewen und freigeben können. Und ich würde auch selber gerne direkt im Dokument eine Frage stellen können.
+
+N49 #00:13:01#
+B1: Über den Chat geht das ja schon, aber hier im Dokument hätte ich das auch gerne. Ich würde gerne einen Kommentar schreiben oder quasi den Teil markieren, mehr oder weniger antippen, und dann sagen: Mach mal einen Vorschlag. Oder: Sprich mit mir dazu, so ein bisschen.
+
+N50 #00:13:19#
+I: Also dass du nicht nur das Dokument an sich bearbeiten kannst, sondern auch selber Kommentare schreiben kannst, wie jetzt der Agent macht.
+
+N51 #00:13:28#
+B1: Ja genau, also ich habe jetzt hier eine Stelle im Text und ich habe dazu eine Frage oder Anmerkung. Es würde auch gehen. Ich kann es markieren und der Analyst weiß, was ich markiert habe. So könnte man es aufbauen, ne? Oder ich kann ein Kommentarfeature nutzen und sagen: „OK, das passt aber nicht, ich mache einen Kommentar."
+
+N52 #00:13:49#
+B1: Der taucht auf und dann kann ich über diesen einen Kommentar chatten. Das kann ja auch, das kann ja hier UI-mäßig auch dann links stattfinden, so wie ich diesen Ask-Button habe, und dann gemeinsam eine Lösung machen. Weil aktuell bin ich in so einem reinen Review-Prozess, die KI arbeitet für mich, ich kann zwar bisschen Feedback geben. Aber wenn die KI nichts markiert hat, dann kann ich nur das kommentieren, was sie gefunden hat. Dokument selbst bearbeiten.
+
+N53 #00:14:19#
+I: Ja du kannst über den Edit-Button das Dokument manuell bearbeiten, aber dann bearbeitest du wirklich das Dokument und die KI weiß nicht, dass es ein Kommentar von dir ist.
+
+N54 #00:14:31#
+B1: Ja ich will nicht, ich habe keine Lust, Dokumente zu tippen. Ich würde gerne Kommentar machen können.
+
+N55 #00:14:39#
+B1: Oder ich markiere alles, was mir komisch vorkommt, ähnlich wie der Review das macht. Und dann haben wir so einen Backlog an Sachen, die wir lösen müssen, einerseits was er gefunden hat, andererseits, was ich gefunden habe.
+
+N56 #00:14:53#
+B1: Und die diskutiere ich dann mit dem Analysten, da kann ich Rückfragen stellen. So auf die Art OK, dann lass uns mal durchgehen, was verstehst du denn unter [unverständlich]. Was ist denn das Problem? Also, er soll mich fragen, was ich verstanden habe, warum mich das stört, weil ich schreibe da einen Satz und der ist meistens nicht gut genug. Und dann soll er sagen: „OK, warum denn? Was meinst du damit?" Um das verständlich zu machen und dann erzeugt er mir hier wieder das Dokument, basierend auf den Chat, den wir hatten zu diesem einen Kommentar.
+
+N57 #00:15:27#
+B1: Also, es ist quasi eine Ergänzung, eine Weiterentwicklung. Wo nicht nur der Agent reviewed sondern ich kann auch Themen markieren und aufbringen und dann auf die Weise diskutieren und lösen, immer mit dem Ziel, dass ich selber nicht in dem Dokument rumtippen muss.
+
+N58 #00:15:49#
+I: Okay. Du hast ja gesagt, die Kommentare beim Review waren eher hinterfragend. Da gab es zwei Absender, den Kritiker und den Explorer. Hast du das als eine Stimme oder als verschiedene Perspektiven erlebt? Gab es Anmerkungen, die sich widersprachen?
+
+N59 #00:16:10#
+B1: Das war schon klar, dass das verschiedene Rollen sind. Was genau dann dahinter steckt, wäre auch interessant zu wissen. Anmerkungen, die sich widersprechen, sind mir jetzt keine aufgefallen.
+
+N60 #00:16:26#
+I: Alles klar. Wäre es dir lieber, der Chat selbst würde widersprechen, statt dass das getrennt erscheint?
+
+N61 #00:16:36#
+B1: Ich habe ja vor allem Fragen gestellt, da habe ich in meinem Fall auch keinen Widerspruch im Chat erwartet. Aber die Kritik als Anmerkungen fand ich an sich schon sehr gut.
+
+N62 #00:16:53#
+I: Ja, okay. Das AI-Tool hat Stellen als „unklar“ oder „Konflikt“ markiert und Fragen an den Kunden vorgeschlagen. Was hast du mit solchen Stellen gemacht?
+
+N63 #00:17:07#
+B1: Ich hätte jetzt immer noch das Problem, dass ich diesen Konflikt nicht nachvollziehen kann. Also, es ist gut dass es angezeigt wird aber ich muss es verstehen können. Über verlinkte Textstellen in der Quelle oder Nachfragen im Chat.
+
+N64 #00:17:27#
+I: Okay. Hättest du lieber gehabt, dass das AI-Tool an solchen Stellen nachfragt oder selbst entscheidet?
+
+N65 #00:17:37#
+B1: Ich finde es schon sinnvoll, wenn nachgefragt wird und nicht einfach irgendwelche Annahmen getroffen werden.
+
+N66 #00:17:47#
+I: Danke dir. War die Menge der Anmerkungen je Review für dich handhabbar, oder wurde es irgendwann zu viel?
+
+N67 #00:17:58#
+B1: Wie gesagt, ich hätte an sich lieber kleinere Dateien und da dann alle Kommentare. Wenn die Dateien kleiner sind, sollten das dann ja auch nicht allzu viele sein.
+
+N68 #00:18:14#
+I: Okay. Würdest du auch sagen, dass es irgendwie sinnvoll wäre, dass du einstellen kannst, wie kritisch soll der Kritiker zum Beispiel sein? Also, weil angenommen, du stellst den so ein, dass er wirklich jeden kleinen Fehler findet, dann hast du irgendwie 50 Anmerkungen, das ist ja auch überfordernd. Hingegen, wenn du sagst, ich habe irgendwie dann nur fünf Anmerkungen, und merkst dann aber später, ah okay, da hat es irgendwas übersehen, das mindert ja dann auch das Vertrauen bisschen in den Review-Prozess.
+
+N69 #00:18:43#
+B1: Ja, finde ich gut, weil an sich will ich alle Anmerkungen sehen aber ich bin ja nicht immer in der gleichen Nutzungssituation. Also, ich würde sagen, ich habe es jetzt eilig. Also dass ich sagen kann mach mal nicht so gründlich, so wie man auch anfängt, Thinking und Effort anpassen, könnte man sagen, OK, mir reichen nur die wichtigsten Sachen.
+
+N70 #00:19:05#
+I: Okay ja. Bei den Kommentaren, die du angenommen hast: Hast du gesehen, was sich geändert hat? War das am Ende dein Dokument oder das des Tools?
+
+N71 #00:19:19#
+B1: Ja das wurde gut angezeigt. Aber um das wirklich zu beurteilen, ob das richtig ist, interessiert mich die Stelle, wo er das gefunden hat, vor allem in so einem schnellen Prozess. Weil ich diese Dokumente nicht schon kenne und die will ich ja gar nicht mehr in der Tiefe kennen. Aber ich bräuchte den konkreten Part der Kommentare.
+
+N72 #00:19:47#
+B1: Also, es ist immer ein Sparring, aber am Ende ist es mein Dokument, das muss man selber verantworten.
+
+N73 #00:19:58#
+I: Okay. Und hättest du Änderungen lieber direkt im Text gehabt, ohne den Schritt des Annehmens? Man muss die Kommentare ja erst annehmen oder ablehnen, bevor man freigeben kann.
+
+N74 #00:20:14#
+B1: Ja, ich finde das schon gut, also in so einem Designprozess eine Friction einzubauen, weil das zwingt Menschen vielleicht doch noch mal zu lesen. Ich hätte das mit mehr Zeit auch genauer gemacht.
+
+N75 #00:20:31#
+I: Verstehe ja. Du hast die Verweise auf die Dokumente erwähnt. Hast du einen davon geöffnet?
+
+N76 #00:20:41#
+B1: Ja, hab ich. Das ist grundsätzlich hilfreich, aber wie vorhin gesagt, es würde deutlich mehr helfen, wenn man direkt die Stelle sieht und nicht nur das Dokument.
+
+N77 #00:20:56#
+I: Gut. Hättest du auch ohne Verweise geprüft, oder hättest du ohne Verweise weniger vertraut?
+
+N78 #00:21:05#
+B1: Ja, prüfen muss man immer, aber durch die Verweise fällt das viel leichter.
+
+N79 #00:21:14#
+I: Ja stimmt. Würdest du sagen, das Tool hat dich eher zum Problem oder eher zur geplanten Plattform gelenkt?
+
+N80 #00:21:25#
+B1: Ich wurde schon zum Problem gelenkt, ja. Aber ich bin eher so jemand, der erstmal die Stakeholder kennen möchte, damit ich dann das Problem analysieren kann.
+
+N81 #00:21:39#
+I: Okay, ja. Hättest du lieber früher über die Lösung gesprochen?
+
+N82 #00:21:47#
+B1: Nein, das fand ich hat gepasst. Die Lösung kommt dann später.
+
+N83 #00:21:55#
+I: Ja stimmt. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N84 #00:22:11#
+B1: Ich denke, wichtig ist, dass man es individuell anpassen, also so einstellen kann, wie man es braucht, ne. Welche Dokumente brauche ich, wie sollen die Rollen eingestellt sein, welche Prompts und welche Struktur will ich vorgeben und so weiter. Sonst ist die Akzeptanz vermutlich gering. Und Visualisierungen helfen auch immer sehr, damit man nicht nur Text hat. Gerade in den frühen Phasen finde ich das sehr wichtig.
+
+N85 #00:22:45#
+B1: Es sind jetzt die drei Artefakte entstanden aber das Problem, also den ganzen Umfang kann man nicht in 30 Minuten komplett verstehen.
+
+N86 #00:22:54#
+B1: Da ist es auch egal ob ich mehrere Problemscope-Dateien habe oder den gleichen Inhalt in einer Datei, es ist schwer das alles zu erfassen.
+
+N87 #00:23:04#
+B1: Also, wenn wir jetzt weitergehen, würde ich sagen, ich hätte gern ein Canvas-Feature, damit man Zusammenhänge anders zeigen kann, wie hängen Sachen zusammen, also für mich als visuell denkenden Menschen wäre das sehr hilfreich. Aber ich finde, das passt schon für den Start und es zeigt echt viele coole Sachen mit denen man starten kann.
+
+N88 #00:23:24#
+I: Okay, danke schonmal.
+
+N89 #00:23:27#
+B1: Und ich glaube, das wäre jetzt für die 30 Minuten nicht gegangen, aber wenn das weitergehen würde, müsste man schon flexibler sein, welches Thema will ich gerade überarbeiten und das macht genau das. Oder für eine Stakeholder-Analyse kann ich sagen, was ich haben möchte, mach mir da vielleicht eher Vorschläge, willst du eine Map haben, willst du das Format haben, willst jenes Format haben und das hilft dann besser den Flow zu haben.
+
+N90 #00:23:54#
+B1: Und als Langzeituser würde ich dann gerne die Skills dahinter an meine Needs anpassen. Also ich lade mir erstmal die Standard-Skills runter und arbeite damit. Und dann stelle ich vielleicht fest, hier hätte ich gerne eine andere Stakeholder Analysis. Dann würde ich den Skill, der die Stakeholder Analysis macht, umschreiben, damit er das tut, was ich möchte. Die Erwartung ist eben nicht, dass ich eine Lösung habe, die alles für mich löst. Sondern ich habe eine Best Practice, die ich dann auf das adaptiere, was ich tue. Also dass die Nutzer die Systeme an sich anpassen können oder die Systeme sich auch schon selber anpassen.
+
+N91 #00:24:31#
+B1: Also auf alle Fälle, so als agentische Nutzerin, die selber an Skills rumwerkelt, würde ich gerne sehen können, welchen Skill ich gerade benutze, und damit arbeiten können. Also wenn der Analyst zum Beispiel die Stakeholder-Analyse macht, würde ich gerne modifizieren können, was er da tut, gerade bei der weitergehenden Nutzung. Und eigene Parts anpassen.
+
+N92 #00:24:53#
+I: Okay. Vorhin hast du gesagt, du erwartest von der KI eher ein Enablement von kritischem Denken, also dass sie dir zeigt, welche Fragen du stellen solltest. Wie siehst du das jetzt?
+
+N93 #00:25:10#
+B1: Genau, aber jetzt glaube ich schon, dass das mit den Anmerkungen sehr gut ist um beim Verstehen zu unterstützen, einfach weil es Friction erzeugt.
+
+N94 #00:25:20#
+I: Danke dir. Würdest du das AI-Tool in einem echten Projekt einsetzen? Wofür, und wofür nicht?
+
+N95 #00:25:30#
+B1: Wenn ich jetzt mal die Perspektive wechsle und das wäre ein Produkt-Pitch gewesen, dann hätte ich gesagt: OK, cool, ich mag die Ansätze, ich hätte das gerne in der Workbench und möchte in meinen Ordnern arbeiten. Unter der Hypothese, dass wir ein Tool haben, das Markdown-Dateien mit Kommentaren und sowas anzeigen kann. Weil dann kann ich das sehr schnell in der Firma ausrollen, sehr flexibel einsetzen und auch ausweiten und ausbauen. Also das, was ich ganz viel sehe, sind flexible Systeme, die man auf den Use Case anpassen kann.
+
+N96 #00:26:13#
+B1: Weil, wenn man einen Use Case zu sehr in Code packt, dann ist die AI-Entwicklung gefühlt zu schnell, als dass man mithalten kann.
+
+N97 #00:26:29#
+I: Also du würdest eher die Struktur nachbauen, das in die Workbench integrieren und nicht zu viel Logik in den Code packen?
+
+N98 #00:26:38#
+B1: Ja, also mehr auf die Basisprinzipien gucken für diese Fälle. Aber mit vielen Learnings, die du da drin hast. Die Workbench kann das aktuell noch nicht, das können wir auch so festhalten. Das ist gerade nicht der Scope von dem Ding.
+
+N99 #00:26:54#
+I: Ja, mein Grundgedanke war ja, du hast einfach einen Chat, eine Projektsandbox, und da arbeitest du drin. Und wie das dann im Detail aussieht, mit welchen Agents und welchen Skills, das muss flexibel sein.
+
+N100 #00:27:07#
+B1: Ja, also es geht genau in diese Richtung. Passt, passt.
+
+N101 #00:27:12#
+I: Okay, cool. Gibt es noch etwas, das du loswerden möchtest?
+
+N102 #00:27:20#
+B1: Eigentlich habe ich, glaube ich, alles gesagt. Nur noch mal, ich denke, das Wichtigste ist die flexible Grundstruktur. So verhindert man, dass die Lösung schnell obsolet wird.

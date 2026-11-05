@@ -1,0 +1,344 @@
+Interview-ID: [P10]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: Videocall
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:08#
+I: Zum Start wäre es noch mal cool, wenn du vielleicht einfach in zwei Sätzen sagen könntest, was deine Rolle ist und wie lange du schon in den frühen Phasen oder im Requirements Engineering unterwegs bist.
+
+V02 #00:00:20#
+B1: Genau, also [Name], mein Name. Meine Rolle ist in den unterschiedlichsten Projektkontexten etwas unterschiedlich. Genau, frühe Phasen hast du schon gesagt, das heißt Requirements Engineer, Business Analyst oder auch Digital Designer.
+
+V03 #00:00:34#
+B1: Und das erstreckt sich über das gesamte Spektrum der frühen Phasen, zum Teil, weil sehr frühe Phasen, wo wir erst mal Discovery machen und dem Kunden dann helfen, erst mal rauszufinden, was ist eigentlich das Problem, was du lösen willst, bis dann hin auch bestimmte Prototypen, die man dann hat, mit Kunden zu verproben, zu testen, Feedback einzusammeln, um dann noch einen Schritt weiterzugehen, wenn es dann irgendwie in die Umsetzung geht, dann auch Anforderungen zu sammeln, User Stories zu schreiben und dann manchmal sogar dann auch die Abnahme zu machen, zu testen. Wenn ich dann in der PO-Rolle unterwegs war, dann ist das ja dann, ist man dann auch natürlich sehr um die Abnahme bemüht. Genau, das ist so meine Rolle in den Kundenprojekten, wo ich genau jetzt schon seit ja vielen Jahren unterwegs bin.
+
+V04 #00:01:24#
+I: Okay, perfekt, danke. Genau, dann wäre die nächste Frage direkt: Wie oft nutzt du bei deiner täglichen Arbeit irgendwelche KI-Tools, von nie über gelegentlich bis zu täglich?
+
+V05 #00:01:35#
+B1: Spannend, weil jetzt hätten wir vom halben Jahr gesprochen, wär die Antwort anders ausgefallen. Weil jetzt muss ich wirklich sagen, täglich. Also ist aber auch damit bedingt, weil ich grad mein aktuelles Projekt bei [Kunde 1], geht's grad auch wirklich um KI.
+
+V06 #00:01:51#
+B1: Das heißt, wir haben da einen Coaching-Auftrag, wo wir dann Mitarbeitende coachen. Und das heißt, ich muss mich da auch mit den Tools beschäftigen, die [Kunde 1] nutzt. Also beispielsweise konkret AWS Kiro kannte ich jetzt vorher nicht, habe ich jetzt in diesem Zusammenhang kennengelernt.
+
+V07 #00:02:09#
+B1: Genau, das habe ich jetzt schon benutzt. Das ist ja auch so ein Tool. Ich weiß nicht, ob du es kennst, aber was ja speziell dafür gedacht ist, den Spezifikationsprozess zu führen, ein bisschen Führung zu geben, also das finde ich ganz spannend, aber auch davon abgesehen.
+
+V08 #00:02:24#
+B1: Von internen Dingen, die ich mache, für unsere Gilde beispielsweise, also eigentlich wirklich jetzt täglich KI-Tools, ja, insbesondere auch die [Arbeitgeber]-Workbench, sei es Präsentation machen. Also, was ich aber mache oder was mir auffällt.
+
+V09 #00:02:40#
+B1: Wir sind dann immer, also wir, die KI und ich, sind immer beide dann Sparring. Also, ich lass die KI oft was machen. Und dann mache ich noch mal selber Anpassungen. Also, es ist selten so, dass ich sage, mach mal, und das nehm ich so direkt weg. Also, ist meistens so ein bisschen, wir machen das dann im Tandem.
+
+V10 #00:02:55#
+I: Verstehe. Wenn du dich in neue oder unbekannte Informationen einarbeiten musst, die irgendwie analysieren und aufbereiten musst, was für eine Art von Unterstützung erwartest du dir da von so einem KI-Tool?
+
+V11 #00:03:10#
+B1: Ich würde mal sagen, grundsätzlich eine Zusammenfassung, um die wichtigsten Dinge herauszukristallisieren. Also, es hängt natürlich auch davon ab, wie wichtig mir das Thema ist, also wie viel Zeit ich darin investieren will.
+
+V12 #00:03:27#
+B1: Weil, wenn es mir wichtig ist und ich mir die Zeit auch nehme, lese ich es schon einfach gerne selber. Aber wenn es normal schnell irgendwie jetzt geht, okay, ich brauch die Quintessenz. Ich hab jetzt keine Lust, diesen ganzen Artikel da zu lesen, dann sag ich auch manchmal nur: Fassen wir mal zusammen, die drei Kernbotschaften.
+
+V13 #00:03:45#
+B1: Genau, also zusammenfassen, vielleicht dann auch strukturieren, wenn ich irgendwie damit weitermachen will. Also genau.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:03#
+I: Die erste Frage, die ich hätte, ist allgemein zu dem Fall: Was ist denn aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:19#
+B1: Na ja, der erste Eindruck ist aus meiner Sicht, die Dinge sind verstreut. Also, das ist keine einheitliche Lernplattform. Also obwohl sie ja was haben, irgendwie läuft der Vertrag aber dann nächstes Jahr aus, aber irgendwie ist alles verstreut und die Leute haben keine Zeit, weil sie Projekte machen und Projekte irgendwie nie enden. Also irgendwo las ich, ja, Weiterbildung, macht ihr, wenn das Projekt zu Ende ist, aber das Projekt ist ja irgendwie nie zu Ende, es kommt immer etwas Neues. Das sind, glaub ich, so die beiden Hauptpunkte, die mir aufgefallen sind.
+
+N03 #00:00:54#
+I: Ja, die Geschäftsführung schlägt ja einfach vor, wir bauen eine neue Plattform und dann lösen wir damit das Weiterbildungsproblem oder verbessern das. Da würdest du so einfach also nicht zustimmen.
+
+N04 #00:01:10#
+B1: Also, es kann, genau, es ist eine Stellschraube, glaube ich, aber es wird nicht automatisch damit besser. Also, man muss, genau, ich finde diese Incentivierung kann ein guter Punkt sein, weil irgendwo stand ja was von Gamification, wenn man das da irgendwie mit einbaut, die Leute zu motivieren. Genau, aber nur mit einer neuen Plattform ist das Problem nicht gelöst, ja.
+
+N05 #00:01:35#
+I: Okay, ja, ich würde jetzt vier Aussagen treffen und du müsstest bitte immer eine Zahl zwischen 1 und 5 sagen. 1 bedeutet trifft gar nicht zu und 5 heißt trifft voll zu und dann vielleicht noch ein, zwei Sätze dazu, warum du die Bewertung so vornehmen würdest. Der erste Satz wäre: „Durch das AI-Tool habe ich den Fall schneller erfasst.“
+
+N06 #00:01:59#
+B1: Ja, ah genau, ich muss ja da eine Zahl sagen. Die Eins war noch mal wenig, oder?
+
+N07 #00:02:05#
+I: Genau, ja, 1 trifft gar nicht zu und 5 heißt trifft voll zu.
+
+N08 #00:02:11#
+B1: Ja, 5.
+
+N09 #00:02:13#
+I: Okay, der zweite Satz: „Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N10 #00:02:23#
+B1: Ja, 5, trifft voll zu, vor allen Dingen nicht in der Zeit, jetzt in dieser halben Stunde. Also, ich hab angefangen, die Dokumente grob selbst erst mal zu lesen, aber die Mitarbeiterbefragung dann wirklich nur ganz grob, genau.
+
+N11 #00:02:36#
+B1: Also von daher und in der halben Stunde hab ich jetzt dann schon gesehen, gerade bei dem Review des ersten Dokuments, also der Problem- und Scope-Definition, hat das Tool dann im Review schon auch gesagt: „Okay, hier gibt es Widersprüche.“ Also die hätte ich, die wären mir jetzt so, glaube ich, dann nicht in der Schnelligkeit aufgefallen, ja.
+
+N12 #00:02:54#
+I: Okay, das Dritte wäre: „Ich wusste jederzeit, was in meinem Dokument steht und woher es kommt.“
+
+N13 #00:03:03#
+B1: Ja, 4.
+
+N14 #00:03:09#
+I: Und das Letzte wäre: „Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.“
+
+N15 #00:03:14#
+B1: Das ist schwierig jetzt, da ich das erste Mal nutze, würd ich mal sagen, 3. Genau, ich würd da, bräuchte ich jetzt noch mal ein bisschen länger Zeit, um dann wirklich auch zu sagen: Okay, ich vertraue dem, weil gerade bei dem Review jetzt kamen einige Punkte und da konnte ich nicht alles genau lesen.
+
+N16 #00:03:39#
+B1: Aber ich glaube, es geht auf einen guten Weg, weil es ja wirklich dann auch Widersprüche gefunden hat. Also ja.
+
+N17 #00:03:47#
+I: Ja, das trifft schon auch bisschen auf die nächste Frage. Das Tool hat dir ja so Kommentare zu den Unterlagen gezeigt beim Review und da wär die Frage, ob du die Kommentare alle selber gut geprüft hast oder ob du gesagt hast: Ah, dem vertraue ich jetzt und ich übernehme die.
+
+N18 #00:04:04#
+B1: Genau, also habe ich jetzt nicht alle genau geprüft.
+
+N19 #00:04:11#
+B1: Aber da ist es auch wieder ein Punkt auch aus dem reellen Leben, ne? Es ist ja auch so, wenn mir die AI irgendwie Dinge dann sagt, okay, hier sind wichtige Punkte, wenn mir das Thema super wichtig ist und ich da viel Zeit investieren will, dann prüf ich die genauer, als wenn ich jetzt auch vielleicht gar nicht die Zeit habe und dann einfach sage: „Okay, ja, mach ich. Ich vertrau dir jetzt. Mach mal.“
+
+N20 #00:04:37#
+I: Okay, ja, das versteh ich. Ab den kommenden Fragen musst du die Bewertung nicht mehr machen. Jetzt geht es eher so um deine Erfahrungen. Hast du das auch aus der Praxis, die Erfahrung, dass man einfach manchmal unter Zeitdruck ist und dann einfach nicht so detailliert alles prüfen kann, dann einfach aus Zeitnot der KI mehr vertraut, als man es vielleicht in anderen Fällen machen würde?
+
+N21 #00:04:57#
+B1: Ja, genau. Ist so, ja.
+
+N22 #00:05:01#
+I: Okay. Dann noch kurz zu deinem Vorgehen: Wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das AI-Tool?
+
+N23 #00:05:16#
+B1: Also, ich habe die Unterlagen grob gelesen und habe dann mit der Problembeschreibung gestartet. Ich wurde am Anfang geleitet, aber hatte das Gefühl, selber entscheiden zu können, was ich mache. Ich habe mir nur einen Punkt notiert: Während das Tool ein Review gemacht hat, dachte ich mir, kann ich jetzt noch was anders machen in dem anderen Dokument, aber das ging dann nicht, weil ich konnte dann nicht wegnavigieren. Von daher war ich da, hatte da in dem Fall jetzt das Tool, hatte dann die Kontrolle und hat gesagt, nee, ich mach das Review und jetzt bleibst du hier und wartest.
+
+N24 #00:06:05#
+I: Okay. Gab es eine Stelle, an der du einen Vorschlag des AI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N25 #00:06:19#
+B1: Ja, ich habe einmal noch eine Rückfrage zu einer Anmerkung gestellt, das war gut, dass man sich darauf dann direkt im Chat beziehen konnte. Ansonsten habe ich die meisten Anmerkungen angenommen.
+
+N26 #00:06:36#
+I: Hast du einen Quellenverweis geöffnet um nochmal gegenzuprüfen?
+
+N27 #00:06:44#
+B1: Ich habe ein, zwei Mal draufgeklickt, aber dann drauf vertraut dass die Fakten stimmen.
+
+N28 #00:06:55#
+I: Okay, danke. Gab es einen Moment, so einen Aha-Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N29 #00:07:14#
+B1: Ja, ich erinner mich an einen Kommentar, der stand, wo es ums Budget ging, ne. Die Geschäftsführung sagt ja, glaub ich, irgendwie 250.000. Und irgendwo in den Bereichsleiter-Meeting-Notes stand ja irgendwas: Erstmal sind nur 170 freigegeben. Also, da hat mich auch das Tool darauf aufmerksam gemacht, dass da ein Widerspruch besteht. Beim schnellen Durchlesen der Dokumente initial habe ich das nicht umrissen, dass da irgendwie die Zahlen ein bisschen voneinander abweichen. Genau, also ja.
+
+N30 #00:07:46#
+I: Okay. Würdest du sagen, das AI-Tool hat deine Einschätzungen eher bestätigt oder eher infrage gestellt? Und gab es irgendwie Einwände, die du so vielleicht nicht erwartet hättest?
+
+N31 #00:07:59#
+B1: Es ist schwierig zu sagen, weil ich die Dokumente nicht so gut kenne. Ich habe mich dann schon sehr in die Hand des Tools, in die Hand der KI begeben.
+
+N32 #00:08:13#
+B1: Ich würde aber nicht sagen, dass es mich nur bestätigt hat. Ich konnte mit dem Tool gemeinsam auch Widersprüche aufdecken und es kamen kritische Anmerkungen im Review.
+
+N33 #00:08:23#
+I: Ja, das verstehe ich. Was am AI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N34 #00:08:33#
+B1: Also, geholfen hat mir in dem Fall, dass da schon drei Dokumententypen vorgegeben waren und man etwas durchgeleitet wurde. Also, das Problem- und Scope-Definition, die Stakeholder-Analyse und dieses Open-Issue-Dokument, dass das schon da war.
+
+N35 #00:08:48#
+B1: Also das hat mir so ein bisschen eine Struktur vorgegeben, und das macht es einfacher, als wenn ich mit dem leeren Blatt anfange. Im ersten Dokument hat das Tool ja zum Beispiel Stellen als widersprüchlich oder unklar markiert, und dann hab ich dem Tool gesagt: „Pack das schon mal in die Open-Issue-Liste.“
+
+N36 #00:09:09#
+I: Ja, gab es irgendwas, was dich gestört hat oder was dir gefehlt hat, wo du sagst: „Oh, das hätte ich mir noch gewünscht“, oder was hätte dir geholfen, das besser zu analysieren?
+
+N37 #00:09:21#
+B1: Genau, also ich habe mir jetzt noch notiert. Genau, was habe ich mir notiert?
+
+N38 #00:09:27#
+B1: Während die Stakeholder-Analyse erstellt wird, konnt ich irgendwie, glaub ich, das andere Dokument auch nicht bearbeiten. Stimmt, ich wollt die Stakeholder-Analyse erstellen, dann wurde mir gesagt: „Na ja, das Erste ist aber noch nicht approved, willst du trotzdem weitermachen?“ Und dann hab ich gesagt: „Ja, ich mach trotzdem weiter.“ Und dann wollte ich in der Zwischenzeit mir noch mal das Erste anschauen. Das ging dann nicht.
+
+N39 #00:09:52#
+B1: Genau. Aber wahrscheinlich wäre es schon schlauer gewesen, ich hätte das erste Dokument wirklich erst approved, weil da dann schon viele Widersprüche auch rauskamen. Weil das habe ich erst gemacht mit diesen Widersprüchen, als ich die Stakeholder-Analyse schon mal erstellt hatte.
+
+N40 #00:10:09#
+I: Du hast ja vorhin gesagt, dass du es gut fandest dass du am Anfang geleitet wurdest. Würdest du sagen, die Struktur, also die Reihenfolge, die Phasen, hat dich das auch etwas eingeengt, und du hättest lieber irgendwie ein bisschen freier gearbeitet?
+
+N41 #00:10:29#
+B1: Nein, ich fand's gut, es war ja nur ein Vorschlag keine Pflicht.
+
+N42 #00:10:37#
+B1: Also, die Frage ist, das habe ich jetzt nicht ausprobiert, inwieweit es mir ermöglicht hätte etwas zu ändern. Es sollte natürlich schon möglich sein die Struktur beispielsweise hier in der Problem- und Scope-Definition zu ändern wenn ich sage das passt mir nicht, ich brauch mal hier irgendwie noch Abschnitt oder bitte entferne Abschnitt 3, weil den brauchen wir jetzt nicht. Also wenn ich auch den Freiraum habe, find ich eine Struktur grundsätzlich gut, weil ich kann ja aus der Struktur ausbrechen.
+
+N43 #00:11:08#
+I: Also, würdest du sagen, so eine Grundstruktur erst mal ist gut, aber ist auch wichtig, dass man das dann eben an die eigenen Bedürfnisse anpassen kann. Okay.
+
+N44 #00:11:14#
+B1: Genau. Und was ich, genau, das ist noch ein wichtiger Punkt, das ist ein Learning, was ich auch habe mit der KI, gerade, ich hatte ja eingangs gesagt, ich mach gerne diesen Tandem-Mode, ne, die KI macht was und dann mach ich mal selber was manuell.
+
+N45 #00:11:30#
+B1: Also, und dann weiß ich nicht, also ich hatte einmal, hatte ich jetzt hier etwas manuell editiert. Wichtig ist mir das ich sicher sein kann dass die KI das dann mitbekommt und nicht wieder überschreibt.
+
+N46 #00:11:43#
+B1: Also ich finde es wichtig, dass diese Zusammenarbeit dann gut funktioniert, ne, oder wenn ich jetzt, sag ich mal, diesen Abschnitt 3 händisch rauslöschen würde. Wäre es gut, wenn der auch draußen bleibt und nicht beim nächsten wieder reingeschrieben wird, genau.
+
+N47 #00:11:58#
+I: Ja, ja, verstehe.
+
+N48 #00:12:01#
+B1: Ja, aber also die zweigeteilte Ansicht hat mir gut gefallen.
+
+N49 #00:12:05#
+I: Okay. Dann habe ich zu den Kommentaren noch eine Frage: Da gab es zwei Absender, den Review und den Explorer. Hast du das als eine Stimme oder als verschiedene Perspektiven erlebt? Gab es Anmerkungen, die sich widersprachen?
+
+N50 #00:12:26#
+B1: Widersprüche zwischen den Kommentaren konnte ich in der Zeit jetzt keine finden. Die unterschiedlichen Rollen bei den Kommentaren hat man natürlich erkannt, aber man wusste nicht so ganz genau, was das jetzt bedeutet. Also was genau die Rollen sind und wie sie eingestellt sind, das wäre noch cool, wenn man das selber einstellen könnte oder zumindest nachvollziehen kann, wie die Anmerkungen zustande kommen.
+
+N51 #00:12:57#
+I: Alles klar, da dann zumindest mehr Transparenz. Das Tool hat ja in den erstellten Dokumenten Stellen als „unklar“ oder „Konflikt“ markiert. Einen Teil davon hast du in die Open-Issue-Liste übernehmen lassen. Was hast du sonst mit solchen Stellen gemacht? Und hättest du lieber gehabt, dass das AI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N52 #00:13:25#
+B1: Das fand ich ganz gut, dass das markiert war, ich habe aber auch das Tool gefragt, genau, was das bedeutet. Also, da hab ich gefragt, da ist was markiert, was bedeutet das genau? Und da ist mir aufgefallen, ein Punkt, was ich gerne mache, weil es manchmal schneller geht, ich pack einfach Screenshots in das Tool oder in den Prompt. Das ging hier jetzt nicht, das wäre noch hilfreich. Genau, aber war ja auch nicht super kompliziert, da zu beschreiben. Also, das hat auf jeden Fall geholfen, dass man da sieht, da gibt es irgendwie Widersprüche in den Dokumenten. Genau. Und generell finde ich es schon besser, wenn es nicht einfach irgendwas entscheidet und ich das nicht nachvollziehen kann. Hier wäre es auch gut gewesen, wenn man sich, wie bei den Kommentaren, direkt auf die Markierung beziehen könnte. Durch anklicken oder so.
+
+N53 #00:14:33#
+I: Okay. Und ganz allgemein: War es für dich nachvollziehbar, wie das AI-Tool zu seinen Ergebnissen kommt?
+
+N54 #00:14:49#
+B1: Also grundsätzlich war es nachvollziehbar. Wo ich mich ein bisschen gewundert habe, muss ich sagen, jetzt, ich hatte bei dem ersten Dokument hatte ich ein, genau, da hatte ich das Review gemacht und dann später nochmal ein zweites Review und dann waren da wieder Kommentare. Dann dachte ich, hm, okay, aber warum hast du die beim ersten Mal nicht gefunden?
+
+N55 #00:15:12#
+B1: Ja, also, weil ich hätte erwartet, dass beim zweiten Review da nicht noch mal Kommentare kommen, sondern er einfach sagt: „Hab ich jetzt oder passt alles, können wir approven?“ Das konnte ich nicht so ganz nachvollziehen, da wäre es hilfreich wenn man den Review Prozess irgendwie etwas steuern oder zumindest verstehen kann.
+
+N56 #00:15:31#
+B1: Aber ansonsten war es nachvollziehbar, es war ja eigentlich fast alles auf den Dokumenten begründet.
+
+N57 #00:15:38#
+B1: Es wäre auch interessant zu sehen, mal angenommen, ich hätte dann irgendwie Mist selber da rein editiert, vermutlich hätte sie das dann gefunden und gesagt, ja, da stimmt irgendwas nicht, aber das wäre dann, weil ich selber editiert habe.
+
+N58 #00:15:53#
+I: Ja, das war tatsächlich eine der größten Herausforderungen: Die KI neigt dazu, bei jedem Review noch irgendwas zu finden, und man darf die Leute mit zu vielen Kommentaren auch nicht überfordern. War die Menge der Anmerkungen für dich handhabbar, oder wurde es irgendwann zu viel? Oder hättest du lieber alles gesehen, auch Nebensächliches?
+
+N59 #00:16:35#
+B1: Das ist genau, du sagst das schon richtig, das ist der Spagat zwischen die Leute auch nicht überfordern und ja, es stimmt immer noch nicht und ja und das und das musst du auch noch anpassen und hier und so und dann aber ja, das glaube ich, hätte ich ein besseres Gefühl, wenn ich einfach dann mehr mit dem Tool arbeiten würde, dass ich mir dann meine bessere Meinung bilden könnte und sagen: „Okay, ja, die Einwände sind dann berechtigt, der KI und wenn es berechtigte Punkte sind, ist es ja sinnvoll, sie anzumerken. Oder das sind Kinkerlitzchen, weil sie dann sagt: „Ja, dafür stimmt irgendwie eine Formulierung nicht oder sowas.“
+
+N60 #00:17:08#
+B1: Also, ich glaub, das kriegt man dann erst ein Gefühl, wenn man da länger mit arbeitet und könnt ich mir vorstellen, dass es sinnvoll ist, dass man das auch irgendwie selber einstellen kann, im Sinne von: sei sehr genau, das muss wirklich hundertzwanzigprozentig alles stimmen oder ja, über Kleinigkeiten können wir auch drüber springen, weil das ist jetzt nicht so wichtig oder genau, dass man das oder dass ich als Nutzer der Anwendung das auch in den Kontext mit reingebe, wie sie sich verhalten soll. Also könnte ich mir so vorstellen.
+
+N61 #00:17:42#
+I: Also dass du selbst einstellen kannst, wie streng das Tool sein soll.
+
+N62 #00:17:45#
+B1: Genau, genau, also so wie, ich glaub, das nennt sich Temperature, da hatte ich auch vor kurzem gelernt, dass man die Temperature auch für die Kreativität einstellen kann und ja so ähnlich, also dass man das denn über den Kontext dann irgendwie einfach steuern kann.
+
+N63 #00:18:01#
+I: Okay gut ja. Du hast vorhin gesagt, du hast ein, zwei Mal einen Quellenverweis geöffnet. Wofür? Und hättest du auch ohne Verweise geprüft, oder hättest du ohne Verweise weniger vertraut?
+
+N64 #00:18:16#
+B1: Ich wollte einfach mal checken, was passiert, und sehen, welche Quellen dann geöffnet werden. Geprüft hätte ich in einem Projekt auch ohne, aber das macht es schon einfacher.
+
+N65 #00:18:32#
+I: Okay. Hat das AI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Oder hättest du lieber früher über die Lösung gesprochen?
+
+N66 #00:18:46#
+B1: Meine Aufgabe war ja erst mal, das Problem und die Stakeholder zu analysieren, und da hat mich das Tool auch gut unterstützt. In der kurzen Zeit war das so schon gut sich darauf zu konzentrieren.
+
+N67 #00:19:06#
+I: Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N68 #00:19:21#
+B1: Hm, also wie gesagt, das mit den Screenshots und mit den Rollen bei den Kommentaren. Genau, also dann, welche Frage bei mir Am Anfang noch aufgetaucht war, das war dieser Kommentar-Button. Oder ich teile mal ganz kurz, dann muss ich, genau, also ich war ja hier drin. Genau, da gab es ja alles noch nicht approved, da gab es ja den Kommentar-Button auch schon.
+
+N69 #00:19:53#
+B1: Erst hab ich mich gefragt: „Okay, kann ich hier Comments machen?“ oder dann dachte ich: „Hm, aber Comments, wie tippe ich hier?“ Also, das ist mir da, hab ich mich gefragt, was der Button bedeutet. Ich dachte, genau, ja, ich dachte, es geht jetzt vielleicht so in Richtung Zusammenarbeit, dass ein Kollege hier dann Comments machen kann. Das ist mir aufgefallen.
+
+N70 #00:20:11#
+I: Ah, okay, die Comments sind ja Anmerkungen von dem Reviewer, dann ist der Button, wenn es noch keine Anmerkungen gibt vielleicht ein bisschen irreführend.
+
+N71 #00:20:19#
+B1: Genau, bei mir war es mir nicht klar. Nein, ich dachte, ich kann hier vielleicht auch Comments machen, Arbeitsnotizen für mich selber oder so, genau.
+
+N72 #00:20:26#
+I: Ja, ja, okay, das verstehe ich.
+
+N73 #00:20:29#
+B1: Ansonsten, genau, mit den Kommentaren, und genau, das waren die Auffälligkeiten, die ich noch hatte.
+
+N74 #00:20:40#
+I: Ja, okay. Vorhin hast du ja gesagt, du erwartest von einem KI-Tool vor allem eine Zusammenfassung, um die wichtigsten Dinge herauszukristallisieren. Wie siehst du das jetzt, auch im Vergleich zu den KI-Tools, die du sonst nutzt, wenn du da jetzt so die Dokumentenansicht und den Chat hast?
+
+N75 #00:21:10#
+B1: Ja, ich, genau, ich überleg gerade. Also, ich würd sagen, wenn ich jetzt mal mit unserer [Arbeitgeber]-Workbench vergleiche, ich weiß nicht, ob du sie kennst oder schon genutzt hast, also würd ich sagen, klappt das hier ähnlich gut. Die Dokumentenansicht gibt es dort nicht.
+
+N76 #00:21:29#
+B1: Ja, weil ich sehe, es hatte mir das Markdown auch schon entsprechend gerendert. Also, das finde ich schon auch gut. Weil gerade, wenn ich dann mit dem Visual Studio Code arbeite, ist es immer ein bisschen schwierig. Dann mache ich, genau, mit der Preview und, oder ich schau lieber die Preview an, das ist dadurch einfacher als irgendwie ein Markdown-Dokument. Also, aber ich fand das sehr gut, hat mir gut gefallen. Also, dass ich dann direkt auch da editieren kann. Genau, ja.
+
+N77 #00:22:03#
+I: Gut. Könntest du dir vorstellen, das AI-Tool in einem echten Projekt einzusetzen? Wofür, und wofür nicht?
+
+N78 #00:22:12#
+B1: Na ja, so spontan heute haben wir ja quasi so eine, genau, eine Projektvorbereitung gemacht oder eine Workshopvorbereitung.
+
+N79 #00:22:23#
+B1: Das ist jetzt der Anwendungsfall, den ich geprüft habe, ne? Und da hat es jetzt gut geklappt, oder was heißt geprüft, den wir jetzt durchgearbeitet haben. Da hat es jetzt gut geklappt und da könnte ich es mir eigentlich auch vorstellen.
+
+N80 #00:22:44#
+B1: Was ich jetzt aber auch nicht ausprobiert hab, ist, ob ich mit dem Tool auch im Internet suchen kann. Ne, also beispielsweise, ich habe jetzt mit Claude, habe ich gestern gemacht. Ich war vor zwei Wochen auf einer Messe und da hat mich Claude auch in der Vorbereitung unterstützt.
+
+N81 #00:23:00#
+B1: So, genau, und dann habe ich gestern eben die Nachbereitung gemacht, und dann habe ich eben noch mal zu verschiedenen Ständen oder Unternehmen, die ich besucht habe, mit Claude dann interagiert, was dann noch so Anknüpfungspunkte mit diesem Unternehmen sein könnten, ne, und dann muss es natürlich dann irgendwie im Internet auch recherchieren, was dieses Unternehmen so anbietet und wo da Überschneidungen sind. Da weiß ich jetzt nicht, ob das Tool dann auch jetzt dein Tool auch aufs Internet zugreifen könnte und mich da irgendwie unterstützt.
+
+N82 #00:23:30#
+B1: Oder wenn ich irgendwie vielleicht Dokumente zu einem Kunden jetzt nicht in dieser Ausführlichkeit habe, ne, du hast ja jetzt drei Dokumente mir gegeben, die schon, glaube ich, sehr detailliert waren, aber wenn ich vielleicht noch gar nicht so das habe, dann würde ich vielleicht sagen, ja, schau mal, was macht irgendwie Nordwerk. Was sind so ihre Kernkompetenzen oder in welcher Branche sind sie tätig? Also, dann fände ich schon auch hilfreich, dass es wirklich auch im Netz dann Dinge finden kann und dann mit irgendwie da integriert, oder dass ich vielleicht auch sagen kann, ja, was würdest du denn vorschlagen für den Workshop, brauche ich irgendeinen Icebreaker oder sowas, schlag mir da mal eine Methode vor, weil das sind irgendwie 25 Leute, dann ist das irgendwie ein bisschen schwierig. Also genau das hab ich jetzt nicht ausprobiert.
+
+N83 #00:24:17#
+B1: Aber ich finds immer auch wichtig, genau, dass es auch außerhalb der Dokumente mir einen wertvollen Beitrag geben kann.
+
+N84 #00:24:27#
+I: Ja, ja, versteh ich. Also, das Testszenario war jetzt natürlich auf die drei Dokumente erst mal ausgelegt, dass es in der halben Stunde gut funktioniert. Aber man müsste das natürlich dann, wenn man es im Projekt nutzt, ein bisschen flexibler noch testen, inwieweit es auch in anderen Kontexten funktioniert.
+
+N85 #00:24:43#
+B1: Genau, oder man macht's einfach klar. Ja, und sagt, es ist ja auch okay. Also wenn man sagt: „Ja, das kann nur mit den Dokumenten arbeiten“, dann glaube ich, könnte es ja auch schon eine Hilfestellung sein. Genau.
+
+N86 #00:24:57#
+I: Okay. Als Abschluss noch die letzte Frage: Gibt es noch etwas, das du mir sagen möchtest, was dir aufgefallen ist, was ich jetzt nicht abgefragt habe?
+
+N87 #00:25:09#
+B1: Genau, ich kann noch mal kurz wieder. Dann kann ich mir noch mal da einfach noch mal kurz durchklicken, während ich da gucke.
+
+N88 #00:25:21#
+B1: Na ja, ich hatte mich nämlich gefragt, irgendwie jetzt hab ich New Chat geklickt und wo sitz ich, dachte, hier oben ist der andere jetzt vielleicht in dem Tab, ne, aber hier, ah, ah, da seh ich's jetzt. Okay, da ist Chat 1, Chat 2, genau. Also da ist die Frage, gerade bei der Workbench finde ich es super, wenn ich da mir irgendwie auch Projekte anlegen kann, ne, sag ich mal, Kunde A. Hab dann irgendwie fünf Chats zu Kunde A und zu Kunde B oder Projekt B. Genau, da ist die Frage, wie das hier dann abgebildet werden würde.
+
+N89 #00:25:56#
+I: Das ist, wenn du jetzt auf das ganz links oben auf das Logo klickst, dann kommst du wieder in die Projektsicht und da könntest du dir dann zu jedem Kunden ein Projekt anlegen. Und da ist es dann auch so gedacht, dass die Projekte voneinander komplett getrennt sind und du dann pro Projekt dann einen, oder pro Kunde oder pro, ja, Ding, ein Projekt anlegen kannst.
+
+N90 #00:26:16#
+B1: Ah genau, stimmt. Ja, das hatte ich wieder vergessen, dass wir da auf dieser GUI waren. Genau. Ja, nee, dann ist gut. Aber ansonsten hat das gut funktioniert.
+
+N91 #00:26:32#
+I: Cool, das freut mich.
+
+N92 #00:26:33#
+B1: Was ich gerade noch vermisse, oder ich sehe hier nirgends, auch, doch, hier vorne sehe ich ein Datum, ne, weil ich find's immer, dann weiß ich, wenn ich weiß, okay, wann hab ich denn hier jetzt daran gearbeitet oder welcher Stand ist das denn jetzt, ne? Also mal angenommen, das ist jetzt der Stand von heute.
+
+N93 #00:26:51#
+B1: Und ich schau dann irgendwie Ende des Monats wieder rein und dann ergeben sich irgendwie dann neue Erkenntnisse im Lauf des Monats. Da würde ich mich vielleicht fragen, ja okay, hab ich die jetzt schon reingearbeitet hier oder ich weiß gar nicht, dass man da
+
+N94 #00:27:04#
+I: Dass du siehst, so zuletzt bearbeitet oder irgendwie sowas.
+
+N95 #00:27:08#
+B1: Irgendsowas, ja genau, dass ich für mich selber einschätzen kann. Wenn man jetzt bei einem Projekt ist, ist es nicht relevant, ne, aber wenn ich dann irgendwie 10 Projekte hätte, hm, hab ich das gestern gemacht oder war es schon irgendwie drei Wochen her?
+
+N96 #00:27:21#
+I: Verstehe.
+
+N97 #00:27:23#
+B1: Und vielleicht auch, weiß ich nicht, ob das dann auch, aber das ist, denke ich, schon weiter, wenn ich mit Kollegen gemeinsam daran arbeite. Also genau.
+
+N98 #00:27:32#
+I: Ja, also ja, übergreifende Features hab ich jetzt noch gar nicht.
+
+N99 #00:27:37#
+B1: Genau, nee. Es war jetzt auch nur noch weiter gedacht. Also genau, aber dass dann ein Kollege das dann eben auch sieht. Nee, aber ansonsten fand ich es angenehm, damit zu arbeiten, jetzt in dieser halben Stunde, ja.

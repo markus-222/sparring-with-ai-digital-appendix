@@ -1,0 +1,197 @@
+Interview-ID: [P11]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:03#
+I: Als Erstes vielleicht mal eine kurze Beschreibung, was deine Rolle ist, also in welchem Berufsfeld du arbeitest, in welchen Projekten du arbeitest und wie lange du schon als Requirements Engineer arbeitest, einfach kurz zusammengefasst.
+
+V02 #00:00:26#
+B1: Ja, also ich bin Product Owner und Requirements Engineer in einer IT-Consulting-Firma. Das heißt, wir arbeiten hauptsächlich oder eigentlich immer in verschiedenen Kundenprojekten.
+
+V03 #00:00:52#
+I: Wie oft nutzt du bei deiner Arbeit irgendwelche KI-Tools und wofür benutzt du die meistens?
+
+V04 #00:01:00#
+B1: Ja, ich benutze sie eigentlich ziemlich häufig und sehr viel dafür, eben die ganze Informationsflut, die man mitbekommt von einem Kunden, irgendwie zu sortieren. Einmal auch Entscheidungen zu dokumentieren, sortiert in Dokumentationen zusammenzufassen. Und dann aber eben auch, um daraus User Stories zu schreiben. Epics runterzubrechen in User Stories, sowas.
+
+V05 #00:01:37#
+I: Okay, wenn du jetzt, wie bei der Aufgabe, einen Workshop vorbereiten musst und erst mal die ersten Dokumente sichten, analysieren musst, wo denkst du, dass dir ein KI-Tool da am meisten helfen wird? Oder was erwartest du dir da jetzt von dem KI-Tool?
+
+V06 #00:01:57#
+B1: Ja, also ganz oft sind Informationen sehr unstrukturiert, die man mal mitschreibt oder irgendwie mal, wenn man es rangeworfen kriegt von Kunden. Und dafür finde ich es eigentlich ganz gut, dass man das ein bisschen gesammelt sortieren kann mit Hilfe von LLMs. Genau, also ganz häufig habe ich dann irgendwie riesige Excel-Listen, was für welches Feature beachtet werden muss und hier noch eine Anforderung und da noch ein Hinweis für eine Begrenzung oder irgendein Limit.
+
+V07 #00:02:33#
+B1: Und dann kann man das ganz gut runterbrechen und auch immer wieder darauf zurücktesten, also sozusagen, wenn man dann am Ende die Epics und User Stories oder alles hat, dann noch mal testen. Also Rückfragen: Habe ich alles beachtet oder irgendwas vergessen aus den Notizen oder sowas? Einfach hin und her analysieren. Und Informationen nicht verlieren oder sortieren, und dafür ist gut.
+
+V08 #00:03:04#
+I: Okay, ja, perfekt. Das wäre es jetzt auch für den Start erstmal.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:03#
+I: Genau. Als Erstes: Was ist denn aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:11#
+B1: Ja, also so wie ich das verstanden habe, soll da eine neue Plattform eingeführt werden. Und das Problem ist, glaube ich, dass noch nicht so klar ist, was die Mitarbeiter überhaupt brauchen. Also der Auftrag und die Mitarbeiterbefragung gehen da irgendwie in verschiedene Richtungen.
+
+N03 #00:00:34#
+I: Okay. Dann zu ein paar Aussagen, vielleicht nochmal: Du musst immer von 1 bis 5 bewerten und dann vielleicht noch eine kurze Begründung dazu liefern, aber wirklich nur ein, zwei Sätze. Also bei zum Beispiel bei der Aussage durch das KI-Tool habe ich den Fall schneller erfasst? Eins trifft gar nicht zu, bis fünf trifft voll zu.
+
+N04 #00:01:04#
+B1: Bei der, was war die Aussage?
+
+N05 #00:01:08#
+I: Durch das KI-Tool habe ich den Fall schneller erfasst.
+
+N06 #00:01:12#
+B1: Ach so, ja. 5. Also, trifft voll zu. Weil den groben Überblick, worum es geht und wer da alles beteiligt ist, hatte ich nach ein paar Minuten. Allein wäre ich wahrscheinlich jetzt noch am Lesen.
+
+N07 #00:01:30#
+I: Ja, die zweite Aussage wäre: „Das KI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N08 #00:01:45#
+B1: Ja. Ich denke, ich würde mal eine 4 vergeben, weil wenn ich mehr Zeit gehabt hätte, mich da richtig einzulesen, wären mir die Sachen vielleicht auch aufgefallen. Aber dadurch, dass es jetzt ein bisschen schneller gehen musste, war das schon ganz gut, dass die Dokumente und die Punkte von der KI verglichen wurden und auch Sachen rausgeschrieben wurden, die abgefallen sind.
+
+N09 #00:02:13#
+I: Okay, ja, die dritte Aussage ist: Ich wusste jederzeit, was in meinem Dokument steht und was sich daran geändert hat.
+
+N10 #00:02:24#
+B1: Mittel, also eine 3. Beim ersten Dokument wusste ich noch ziemlich genau, was drinsteht, bei den anderen zwei dann weniger, weil es hinten raus etwas knapp wurde. Was sich geändert hat, das ging eigentlich, das habe ich ja meistens selbst angestoßen.
+
+N11 #00:02:45#
+I: Und noch die letzte Aussage: Ich vertraue den Ergebnissen, die ich mit dem KI-Tool erarbeitet habe.
+
+N12 #00:02:53#
+B1: Ja, da würde ich eine 3 geben. Weil (...) auch der Zeit geschuldet, weil ich jetzt nicht alles durchblicken konnte und ich auch nicht alles gegengeprüft habe. Also ich habe jetzt dann, wenn da eine Diskrepanz erkannt wurde, habe ich gesagt: „Okay, dann müssen wir das wohl noch mal in einem Workshop klären.“ Aber ich habe jetzt die Quellen nicht noch mal gecheckt oder so, ja.
+
+N13 #00:03:24#
+I: Okay, wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das KI-Tool?
+
+N14 #00:03:41#
+B1: Ja, also erst mal habe ich versucht, das Projekt zu verstehen und überhaupt zu verstehen, welche Dokumente ich habe. Also ich hatte ja einen Auftrag, ein Protokoll von einer bisherigen Runde und Mitarbeiterbefragung gegeben und habe dann das erst mal der KI gegeben und gesagt, worum geht es hier, damit ich nicht alles selbst durchlesen muss und alle drei Quellen schon in einer Quelle sozusagen habe.
+
+N15 #00:04:13#
+B1: Und dann gesagt, die und die sind das Ziel, ich möchte gerne einen Plan, ich brauche entsprechend die Dokumente, die ich dafür brauche, und versuche das mit der KI gemeinsam zu erarbeiten. Also welche Fragen sind offen, welche können wir doch noch irgendwie klären, stell mir Fragen, Sachen, die ich vielleicht entscheiden kann, bevor sie in die große Runde gehen, versucht das im Dialog mit der KI zu klären, genau, was dann aber aufgrund der Masse der Informationen nicht vollständig möglich war, und dann habe ich dann manche Sachen doch einfach mal generieren lassen.
+
+N16 #00:05:00#
+B1: Ich achte schon immer darauf, dass ich entsprechend prompte. Das heißt, es kamen schon auch Rückfragen, die mir die Kontrolle gegeben haben, aber gleichzeitig übernimmt das Tool ja auch so. Struktur von dem Dokument und so Sachen, die ich jetzt einfach mal so hingenommen habe und mich nicht für alles einzeln selbst entschieden habe.
+
+N17 #00:05:34#
+I: Okay. Hast du dir am Anfang erst mal die Unterlagen selber durchgelesen oder bist du direkt in die KI-Analyse gegangen?
+
+N18 #00:05:44#
+B1: Also teils habe ich es selbst durchgelesen, teils habe ich sogar im Nachhinein noch mal durchgelesen, weil ich dann gemerkt habe, okay, irgendwie fasst sich gerade ein bisschen zu viel zusammen, und bin dann doch noch mal den Originaltext durchgegangen. Aber ja, ich habe schon ziemlich bald alle drei Sachen einfach der KI gegeben, dass sie mir helfen, Überblick zu bekommen.
+
+N19 #00:06:06#
+I: Okay, gab es eine Stelle, an der du einen Vorschlag des KI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N20 #00:06:28#
+B1: Also, ob ich etwas geändert habe oder alles so übernommen habe?
+
+N21 #00:06:33#
+I: Ja, also wenn du was in dein Ergebnis übernommen hast, was waren da deine Gedanken dabei? Hast du das einfach mal rauskopiert und gesagt, okay, das wird jetzt passen, oder hast du das dann vorher noch mal gegengeprüft?
+
+N22 #00:06:50#
+B1: Ich habe teilweise gegengeprüft, teilweise einfach übernommen. Also ich habe schon noch ein bisschen gegengeprüft oder mir auch erklären lassen. Also wenn jetzt auch die Frage war: Ich bin nicht sicher, ob die wirklich so offen ist, habe ich noch mal mir sagen lassen, wo in den Quellen das zu sehen ist, dass ich noch mal checken kann.
+
+N23 #00:07:27#
+I: Okay. Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat? Also, wo du vielleicht gesagt hast: „Ah, okay, es geht gar nicht darum, sondern eher das ist wichtig.“
+
+N24 #00:07:42#
+B1: Jetzt in Bezug auf die Arbeit mit der KI oder auf das Ziel des, also dass die Dokumente okay.
+
+N25 #00:07:48#
+I: In Bezug auf das Ziel.
+
+N26 #00:07:55#
+B1: Ja, also die KI hatte sich sehr versteift auf ein paar Diskrepanzen, wo ich dann gesagt habe, ist jetzt nicht die Top-Frage, die kann man einmal kurz klären und dann ist gut.
+
+N27 #00:08:10#
+B1: Das war zum Beispiel eine Budgetänderung oder so was war in den Beispielen, die KI gemeint hat, das ist jetzt ein ganz großes Problem, so können wir nicht weiterarbeiten. Und dann hat sie das als wichtiges Thema in Scope definitiv aufgenommen, und dann habe ich einfach noch mal das nachgelesen und beschlossen, dass es einfach als eine offene Frage reinkommt, aber jetzt nicht das große Problem. Ja, als Beispiel.
+
+N28 #00:08:39#
+I: Okay, also hast du dann den Fokus noch mal ein bisschen oder wieder den Fokus aufs Wesentliche zurückgeholt.
+
+N29 #00:08:45#
+B1: Ja, genau.
+
+N30 #00:08:47#
+I: Okay. Hat das KI-Tool deine Einschätzungen eher bestätigt oder eher infrage gestellt? Gab es Einwände, die du nicht erwartet hättest, oder Zustimmung, die dir zu schnell ging?
+
+N31 #00:09:11#
+B1: Ich glaube, eine Rückfrage wurde schon gestellt. So ein Okay, soll ich diese Entscheidung übernehmen? Genau, aber dann schon, also dann einfach übernommen, also mir noch mal das Problem dargestellt und gesagt, bist du sicher mit der Entscheidung, das anders zu machen, als ich es vorgeschlagen habe, und dann so.
+
+N32 #00:09:50#
+I: Okay. Hättest du dir einen Widerspruch gewünscht, oder hätte das gestört?
+
+N33 #00:09:58#
+B1: Schwer zu sagen. Also bei der, bei der Entscheidung, die ich anders getroffen habe, hätte ich mir schon gewünscht, dass die KI deutlicher sagt, wenn es einen guten Grund dagegen gibt. Aber jetzt über jeden Punkt diskutieren, das hätte mich eher aufgehalten.
+
+N34 #00:10:27#
+I: Genau, und dann hätte ich noch ein paar Fragen: Was am KI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N35 #00:10:48#
+B1: Also vielleicht hat mir ein bisschen die Struktur gefehlt. Ich habe so ein bisschen versucht zu fragen, wie gehen wir jetzt vor, damit ich mir nicht selbst überlegen muss, welche Fragen stelle ich am besten, um ans Ziel zu kommen. Das ist nicht, also ich wollte jetzt nicht als Erstes schreiben: „Gib mir die Dokumente aus und gut ist“, sondern ich wollte das ja so ein bisschen iterativ erarbeiten und musste mir dann aber selbst überlegen, ohne dass ich das Projekt richtig gut kenne, dann fällt es total schwer, da konkrete Fragen zu stellen, die einen in die richtige Richtung wenden, sondern muss offene Fragen stellen. Das fand ich so ein bisschen schwierig, auch dass ich nicht zu schnell auch Lösungen von der KI übernehme, ohne sie verstanden zu haben.
+
+N36 #00:11:47#
+B1: Genau, ich habe mir dann Entwürfe ausgeben lassen und dann versucht, mit Rückfragen und Rückinfos, dass wir dann zusammen ans Ziel kommen, aber es war ein bisschen anstrengender, als es vielleicht hätte sein müssen, ja.
+
+N37 #00:12:04#
+I: Ich glaube, du hättest dir ein bisschen mehr die Guidance durch die Aufgabe gewünscht.
+
+N38 #00:12:12#
+B1: Ja, vielleicht hätte es mir auch geholfen, manche Tools zeigen ja auch an, in welchen Quellen sie was gefunden haben. Das ist jetzt bei Claude zumindest, glaube ich, bei mir nicht so, dass es manchmal erwähnt ist in der Quelle oder erwähnt im Text, aus welchem Dokument es jetzt nimmt, aber ich kann jetzt nicht irgendwie es direkt auf ein Zitat zurückführen. Das hätte mir vielleicht auch geholfen, dass ich dann noch mal kurz nachlesen kann, was meint er denn hier oder wo zieht er sich [?].
+
+N39 #00:12:45#
+I: Okay. Und was hat dir am meisten geholfen?
+
+N40 #00:12:51#
+B1: Ja, also am meisten eigentlich, dass ich nicht bei null anfangen musste. Ich hatte relativ schnell für alle drei Dokumente so einen ersten Entwurf, und gerade das Ausformulieren, das dauert ja sonst immer am längsten.
+
+N41 #00:13:09#
+I: Alles klar. Und war die Menge und Länge dessen, was das KI-Tool geliefert hat, für dich handhabbar?
+
+N42 #00:13:19#
+B1: Also die Länge ging eigentlich, weil ich im Prompt meistens schon sage, wie ausführlich es sein soll. Eher die Menge an Punkten, das waren schon sehr viele auf einmal, und dann weiß man so ein bisschen nicht, wo man anfangen soll, da wäre ein bisschen Priorisierung gut.
+
+N43 #00:13:41#
+I: Gut. Du hast vorhin von der Budgetänderung erzählt, die die KI als großes Problem in den Scope aufgenommen hat. Hättest du lieber gehabt, dass das KI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N44 #00:13:59#
+B1: Lieber nachfragen. Dann hätte ich gleich sagen können, das ist für mich nicht so ein großes Thema, und hätte es nicht hinterher selbst aus dem Scope rausnehmen müssen.
+
+N45 #00:14:15#
+I: Okay. Hat das KI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N46 #00:14:27#
+B1: Schon eher zum Problem, würde ich sagen. Die Plattform kam zwar immer wieder vor, aber, also die Fragen, die Claude mir gestellt hat, gingen auch in die Richtung, wo es bei den Mitarbeitern hakt und wo sich die Unterlagen widersprechen. Genau, und was die Plattform am Ende können soll, darüber haben wir eigentlich wenig geredet.
+
+N47 #00:14:54#
+I: Und hättest du lieber früher über die Lösung gesprochen?
+
+N48 #00:15:01#
+B1: Nein, eigentlich nicht. Gerade beim ersten Workshop wäre das zu früh, da ist ja noch so vieles offen.
+
+N49 #00:15:11#
+I: Alles klar. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das KI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N50 #00:15:27#
+B1: Als Erstes (...) ich glaube, dass man erstmal diskutieren kann, wie so eine Scope-Definition oder eine Stakeholder-Analyse aussehen muss, und das dann mit der KI abarbeiten kann. Sonst sitzt man am Ende da und hat nicht, was man braucht.
+
+N51 #00:15:48#
+I: Okay. Vorhin, bevor du die Aufgabe gemacht hast, hast du gesagt, dass du KI-Tools in deinem Arbeitsalltag meistens nutzt, um unstrukturierte Infos zu sammeln und zu sortieren. Wie siehst du das jetzt: Hat es dir hier geholfen, die Dokumente zu strukturieren, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N52 #00:16:14#
+B1: Ja, das ist auf jeden Fall, weil (...) Ja, dadurch, dass Infos in drei Dokumenten verteilt sind, hätte ich ja und auch nach Themen gemischt, so mein Gefühl ist, hätte ich ja erst alle durchgehen müssen und dann selbst raussuchen müssen, das gehört zu der Frage. So war das eigentlich ganz gut, dass es die gemischten Themen aus den drei Dokumenten irgendwie sortiert hat. Und im Vergleich zu sonst, ich nutze ja im Alltag auch Claude, war das jetzt nicht groß anders. Der Unterschied ist, dass ich sonst schon länger im Projekt drin bin und meine eigenen Notizen reingebe, da kann ich ein bisschen besser einschätzen, wo ich hin will, und prüfen, ob das stimmt, was rauskommt.
+
+N53 #00:17:10#
+I: Okay, dann eigentlich nur noch eine Frage: Gibt es noch etwas, das du mir sagen möchtest, was ich jetzt nicht abgefragt habe?
+
+N54 #00:17:23#
+B1: Mir hat so ein bisschen der Überblick gefehlt. Also Claude sucht ganz oft offene Fragen raus, die keine wichtigen offenen Fragen sind. Es hat so sehr bestanden auf so ein Betriebsrat-Thema. Geht das überhaupt datenschutzmäßig? Und ich bin ja kein Datenschutzexperte, aber so Sachen hat er mir ausgegeben. Und dann war es jetzt für mich schwer zu entscheiden. Dadurch hätte ich noch mal genauer in die Projektarbeit reingehen müssen, zu verstehen, ob es wirklich ein großes offenes Thema ist.
+
+N55 #00:18:02#
+I: Okay, um dann wirklich zu verstehen, was der Fokus gewesen wäre.

@@ -1,0 +1,179 @@
+Interview-ID: [P12]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Videocall]
+
+--- VORGESPRÄCH ---
+
+V01 #00:00:03#
+I: Zum Start wäre es ganz cool, wenn du vielleicht zwei Sätze über dich sagen könntest, was deine berufliche Rolle ist und wie lange du schon in den frühen Phasen von Softwareprojekten unterwegs bist.
+
+V02 #00:00:16#
+B1: Okay, ja, also ich war ursprünglich mal Informatiker EFZ, also ich habe die Lehre gemacht als Informatiker in der Schweiz, bin danach nach meiner Lehre in System Engineering gegangen, also entsprechend für was ich die Lehre gemacht habe, und habe mich dann nach zwei Jahren eigentlich schon entschieden, dass ich studieren möchte. Habe dann die Berufsmaturität gemacht, das wäre Fachabitur in Deutschland, und mit dem Bachelor angefangen, Wirtschaftsinformatik.
+
+V03 #00:00:47#
+B1: Währenddessen habe ich in einer Firma angefangen zu arbeiten, zuerst als Projektleiter, und bin danach in die externe Informatik gewechselt, also Kundeninformatik, quasi IT-Outsourcing. Und dort war ich dann zuletzt Senior Manager und habe ein Team geleitet.
+
+V04 #00:01:06#
+B1: Ja, fürs Outsourcing. Wir hatten teils auch Softwareprojekte, also zum Beispiel ein Projekt, was wir gemacht haben, war das eine, also das war niemand aus meinem Team, aber trotzdem habe ich es koordiniert oder war Projektleiter dafür, wo die Programmierungsteams eine Software entwickelt haben für Treuhandfirmen, um die Buchhaltung zu automatisieren, genau.
+
+V05 #00:01:34#
+I: Na gut, das reicht mir soweit erst mal schon. Wie oft nutzt du KI-Tools bei deiner Arbeit, also von nie, gelegentlich bis zu täglich? Was würdest du da sagen?
+
+V06 #00:01:46#
+B1: Täglich, schon täglich, ja.
+
+V07 #00:01:49#
+I: Ja, ich glaube, es geht den meisten so. Genau, und wenn du jetzt unbekannte Informationen bekommst, dich da erst mal einarbeiten und das analysieren musst, welche Art von Unterstützung würdest du dir da von KI-Tools erwarten und wünschen?
+
+V08 #00:02:08#
+B1: Also, okay, wenn ich irgendwelche Dokumente bekomme, die ich verifizieren müsste, sowas in dem Stil.
+
+V09 #00:02:16#
+I: Genau, ja, du bekommst irgendwie paar Dokumente und musst verstehen, um was geht es da? Was ist das Problem? Was sind die Aufgaben?
+
+V10 #00:02:24#
+B1: Ja, also würde ich sagen, dass die KI möglichst auch so ein bisschen die Nuancen rausarbeiten muss. Also, wenn es jetzt ein Beispiel wäre, gewisse Vertragsdokumente, die ich erhalte. Da war ich immer skeptisch mit dem Einsatz von KI, weil ich wirklich die Details verstehen wollte. Und ich hatte das Gefühl, dass die KI das nicht macht. Von dem her, ja, dass die KI die gleichen Details entdeckt und hervorhebt. Also ich würde sagen sie muss die Dokumente im Detail verstehen können und fragen dazu beantworten können.
+
+--- NACHGESPRÄCH ---
+
+N01 #00:00:03#
+I: Als erste Einstiegsfrage wäre meine Frage: Was ist aus deiner Sicht das eigentliche Problem bei Nordwerk?
+
+N02 #00:00:20#
+B1: Ja, was war das noch einmal? Ich glaube, es ging um die Lernpfade, die nicht definiert sind, und um diese Unübersichtlichkeit, weil die Plattform nicht einheitlich ist, sondern so verstreut über alles. Ich war zumindest der Meinung, dass das eigentlich ein und dasselbe Problem ist. Wenn man das vereinheitlicht in einer Plattform, also wenn sie dort einen Anbieter finden, der das machen kann, dann würde es wahrscheinlich die Probleme mit den Lernpfaden lösen. Ich glaube, die Lernpfade zu machen wurde als nicht realistisch angeschaut. Aber das finde ich schwierig, wenn du ein Lernsystem einführst und dann nicht definierst, wie die Lernpfade sein sollen, also selbst wenn sie jemand finden, der es anbietet.
+
+N03 #00:01:14#
+I: Okay, ja, ich würde jetzt vier Sätze sagen, und du müsstest mir bitte immer sagen, auf einer Skala von 1 bis 5, entweder 1 trifft überhaupt nicht zu oder 5 trifft voll zu. Und dann vielleicht noch so einen ganz kurzen Satz dazu, warum du die Bewertung so gegeben hast.
+
+N04 #00:01:31#
+I: Der erste Satz wäre: „Durch das AI-Tool habe ich den Fall schneller erfasst.“
+
+N05 #00:01:40#
+B1: Also, mit dem AI-Tool konnte ich den Case schnell erfassen, war die Frage oder die Aussage. 2 oder 3, weil ich hätte jetzt gesagt, ich war da eher sehr oberflächlich unterwegs, wie du auch gerade gemerkt hast. Weil ich gewusst habe, dass die Zeit knapp ist, bin ich gar nicht erst in die Dokumente schauen gegangen.
+
+N06 #00:02:09#
+I: Ja, ja, verstehe ich. Der zweite Satz wäre: „Das AI-Tool hat mich auf Punkte gebracht, die ich allein vermutlich übersprungen hätte.“
+
+N07 #00:02:22#
+B1: Würde ich, 3 würde ich sagen, in dem Kontext hat es das, weil ich nicht in die Dokumente geguckt habe, weil ich direkt mit KI gestartet habe. Hätte ich in die Dokumente geschaut, wäre ich wahrscheinlich selbst auch drauf gekommen, also auf die Lücken.
+
+N08 #00:02:45#
+I: Ja, dann das Nächste wäre noch: „Ich wusste jederzeit, was in meinem Dokument steht und was sich daran geändert hat.“
+
+N09 #00:02:58#
+B1: 2, würde ich sagen. Also so grob wusste ich schon, was drinsteht, weil ich es ja im Chat mitgelesen habe. Aber was sie zwischendurch angepasst hat, also das habe ich nicht verglichen, und auch bei den fertigen Dateien am Schluss wusste ich nicht überall genau was drinsteht.
+
+N10 #00:03:23#
+I: Gut, und der letzte Satz: „Ich vertraue den Ergebnissen, die ich mit dem AI-Tool erarbeitet habe.“
+
+N11 #00:03:34#
+B1: 1, sehr wenig, weil ja, also ich war jetzt ein bisschen schnell unterwegs. Ich bin gleich mit KI gestartet und muss blind vertrauen, dass das passt.
+
+N12 #00:03:49#
+I: Okay. Du hast gerade gesagt, dass du gleich mit der KI gestartet bist. Wie bist du in den 30 Minuten vorgegangen, und wer hat das Vorgehen eher bestimmt, du oder das AI-Tool?
+
+N13 #00:04:07#
+B1: Mein erster Prompt war schon, dass ich möchte, dass ich im Loop gehalten werde, und das Claude, was hier die Streitpunkte waren, gegenüberstellt.
+
+N14 #00:04:21#
+B1: Aber der gesamte Flow war von der KI, und ich habe die Dokumente nicht gelesen. Also es war nicht meine Schlussfolgerung, was Problempunkte sind, sondern die von der KI.
+
+N15 #00:04:38#
+B1: Und ich würde sagen, wenn ich jetzt alles verstehen müsste, dann würde ich in den Worten von KI zuerst selber meinen eigenen Kontext dazu aufbauen, was ich jetzt nicht gemacht habe. Deswegen hatte ich auch etwas Mühe, deine erste Frage zu beantworten.
+
+N16 #00:05:01#
+I: Gut. Gab es eine Stelle, an der du einen Vorschlag des AI-Tools nicht einfach übernommen hast, sondern geändert oder abgelehnt? Erzähl mir die kurz.
+
+N17 #00:05:15#
+B1: Ja, eigentlich gleich am Anfang. (...) Bei der Scope-Abgrenzung und Problemdefinition da hatte ich das Gefühl, dass der erste Punkt, den mir die KI genannt hat oder identifiziert hat als Spannung, die anscheinend vorhanden war, wo ich das Gefühl hatte, das ist gar keine Spannung. Und ich war mir nicht sicher, warum es das nicht verstanden hat. Also, aus meiner Sicht war es keine Spannung, das habe ich dann korrigiert.
+
+N18 #00:05:50#
+I: Alles klar. Du hast es auch schon gesagt, du hast also Text übernommen, ohne ihn an den Unterlagen zu prüfen? Und hast das AI-Tool auch mal korrigiert?
+
+N19 #00:06:06#
+B1: Ja, also übernommen habe ich jetzt eigentlich so gesehen alles, ohne es zu prüfen, weil ich hatte ja nichts, womit ich es hätte abgleichen können. Ich habe mir ja direkt eine Zusammenfassung erstellen lassen und nicht in die Dokumente geschaut. Korrigiert habe ich die KI nur bei dem einen Punkt mit der Spannung. Sonst habe ich ihr komplett vertraut.
+
+N20 #00:06:36#
+I: Ja, okay. Gab es einen Moment, in dem sich deine Sicht auf den Fall verändert hat?
+
+N21 #00:06:46#
+B1: Hm, schwierig. Am Anfang hatte ich noch keine eigene Sicht, die sich hätte ändern können. Wenn, dann bei dieser Spannung. Wo ich mir überlegt habe, warum ich das anders sehe, ist mir aufgefallen, dass die Punkte, die mir die KI aufgelistet hat, eigentlich zusammenhängen. Das kam dann aber mehr von mir als von ihr.
+
+N22 #00:07:14#
+I: Okay, hat das AI-Tool deine Einschätzungen eher bestätigt oder eher infrage gestellt? Oder gab es irgendwie Einwände von dem Tool, die du nicht erwartet hättest? Oder vielleicht auch eine Zustimmung, die dir zu schnell ging, wo du sagst: „Ah, okay, das hat es jetzt einfach übernommen.“
+
+N23 #00:07:38#
+B1: Ich fand, das war gar nicht kritisch. Also, es hat alles so angenommen und direkt losgelegt. Und hat auch gesagt, ah, das macht Sinn, was ich geschrieben habe. Ja, und ich kann es selber nicht nachprüfen, weil mein Wissen ja basiert auf dem, was die KI entschieden hat mir als Info zu geben, so gesagt.
+
+N24 #00:08:07#
+I: Ja, verstehe ich. Hättest du dir einen Widerspruch gewünscht, oder hätte das gestört?
+
+N25 #00:08:16#
+B1: Ja, eigentlich gewünscht. Weil die KI hat die Dokumente gekannt und ich nicht, also da war sie mir ja voraus. Wenn ich dann etwas sage und sie gibt mir einfach recht, ja, dann bringt mir das nicht viel. Gestört hätte es nicht, eher geholfen, wenn man sich mit Widersprüchen auseinandersetzt. Natürlich solange sie sagt, warum das ein Widerspruch ist.
+
+N26 #00:08:46#
+I: Gut, dann noch zum AI-Tool selbst: Was am AI-Tool hat dir bei der Aufgabe am meisten geholfen, und was hat gestört oder gefehlt?
+
+N27 #00:09:00#
+B1: Ja, also was ich jetzt gut gefunden hätte, und da hätte ich mir vielleicht mehr Zeit nehmen müssen. Aber wenn ich mir ein bisschen mehr Zeit genommen hätte, dann hätte ich noch einen Skill gemacht.
+
+N28 #00:09:19#
+B1: Und ich hätte als Funktion sehr gut gefunden, wenn es mir, aber das habe ich nicht gepromptet, aber wenn es mir zum Start wirklich alle Dokumente einmal kurz komplett zusammengefasst hätte, also einfach als Kurzversion vom Kompletten, was da ist. Weil dann hätte ich sicherlich mehr Überblick gehabt. Und dann erst mit den einzelnen Aspekten starten, dann kann man da direkt besser einsteigen.
+
+N29 #00:09:51#
+B1: Und dann am Schluss jetzt das Generieren der Dokumente fand ich natürlich auch super. Also, wenn man sich über das Formatieren keine Gedanken mehr machen muss, weil ist ja eigentlich nicht nötig.
+
+N30 #00:10:01#
+I: Okay. War die Menge und Länge dessen, was das AI-Tool geliefert hat, für dich handhabbar?
+
+N31 #00:10:11#
+B1: Fand ich eher zu viel. Wenn du die Dokumente vorher nicht kennst, ist ja alles neu, was da kommt, und dann liest du es mehr quer als wirklich durch. Und dann fällt es schwer da wirklich was zu verstehen.
+
+N32 #00:10:32#
+I: Ja, ja, das stimmt. Okay, du hättest dir zum Anfang einen groben Überblick gewünscht, und dann, dass du tiefer einsteigen kannst. Kann ich auch verstehen. Dann noch eine andere Frage: Wenn in den Unterlagen etwas fehlte oder sich widersprach: Hat das AI-Tool das offen gelassen oder selbst entschieden, und was hast du dann gemacht?
+
+N33 #00:11:00#
+B1: Ich glaube, die KI hat das meiste offen gelassen. Das ist dann bei den offenen Punkten gelandet, als Fragen für den Workshop, zum Beispiel bei den Lernpfaden, also wer die überhaupt definieren soll. Ob sie irgendwo auch selber etwas entschieden hat, ohne es zu sagen, weiß ich ehrlich gesagt nicht, das könnte schon sein. Aber es wurden auf jeden Fall auch offene Punkte und Fragen erstellt.
+
+N34 #00:11:33#
+I: Ja, und hättest du lieber gehabt, dass das AI-Tool an der Stelle nachfragt oder selbst entscheidet?
+
+N35 #00:11:44#
+B1: Lieber nachfragen. Wenn es das still entscheidet, steht das nachher so im Dokument, als wäre das geklärt, und ich merke es nicht mal. Zumindest bei wichtigen Aspekten, bei Kleinigkeiten ist mir das egal.
+
+N36 #00:12:02#
+I: Alles klar. Hat das AI-Tool dich eher zum Problem oder eher zur geplanten Plattform gelenkt? Woran hast du das gemerkt?
+
+N37 #00:12:15#
+B1: Am Anfang mehr zum Problem, aber das lag auch an mir, weil ich zuerst nach den Streitpunkten gefragt habe. Bei der Scope-Abgrenzung war es dann schon ein bisschen ein Schwenk Richtung Plattform, also was dazugehört und was nicht. Ob die KI das bewusst so gesteuert hat, kann ich nicht sagen.
+
+N38 #00:12:41#
+I: Okay, und hättest du lieber früher über die Lösung gesprochen?
+
+N39 #00:12:49#
+B1: Nein, nicht wirklich. Bei der Plattform bin ich ja auch so schnell genug gelandet, oder? Ich finde, am Anfang muss man erstmal verstehen, um was es geht.
+
+N40 #00:13:05#
+I: Gut. Jetzt, nachdem wir die einzelnen Eigenschaften durchgegangen sind: Wenn du das AI-Tool in deinem nächsten Projekt hättest, was würdest du als Erstes ändern oder ergänzen lassen?
+
+N41 #00:13:21#
+B1: Als Erstes, dass sie mich am Anfang ein bisschen bremst. Also bevor sie loslegt, mal fragt, ob ich die Dokumente überhaupt schon angeschaut habe und was ich selber schon weiß, also erstmal ein Verständnis aufbauen, bevor man einfach Dokumente erstellt. Bei mir ging es direkt los, und dann war ich schon mittendrin.
+
+N42 #00:13:48#
+I: Ja, das ist sinnvoll. Vorhin hast du gesagt, du erwartest, dass die KI möglichst intelligent ist, die Nuancen rausarbeitet und die gleichen Details entdeckt wie du. Wie siehst du das jetzt, auch im Vergleich zu den KI-Tools, die du sonst nutzt?
+
+N43 #00:14:10#
+B1: Ja, also meine Skepsis gegenüber der KI ist geblieben. Ob sie dieselben Details gefunden hat, die ich auch gesehen hätte, kann ich so nicht beurteilen. Und an der Stelle, wo ich mitreden konnte, hat sie eher etwas reingelesen, was aus meiner Sicht nicht da war. Im Vergleich zu dem, was ich sonst nutze, war es nicht groß anders. Das ist für mich normales Arbeiten mit KI.
+
+N44 #00:14:43#
+I: Ja, das wäre es eigentlich auch schon mit meinen Fragen. Zum Abschluss noch: Gibt es noch etwas, das du mir sagen möchtest?
+
+N45 #00:14:56#
+B1: Also, ich glaube, wenn man so ein Projekt in der Praxis machen würde, würde man sich dafür natürlich mehr als eine halbe Stunde Zeit nehmen. Um auch ein besseres Verständnis zu haben. Aber, das merke ich bei mir persönlich. Jedes Mal, wenn ein Projekt startet, finde ich am Anfang immer schwierig abzuschätzen, ja, wie lang hat man dafür und wie viel Zeit man dafür hat, weiß man ja oft. Aber wie lang du dann wirklich hast, um die Sachen umzusetzen, finde ich immer schwierig in den ersten paar Tagen oder Stunden, je nach Größe des Projekts, und wenn der Endtermin fix ist.
+
+N46 #00:15:46#
+B1: Neige ich zumindest ein bisschen dafür, mal zuerst voranzumachen oder zuerst machen und danach zu prüfen. Und jetzt, das nachzuprüfen, hat jetzt bei mir nicht so gereicht.
+
+N47 #00:16:02#
+I: Okay, ja das kenn ich, danke dir.
