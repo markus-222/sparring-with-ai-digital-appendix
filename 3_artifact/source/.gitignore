@@ -1,0 +1,76 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/settings.json
+*.swp
+*.swo
+.DS_Store
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+
+# Docker
+docker-compose.override.yml
+
+# Alembic
+backend/app/migrations/versions/*.pyc
+
+# Artifacts (data dir, not Next.js routes)
+/artifacts/
+
+# Agent/Claude tooling skills (local dev tooling, not project code)
+.agents/
+.claude/skills/
+.claude/worktrees/
+skills-lock.json
+.claude/
+.superpowers/
+.sandbox/
+.mypy_cache/
+.ruff_cache/
+.import_linter_cache/
+uploads/
+
+# pnpm local package store
+.pnpm-store/
+
+# Playwright
+frontend/test-results/
+frontend/playwright-report/
+
+# TypeScript incremental build cache
+frontend/tsconfig.tsbuildinfo
+
+# Local data dumps
+dumps/

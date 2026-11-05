@@ -1,0 +1,431 @@
+[
+ {
+  "name": "slot01",
+  "content": "# Project Description\n\n## Problem\n\n- Order intake is done by phone and e-mail, so orders are re-typed into the ERP by hand [[doc:interview_ops.md]]\n- Staff report \"about 15% of orders contain typing errors\" [[doc:interview_ops.md, 00:12–00:15]]\n- ⚠ CONFLICT: error rate: 15% [[doc:interview_ops.md]] vs. 4% [[doc:kpi_report.md]]\n- ? UNCLEAR: \"the system is too slow sometimes\" [[doc:interview_it.md]]. No response time given.\n\n## Causes\n\n- Media breaks between the web shop and the ERP [[doc:interview_it.md]]\n- No validation of customer numbers at entry [[doc:interview_ops.md]]\n- **Legacy ERP** has no API [[doc:interview_it.md]]\n\n## Impact\n\n- Delivery delays of up to two days [[doc:kpi_report.md]]\n- Customer complaints rose in Q3 [[doc:kpi_report.md]]\n- Overtime in the order office [[doc:interview_ops.md]]\n\n## Scope\n\n- In scope: web shop orders and phone orders\n- Out of scope: returns processing\n- Open: whether EDI customers are in scope [[doc:interview_ops.md]]\n",
+  "comments": [
+   {
+    "blockId": "B1",
+    "kind": "heading",
+    "find": "# Project Description"
+   },
+   {
+    "blockId": "B2",
+    "kind": "heading",
+    "find": "## Problem"
+   },
+   {
+    "blockId": "B3",
+    "kind": "list_item",
+    "find": "- Order intake is done by phone and e-mail, so orders are re-typed into the ERP by hand [[doc:interview_ops.md]]"
+   },
+   {
+    "blockId": "B4",
+    "kind": "list_item",
+    "find": "- Staff report \"about 15% of orders contain typing errors\" [[doc:interview_ops.md, 00:12–00:15]]"
+   },
+   {
+    "blockId": "B5",
+    "kind": "list_item",
+    "find": "- ⚠ CONFLICT: error rate: 15% [[doc:interview_ops.md]] vs. 4% [[doc:kpi_report.md]]"
+   },
+   {
+    "blockId": "B6",
+    "kind": "list_item",
+    "find": "- ? UNCLEAR: \"the system is too slow sometimes\" [[doc:interview_it.md]]. No response time given."
+   },
+   {
+    "blockId": "B7",
+    "kind": "heading",
+    "find": "## Causes"
+   },
+   {
+    "blockId": "B8",
+    "kind": "list_item",
+    "find": "- Media breaks between the web shop and the ERP [[doc:interview_it.md]]"
+   },
+   {
+    "blockId": "B9",
+    "kind": "list_item",
+    "find": "- No validation of customer numbers at entry [[doc:interview_ops.md]]"
+   },
+   {
+    "blockId": "B10",
+    "kind": "list_item",
+    "find": "- **Legacy ERP** has no API [[doc:interview_it.md]]"
+   },
+   {
+    "blockId": "B11",
+    "kind": "heading",
+    "find": "## Impact"
+   },
+   {
+    "blockId": "B12",
+    "kind": "list_item",
+    "find": "- Delivery delays of up to two days [[doc:kpi_report.md]]"
+   },
+   {
+    "blockId": "B13",
+    "kind": "list_item",
+    "find": "- Customer complaints rose in Q3 [[doc:kpi_report.md]]"
+   },
+   {
+    "blockId": "B14",
+    "kind": "list_item",
+    "find": "- Overtime in the order office [[doc:interview_ops.md]]"
+   },
+   {
+    "blockId": "B15",
+    "kind": "heading",
+    "find": "## Scope"
+   },
+   {
+    "blockId": "B16",
+    "kind": "list_item",
+    "find": "- In scope: web shop orders and phone orders"
+   },
+   {
+    "blockId": "B17",
+    "kind": "list_item",
+    "find": "- Out of scope: returns processing"
+   },
+   {
+    "blockId": "B18",
+    "kind": "list_item",
+    "find": "- Open: whether EDI customers are in scope [[doc:interview_ops.md]]"
+   }
+  ]
+ },
+ {
+  "name": "slot02",
+  "content": "# Stakeholder Analysis\n\n## Stakeholders\n\n### Head of Operations\n\n- Interest: fewer order errors [[doc:interview_ops.md]]\n- Influence: High [[doc:org_chart.md]]\n\n### IT Manager\n\n- Interest: no new custom interfaces [[doc:interview_it.md]]\n- Influence: High [[doc:org_chart.md]]\n\n### Order Office Clerk\n\n- Interest: less manual re-typing [[doc:interview_ops.md]]\n- Influence: Low [[doc:org_chart.md]]\n\n### Customer Service Lead\n\n- Interest: fewer complaints [[doc:kpi_report.md]]\n- Influence: Medium [[doc:org_chart.md]]\n\n### Finance Controller\n\n- Interest: budget stays within \"the approved envelope\" [[doc:kickoff_notes.md]]\n- Influence: High [[doc:org_chart.md]]\n\n## Gaps\n\n- No information about the external web shop agency [[doc:kickoff_notes.md]]\n- ? UNCLEAR: \"the board wants to see results soon\" [[doc:kickoff_notes.md]]. No date given.\n- ⚠ CONFLICT: sponsor: Head of Operations [[doc:kickoff_notes.md]] vs. CFO [[doc:org_chart.md]]\n",
+  "comments": [
+   {
+    "blockId": "B1",
+    "kind": "heading",
+    "find": "# Stakeholder Analysis"
+   },
+   {
+    "blockId": "B2",
+    "kind": "heading",
+    "find": "## Stakeholders"
+   },
+   {
+    "blockId": "B3",
+    "kind": "heading",
+    "find": "### Head of Operations"
+   },
+   {
+    "blockId": "B4",
+    "kind": "list_item",
+    "find": "- Interest: fewer order errors [[doc:interview_ops.md]]"
+   },
+   {
+    "blockId": "B5",
+    "kind": "list_item",
+    "find": "- Interest: fewer order errors [[doc:interview_ops.md]]\n- Influence: High [[doc:org_chart.md]]"
+   },
+   {
+    "blockId": "B6",
+    "kind": "heading",
+    "find": "### IT Manager"
+   },
+   {
+    "blockId": "B7",
+    "kind": "list_item",
+    "find": "- Interest: no new custom interfaces [[doc:interview_it.md]]"
+   },
+   {
+    "blockId": "B8",
+    "kind": "list_item",
+    "find": "- Interest: no new custom interfaces [[doc:interview_it.md]]\n- Influence: High [[doc:org_chart.md]]"
+   },
+   {
+    "blockId": "B9",
+    "kind": "heading",
+    "find": "### Order Office Clerk"
+   },
+   {
+    "blockId": "B10",
+    "kind": "list_item",
+    "find": "- Interest: less manual re-typing [[doc:interview_ops.md]]"
+   },
+   {
+    "blockId": "B11",
+    "kind": "list_item",
+    "find": "- Influence: Low [[doc:org_chart.md]]"
+   },
+   {
+    "blockId": "B12",
+    "kind": "heading",
+    "find": "### Customer Service Lead"
+   },
+   {
+    "blockId": "B13",
+    "kind": "list_item",
+    "find": "- Interest: fewer complaints [[doc:kpi_report.md]]"
+   },
+   {
+    "blockId": "B14",
+    "kind": "list_item",
+    "find": "- Influence: Medium [[doc:org_chart.md]]"
+   },
+   {
+    "blockId": "B15",
+    "kind": "heading",
+    "find": "### Finance Controller"
+   },
+   {
+    "blockId": "B16",
+    "kind": "list_item",
+    "find": "- Interest: budget stays within \"the approved envelope\" [[doc:kickoff_notes.md]]"
+   },
+   {
+    "blockId": "B17",
+    "kind": "list_item",
+    "find": "- Interest: budget stays within \"the approved envelope\" [[doc:kickoff_notes.md]]\n- Influence: High [[doc:org_chart.md]]"
+   },
+   {
+    "blockId": "B18",
+    "kind": "heading",
+    "find": "## Gaps"
+   },
+   {
+    "blockId": "B19",
+    "kind": "list_item",
+    "find": "- No information about the external web shop agency [[doc:kickoff_notes.md]]"
+   },
+   {
+    "blockId": "B20",
+    "kind": "list_item",
+    "find": "- ? UNCLEAR: \"the board wants to see results soon\" [[doc:kickoff_notes.md]]. No date given."
+   },
+   {
+    "blockId": "B21",
+    "kind": "list_item",
+    "find": "- ⚠ CONFLICT: sponsor: Head of Operations [[doc:kickoff_notes.md]] vs. CFO [[doc:org_chart.md]]"
+   }
+  ]
+ },
+ {
+  "name": "slot03",
+  "content": "# Open Issues & Workshop Questions\n\n## Budget\n\n### ⚠ CONFLICT: Budget ceiling\n\nKickoff notes name 200k EUR [[doc:kickoff_notes.md]], the steering deck 150k EUR [[doc:steering_deck.md]].\nOrigin: 02\n**Question:** Which budget figure is binding?\n\n### ASSUMPTION: Licence costs are included\n\nNot stated anywhere; assumed from the kickoff scope [[doc:kickoff_notes.md]].\nOrigin: new\n**Question:** Are ERP licence costs part of the budget?\n\n## Systems\n\n### Legacy ERP interface\n\nThe ERP has no API [[doc:interview_it.md]], but the shop vendor offers a connector [[doc:steering_deck.md]].\nOrigin: 01\n**Question:** Is the vendor connector compatible with the ERP version in use?\n\n### Customer number validation\n\nValidation is missing at entry [[doc:interview_ops.md]].\nOrigin: 01\n**Question:** Where do valid customer numbers come from?\n\n## Timeline\n\n### ⚠ CONFLICT: Go-live date\n\nMarch [[doc:kickoff_notes.md]] vs. June [[doc:steering_deck.md]].\nOrigin: comment\n**Question:** Which go-live date is binding?\n\n### Pilot customers\n\nNot named [[doc:kickoff_notes.md]].\nOrigin: new\n**Question:** Which customers take part in the pilot?\n",
+  "comments": [
+   {
+    "blockId": "B1",
+    "kind": "heading",
+    "find": "# Open Issues & Workshop Questions"
+   },
+   {
+    "blockId": "B2",
+    "kind": "heading",
+    "find": "## Budget"
+   },
+   {
+    "blockId": "B3",
+    "kind": "heading",
+    "find": "### ⚠ CONFLICT: Budget ceiling"
+   },
+   {
+    "blockId": "B4",
+    "kind": "paragraph",
+    "find": "Kickoff notes name 200k EUR [[doc:kickoff_notes.md]], the steering deck 150k EUR [[doc:steering_deck.md]].\nOrigin: 02\n**Question:** Which budget figure is binding?"
+   },
+   {
+    "blockId": "B5",
+    "kind": "heading",
+    "find": "### ASSUMPTION: Licence costs are included"
+   },
+   {
+    "blockId": "B6",
+    "kind": "paragraph",
+    "find": "Not stated anywhere; assumed from the kickoff scope [[doc:kickoff_notes.md]].\nOrigin: new\n**Question:** Are ERP licence costs part of the budget?"
+   },
+   {
+    "blockId": "B7",
+    "kind": "heading",
+    "find": "## Systems"
+   },
+   {
+    "blockId": "B8",
+    "kind": "heading",
+    "find": "### Legacy ERP interface"
+   },
+   {
+    "blockId": "B9",
+    "kind": "paragraph",
+    "find": "The ERP has no API [[doc:interview_it.md]], but the shop vendor offers a connector [[doc:steering_deck.md]].\nOrigin: 01\n**Question:** Is the vendor connector compatible with the ERP version in use?"
+   },
+   {
+    "blockId": "B10",
+    "kind": "heading",
+    "find": "### Customer number validation"
+   },
+   {
+    "blockId": "B11",
+    "kind": "paragraph",
+    "find": "Validation is missing at entry [[doc:interview_ops.md]].\nOrigin: 01\n**Question:** Where do valid customer numbers come from?"
+   },
+   {
+    "blockId": "B12",
+    "kind": "heading",
+    "find": "## Timeline"
+   },
+   {
+    "blockId": "B13",
+    "kind": "heading",
+    "find": "### ⚠ CONFLICT: Go-live date"
+   },
+   {
+    "blockId": "B14",
+    "kind": "paragraph",
+    "find": "March [[doc:kickoff_notes.md]] vs. June [[doc:steering_deck.md]].\nOrigin: comment\n**Question:** Which go-live date is binding?"
+   },
+   {
+    "blockId": "B15",
+    "kind": "heading",
+    "find": "### Pilot customers"
+   },
+   {
+    "blockId": "B16",
+    "kind": "paragraph",
+    "find": "Not named [[doc:kickoff_notes.md]].\nOrigin: new\n**Question:** Which customers take part in the pilot?"
+   }
+  ]
+ },
+ {
+  "name": "edge",
+  "content": "# Edge Cases\n\n## Lists\n\n- Top level A\n  - Nested A1\n  - Nested A2\n- Top level B\n  - Nested A1\n\n1. First step\n2. Second step\n3. Third step\n\n## Table\n\n| Stakeholder | Interest | Source |\n|---|---|---|\n| Ops | fewer errors | [[doc:a.md]] |\n| IT | no interfaces | [[doc:b.md]] |\n\n## Formatting\n\nA paragraph with **bold**, *italic*, `code` and a [link](https://example.com) inside.\n\nA paragraph with a soft break\ncontinuing on the next line.\n\nThe customer said “we need this by March” and it’s urgent.\n\nValue: 150 000 EUR [[doc:c.md]]\n\n> A block quote from the customer [[doc:c.md]]\n\n## Duplicates\n\n- Same bullet\n- Same bullet\n- Different bullet\n\nSame paragraph.\n\nSame paragraph.\n\n```\ncode fence line 1\n\ncode fence line 2\n```\n",
+  "comments": [
+   {
+    "blockId": "B1",
+    "kind": "heading",
+    "find": "# Edge Cases"
+   },
+   {
+    "blockId": "B2",
+    "kind": "heading",
+    "find": "## Lists"
+   },
+   {
+    "blockId": "B3",
+    "kind": "list_item",
+    "find": "- Top level A"
+   },
+   {
+    "blockId": "B4",
+    "kind": "list_item",
+    "find": "- Top level A\n  - Nested A1"
+   },
+   {
+    "blockId": "B5",
+    "kind": "list_item",
+    "find": "  - Nested A2"
+   },
+   {
+    "blockId": "B6",
+    "kind": "list_item",
+    "find": "- Top level B"
+   },
+   {
+    "blockId": "B7",
+    "kind": "list_item",
+    "find": "- Top level B\n  - Nested A1"
+   },
+   {
+    "blockId": "B8",
+    "kind": "list_item",
+    "find": "1. First step"
+   },
+   {
+    "blockId": "B9",
+    "kind": "list_item",
+    "find": "2. Second step"
+   },
+   {
+    "blockId": "B10",
+    "kind": "list_item",
+    "find": "3. Third step"
+   },
+   {
+    "blockId": "B11",
+    "kind": "heading",
+    "find": "## Table"
+   },
+   {
+    "blockId": "B12",
+    "kind": "paragraph",
+    "find": "| Stakeholder | Interest | Source |\n|---|---|---|\n| Ops | fewer errors | [[doc:a.md]] |\n| IT | no interfaces | [[doc:b.md]] |"
+   },
+   {
+    "blockId": "B13",
+    "kind": "heading",
+    "find": "## Formatting"
+   },
+   {
+    "blockId": "B14",
+    "kind": "paragraph",
+    "find": "A paragraph with **bold**, *italic*, `code` and a [link](https://example.com) inside."
+   },
+   {
+    "blockId": "B15",
+    "kind": "paragraph",
+    "find": "A paragraph with a soft break\ncontinuing on the next line."
+   },
+   {
+    "blockId": "B16",
+    "kind": "paragraph",
+    "find": "The customer said “we need this by March” and it’s urgent."
+   },
+   {
+    "blockId": "B17",
+    "kind": "paragraph",
+    "find": "Value: 150 000 EUR [[doc:c.md]]"
+   },
+   {
+    "blockId": "B18",
+    "kind": "paragraph",
+    "find": "> A block quote from the customer [[doc:c.md]]"
+   },
+   {
+    "blockId": "B19",
+    "kind": "heading",
+    "find": "## Duplicates"
+   },
+   {
+    "blockId": "B20",
+    "kind": "list_item",
+    "find": "## Duplicates\n\n- Same bullet"
+   },
+   {
+    "blockId": "B21",
+    "kind": "list_item",
+    "find": "- Same bullet\n- Same bullet"
+   },
+   {
+    "blockId": "B22",
+    "kind": "list_item",
+    "find": "- Different bullet"
+   },
+   {
+    "blockId": "B23",
+    "kind": "paragraph",
+    "find": "- Different bullet\n\nSame paragraph."
+   },
+   {
+    "blockId": "B24",
+    "kind": "paragraph",
+    "find": "Same paragraph.\n\nSame paragraph."
+   },
+   {
+    "blockId": "B25",
+    "kind": "paragraph",
+    "find": "```\ncode fence line 1"
+   },
+   {
+    "blockId": "B26",
+    "kind": "paragraph",
+    "find": "code fence line 2\n```"
+   }
+  ]
+ }
+]

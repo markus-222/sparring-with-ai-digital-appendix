@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+.github/
+
+# Dependencies (will be installed in container)
+node_modules/
+.pnpm-store/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Testing
+.coverage
+test-results/
+playwright-report/
+.playwright/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Misc
+.eslintcache
+tsconfig.tsbuildinfo

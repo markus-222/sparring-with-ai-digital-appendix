@@ -1,0 +1,12 @@
+# Pre-commit hooks — last safety net before code enters git history.
+# Install: pre-commit install
+# Bypass (emergency): git commit --no-verify
+repos:
+  - repo: local
+    hooks:
+      - id: done-gate
+        name: make check (lint + types + layers + tests)
+        entry: make check
+        language: system
+        pass_filenames: false
+        always_run: true

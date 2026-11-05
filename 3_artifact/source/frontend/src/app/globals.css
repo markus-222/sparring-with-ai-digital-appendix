@@ -1,0 +1,422 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: var(--font-poppins), system-ui, sans-serif;
+  --font-heading: var(--font-poppins), system-ui, sans-serif;
+  --font-body: var(--font-inter), system-ui, sans-serif;
+
+  /* App brand colors */
+  --color-brand: #1E194B;
+  --color-brand-light: #EEF2FF;
+  --color-surface: #ECEAF4;
+  --color-surface-border: #E2DFF0;
+  --color-panel: #F1F5F9;
+  --color-muted-text: #4B4B91;
+  --color-breadcrumb: #B8B3CC;
+  --color-input-bg: #F4F4F6;
+  --color-input-bg-focus: #EEEEF2;
+
+  /* Extended text and form tokens */
+  --color-muted-light: #8A85A0;
+  --color-placeholder: #C7C2D9;
+  --color-text-secondary: #4B4B91;
+  --color-input-border: #E2E8F0;
+  --color-input-surface: #FAFAFA;
+  --color-prose-text: #374151;
+  --color-timestamp: #D1D5DB;
+
+  /* Brand accent colors (Grape / Blueberry / Berry) */
+  --color-accent-grape: #2A1580;
+  --color-accent-grape-light: #7A5CF6;
+  --color-accent-grape-border: #CBBFFB;
+  --color-accent-blueberry: #0030FF;
+  --color-accent-blueberry-light: #3DA8FF;
+  --color-accent-berry: #E6007E;
+  --color-accent-berry-light: #F570B8;
+
+  /* Status / success tokens */
+  --color-success: #059669;
+  --color-success-dark: #065F46;
+  --color-success-bg: #ECFDF5;
+  --color-success-mid: #D1FAE5;
+  --color-success-border: #A7F3D0;
+
+  /* shadcn/ui semantic tokens */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --radius: 0.625rem;
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+}
+
+/* ─── Prose / Markdown renderer styles ────────────────────────────────────────
+   Used by ChatMessage (AiMessage, react-markdown) and by the read-only Tiptap view
+   (artifact view, source panel, document viewer; see the Tiptap section below).
+   The @tailwindcss/typography plugin is NOT used – we
+   write the styles ourselves so they match the design system exactly.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+.prose {
+  color: var(--color-prose-text);
+  font-size: 0.8125rem;        /* 13 px – matches text-sm used in bubbles */
+  line-height: 1.6;
+}
+
+/* First / last child: no extra outer margin */
+.prose > :first-child { margin-top: 0 !important; }
+.prose > :last-child  { margin-bottom: 0 !important; }
+
+/* Headings */
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  color: #1E194B;
+  margin-top: 0.75em;
+  margin-bottom: 0.35em;
+}
+.prose h1 { font-size: 1rem; }
+.prose h2 { font-size: 0.9375rem; }
+.prose h3 { font-size: 0.875rem; }
+.prose h4, .prose h5, .prose h6 { font-size: 0.8125rem; }
+
+/* Paragraph */
+.prose p { margin-top: 0.4em; margin-bottom: 0.4em; }
+
+/* Strong / em */
+.prose strong { font-weight: 700; color: inherit; }
+.prose em     { font-style: italic; }
+
+/* Lists */
+.prose ul { list-style-type: disc;    padding-left: 1.35em; margin: 0.4em 0; }
+.prose ol { list-style-type: decimal; padding-left: 1.35em; margin: 0.4em 0; }
+.prose li { margin: 0.2em 0; }
+.prose li > p { margin: 0; }
+
+/* Horizontal rule */
+.prose hr { border: none; border-top: 1px solid #E2DFF0; margin: 0.75em 0; }
+
+/* Blockquote */
+.prose blockquote {
+  border-left: 3px solid #E2DFF0;
+  padding-left: 0.875em;
+  color: var(--color-muted-text);
+  margin: 0.5em 0;
+  font-style: italic;
+}
+
+/* Inline code */
+.prose code {
+  font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+  font-size: 0.8em;
+  background: rgba(30, 25, 75, 0.07);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+/* Prevent ReactMarkdown from wrapping inline code in extra backticks */
+.prose code::before, .prose code::after { content: none; }
+
+/* Code block (pre > code) */
+.prose pre {
+  background: #1e194b;
+  color: #eef2ff;
+  padding: 0.875em 1em;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.8125rem;
+  margin: 0.6em 0;
+  line-height: 1.55;
+}
+.prose pre code {
+  background: transparent;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  border-radius: 0;
+}
+
+/* ── Tables ─────────────────────────────────────────────────────────────────
+   remark-gfm converts | … | markdown to proper <table> / <thead> / <tbody>.
+   Without these styles the table renders as unstyled flowing text.
+   ────────────────────────────────────────────────────────────────────────── */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  margin: 0.6em 0;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid #E2DFF0;
+}
+.prose thead { background-color: #EEF2FF; }
+.prose thead th {
+  padding: 0.45em 0.75em;
+  font-weight: 600;
+  color: #1E194B;
+  text-align: left;
+  border-bottom: 1.5px solid #C7C3E4;
+  white-space: nowrap;
+}
+.prose tbody tr { transition: background 0.1s; }
+.prose tbody tr:nth-child(even) { background-color: rgba(238, 242, 255, 0.35); }
+.prose tbody tr:hover           { background-color: rgba(238, 242, 255, 0.7); }
+.prose tbody td {
+  padding: 0.4em 0.75em;
+  vertical-align: top;
+  border-bottom: 1px solid #E2DFF0;
+  color: var(--color-prose-text);
+}
+.prose tbody tr:last-child td { border-bottom: none; }
+
+/* ── Tiptap read view (MarkdownRenderer) ─────────────────────────────────────
+   The ProseMirror root carries the `prose` class (editorProps.attributes), so every
+   `.prose` rule above applies unchanged. The rules below only compensate for where
+   ProseMirror's DOM differs from react-markdown's:
+   - Tiptap puts the header row inside <tbody> (<tr><th>…) – there is no <thead> –
+     and wraps every table in <div class="tableWrapper">.
+   - Table cells hold <p>, react-markdown emits bare inline content.
+   - Links are plain <a> (react-markdown's carried the Tailwind `underline` class).
+   - Tiptap's injected CSS sets `white-space: pre-wrap` on the root and on <pre>;
+     react-markdown output collapses soft line breaks and keeps <pre> unwrapped.
+     prosemirror-view requires the root itself to stay `pre-wrap` (it warns otherwise), so
+     the root keeps it and every top-level block resets to `normal`, which all nested text
+     (p, li, td, ...) inherits; <pre> and the header cells (`nowrap`) override on their own.
+   Specificity note: `.ProseMirror.prose` (0,2,0) beats Tiptap's runtime-injected
+   `.ProseMirror` rules regardless of stylesheet order.
+   ─────────────────────────────────────────────────────────────────────────── */
+.ProseMirror.prose { outline: none; white-space: pre-wrap; }
+.ProseMirror.prose > * { white-space: normal; }
+.ProseMirror.prose pre { white-space: pre; }
+.ProseMirror a { text-decoration: underline; cursor: pointer; }
+
+/* Header row = <tr><th> inside <tbody>: style the cells instead of <thead> */
+.ProseMirror th {
+  background-color: #EEF2FF;
+  padding: 0.45em 0.75em;
+  font-weight: 600;
+  color: #1E194B;
+  text-align: left;
+  border-bottom: 1.5px solid #C7C3E4;
+  white-space: nowrap;
+}
+.ProseMirror td > p, .ProseMirror th > p { margin: 0; }
+
+/* Zebra/hover only on data rows. `.prose tbody tr:nth-child(even)` would stripe the first
+   data row here (the header row is child 1), so reset it and stripe the odd data rows. */
+.ProseMirror tbody tr:nth-child(even) { background-color: transparent; }
+.ProseMirror tbody tr:nth-child(odd):has(> td) { background-color: rgba(238, 242, 255, 0.35); }
+.ProseMirror tbody tr:has(> td):hover { background-color: rgba(238, 242, 255, 0.7); }
+.ProseMirror tbody tr:has(> th):hover { background-color: transparent; }
+
+/* The wrapper div (not the table) is the root's first/last child, so move the
+   "no outer margin" rule down to the table. */
+.ProseMirror > .tableWrapper:first-child > table { margin-top: 0; }
+.ProseMirror > .tableWrapper:last-child > table { margin-bottom: 0; }
+
+/* ── Document typography (artifact view, source panel, document viewer) ──────
+   Scoped to the Tiptap root so the compact chat bubbles (plain `.prose`, 13 px) keep their
+   look. Body: Inter 400, 15 px, gray-700, line-height 1.6. Headings: Poppins 600/700, gray-900,
+   clear size steps (H1 28 / H2 22 / H3 18 / H4 15 px). Large margin-top separates sections;
+   the small margin-bottom (and zeroed margin-top of the next block) binds a heading to its text.
+   ─────────────────────────────────────────────────────────────────────────── */
+.ProseMirror.prose {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.ProseMirror.prose h1,
+.ProseMirror.prose h2,
+.ProseMirror.prose h3,
+.ProseMirror.prose h4,
+.ProseMirror.prose h5,
+.ProseMirror.prose h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.3;
+  color: #111827;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+}
+.ProseMirror.prose h1 { font-size: 1.3rem; font-weight: 700; margin-top: 2em; letter-spacing: -0.01em; }
+.ProseMirror.prose h2 { font-size: 1rem; margin-top: 1.9em; }
+.ProseMirror.prose h3 { font-size: 0.875rem; margin-top: 1.6em; }
+.ProseMirror.prose h4,
+.ProseMirror.prose h5,
+.ProseMirror.prose h6 { font-size: 0.75rem; margin-top: 1.4em; }
+
+/* Direct children only: keeps the `td > p` / `li > p` margin resets above effective. */
+.ProseMirror.prose > p { margin-top: 0.75em; margin-bottom: 0.75em; }
+.ProseMirror.prose > ul,
+.ProseMirror.prose > ol { margin-top: 0.75em; margin-bottom: 0.75em; }
+.ProseMirror.prose li { margin: 0.3em 0; }
+.ProseMirror.prose strong { font-weight: 600; color: #111827; }
+.ProseMirror.prose table { font-size: 0.9em; }
+
+/* Heading + its first block read as one unit (heading margin-bottom alone sets the gap). */
+.ProseMirror.prose :is(h1, h2, h3, h4, h5, h6) + :is(p, ul, ol, blockquote, pre, .tableWrapper) { margin-top: 0; }
+.ProseMirror.prose :is(h1, h2, h3, h4, h5, h6) + .tableWrapper > table { margin-top: 0; }
+
+/* ── Chat typography ─────────────────────────────────────────────────────────
+   Same families and colors as the document typography above (Inter body, Poppins headings).
+   14 px matches ChatGPT/Gemini/Claude chat bubbles (readable running text without feeling
+   oversized). Answer bubbles are capped at 68ch so lines stay at a readable length.
+   ─────────────────────────────────────────────────────────────────────────── */
+.chat-text {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+.chat-text.prose { max-width: 68ch; }
+.chat-text :is(h1, h2, h3, h4, h5, h6) { font-family: var(--font-heading); color: #111827; }
+.chat-text.prose h1 { font-size: 1.1875rem; }
+.chat-text.prose h2 { font-size: 1.0625rem; }
+.chat-text.prose h3 { font-size: 0.9375rem; }
+.chat-text.prose :is(h4, h5, h6) { font-size: 0.875rem; }
+.chat-text strong { font-weight: 600; color: #111827; }
+
+/* ─────────────────────────────────────────────────────────────────────────── */
+
+/* Transparent scrollbar – only thumb visible */
+textarea::-webkit-scrollbar {
+  width: 6px;
+}
+textarea::-webkit-scrollbar-track {
+  background: transparent;
+}
+textarea::-webkit-scrollbar-thumb {
+  background: rgba(30, 25, 75, 0.15);
+  border-radius: 3px;
+}
+textarea::-webkit-scrollbar-thumb:hover {
+  background: rgba(30, 25, 75, 0.3);
+}
+textarea {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(30, 25, 75, 0.15) transparent;
+}
+
+/* AI change highlight (CSS Custom Highlight API, see lib/highlight.ts) */
+::highlight(ai-change) {
+  background-color: rgba(250, 204, 21, 0.45);
+  color: inherit;
+}
+
+/* Comment annotations in the Tiptap read view (lib/richtext/annotations.ts).
+   Only the text of the selected comment is tinted (reviewer blue, explorer violet, hypothesis
+   dashed); other anchors are marked by the gutter icon alone but stay clickable.
+   Yellow is reserved for the AI change. */
+.ProseMirror .annotation { cursor: pointer; border-radius: 2px; transition: background-color 0.15s; }
+.ProseMirror .annotation--reviewer.annotation--active { background-color: rgba(59, 130, 246, 0.3); }
+.ProseMirror .annotation--explorer.annotation--active { background-color: rgba(139, 92, 246, 0.3); }
+.ProseMirror .annotation--hypothesis.annotation--active {
+  border-bottom: 1.5px dashed currentColor;
+}
+.ProseMirror .annotation--hypothesis.annotation--active.annotation--reviewer {
+  background-color: rgba(59, 130, 246, 0.14);
+  border-bottom-color: rgb(59, 130, 246);
+}
+.ProseMirror .annotation--hypothesis.annotation--active.annotation--explorer {
+  background-color: rgba(139, 92, 246, 0.14);
+  border-bottom-color: rgb(139, 92, 246);
+}
+
+/* Comment gutter icons in the left margin of the artifact view (components/artifact/CommentGutter.tsx).
+   Same reviewer blue / explorer violet as the annotations above. */
+.comment-gutter-icon {
+  position: absolute;
+  left: 4px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  color: white;
+  opacity: 0.7;
+  pointer-events: auto;
+  transition: opacity 0.15s, box-shadow 0.15s;
+}
+.comment-gutter-icon:hover,
+.comment-gutter-icon:focus-visible { opacity: 1; }
+.comment-gutter-icon--reviewer { background-color: rgb(59, 130, 246); }
+.comment-gutter-icon--explorer { background-color: rgb(139, 92, 246); }
+.comment-gutter-icon--active { opacity: 1; }
+.comment-gutter-icon--reviewer.comment-gutter-icon--active { box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3); }
+.comment-gutter-icon--explorer.comment-gutter-icon--active { box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.3); }
