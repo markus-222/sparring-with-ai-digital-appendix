@@ -1,0 +1,355 @@
+Interview-ID: [P3]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Teams-Call]
+
+001 #00:00:00#
+I: Könntest du zum Start mal zwei, drei Minuten etwas über dich erzählen, was so deine Rolle ist und vielleicht wie die frühen Phasen bei euch normalerweise ganz grob aussehen? Bevor wir dann auf meine Fragen eingehen.
+
+002 #00:00:03#
+B1: Gerne! Also, ich bin jetzt seit 2018 bei [Arbeitgeber] und in den Projekten eigentlich immer an der Schnittstelle zwischen Fachseite und IT unterwegs – meistens als Business Analystin, Proxy PO oder Requirements Engineer. Wenn ein neues Thema reinkommt, geht es im allerersten Schritt eigentlich immer darum, erst mal einen groben Rahmen für das Projekt vorzugeben und daraus ein Big Picture zu erstellen, und noch ein paar andere Artefakte vielleicht. Und anschließend, im Requirements Engineering, wenn man dann anfängt, diese Anforderungen noch mal weiter runterzubrechen – also das ist eher mein Verständnis davon –, fängt man an, die Use Cases zum Beispiel genauer zu beschreiben und User Stories daraus abzuleiten.
+
+003 #00:00:27#
+B1: Und dann arbeiten wir in den agilen Projekten mit einem Team zusammen, wo wir als Requirements Engineers auch in das Team eingebunden sind. Das heißt, wir spezifizieren nicht zu viel voraus, manche Sachen sind im Groben schon festgelegt, aber vieles entsteht dann auch, wenn die Anforderungen auf dem Tisch sind.
+
+004 #00:00:51#
+I: Wenn du mit Stakeholdern oder Kunden in ein Gespräch oder in einen Workshop gehst, wie sind da deine Erfahrungen? Haben die Leute meistens schon eine fertige Lösung im Kopf? Kommen die mit einem allgemeinen Problem auf euch zu, und wie gehst du da vor, am Anfang, in den ersten Gesprächen oder Workshops?
+
+005 #00:01:14#
+B1: Also in den Projekten, in denen ich war – und das waren nicht so viele Projekte, wo ich ganz am Anfang, in den frühen Phasen, dabei war –, war es schon so, dass die POs eine recht konkrete Meinung hatten. Sie hatten eine ganz konkrete Idee, was sie haben möchten, und das hat im großen Ganzen auch in den Fällen schon gestimmt. Aber wir haben das dann dennoch in diesen Workshops noch mal verfeinert, also dass sie uns dann wirklich die Fragen gestellt haben: Wer sind eigentlich überhaupt eure Nutzergruppen, was sind ihre Pains, was möchten sie, welche Bedeutung wollt ihr davon erfüllen, was verspricht ihr euch für eure Firma? Also so ein Business Model können wir erstellen, damit man ein tieferes Verständnis bekommt. Und dann ist es auch nicht selten so, dass die POs dann sagen: "Ah ja, stimmt, an die Nutzergruppe habe ich jetzt vielleicht gar nicht so gedacht. Die sollten wir vielleicht auch mit einbeziehen." Also da profitieren sie dann schon auch davon, systematisch vorzugehen.
+
+006 #00:02:22#
+I: Also ihr versucht dann, von konkreten Feature-Wünschen erst mal zurückzukommen und das eigentliche Problem zu verstehen?
+
+007 #00:02:31#
+B1: Ach so, ja, jetzt an den konkreten Fall, an den ich denke: Das war nicht so, das war wirklich auch ein super PO gewesen. Der hatte schon eine grobe Idee, und es waren nicht so direkt Feature-Wünsche, sondern er hat auch erzählt, was er eigentlich verbessern möchte, worum es ihm geht. Aber ich kann mir durchaus auch vorstellen, dass die Leute herkommen und sagen: "Die und die Features und die und die Epics haben wir, setzt sie mal um." Und da ist es sicherlich gut, einen Schritt zurückzutreten und zu fragen: "Moment, klar, wichtig, aber erst mal: Wer soll denn eigentlich alles mitreden? Stakeholder-Analyse? Was ist denn eure Vision?" Und all diese Themen dann abzuklären.
+
+008 #00:03:16#
+I: Wie ist das bei dir selbst? Du hast gesagt, du bist schon seit 2018 dabei, hast also auch davor Projekte gemacht und schon einiges an Erfahrung. Greifst du da oft auf bekannte Lösungen oder Ansätze zurück, die du aus vorherigen Projekten kennst? Und wie hilft dir deine Erfahrung dabei, und wo hast du manchmal vielleicht auch das Gefühl, dass die Erfahrung dich schon in eine gewisse Richtung treibt? Oder versuchst du, erst mal sehr offen ranzugehen und einfach alles als Möglichkeit zu sehen am Anfang?
+
+009 #00:03:56#
+B1: Also ich habe schon ein paar Fragestellungen im Kopf, bei denen ich das Gefühl habe, das ist zu klären, und auch damit verbunden ein paar Methoden, wo ich denke, das macht auf jeden Fall Sinn, das zu machen. Und in dem Kontext aber relativ offen zu sein und zu schauen, was sich denn da alles daraus ergibt. In den Projekten, in denen ich war, bin ich damit eigentlich meistens auch ganz gut gefahren. Ich kann mir aber durchaus auch vorstellen, dass es Projekte gibt, wo man sagt: "OK, lass uns mal schauen." Auch methodisch gibt es da vielleicht andere Dinge, die man einbeziehen kann.
+
+010 #00:04:42#
+I: Ist auf jeden Fall sinnvoll. Hattest du das schon mal, dass du oder ihr während der Umsetzung eures Projekts gemerkt habt, dass es verschiedene Stakeholder gibt, die unterschiedliche Interessen, unterschiedliche Vorstellungen haben? Und die am Anfang vielleicht gar nicht so wussten, dass sie von unterschiedlichen Dingen reden, und dann erst später rauskam, dass man ein bisschen aneinander vorbeigeredet hatte. Hast du solche Erfahrungen schon mal gemacht? Und wann kommt das deiner Erfahrung nach meistens zutage?
+
+011 #00:05:23#
+B1: Also, wodurch kommt es zutage, oder wie meinst du das?
+
+012 #00:05:27#
+I: Genau, also wodurch kommt es zutage, und wann kommt es deiner Erfahrung nach zutage? Und was sind da so die Fallstricke?
+
+013 #00:05:37#
+B1: Ich glaube, es ist ganz wichtig, alle wichtigen Stakeholder am Anfang einzubinden. Das ist das, was man oft nicht macht, weil man nicht daran denkt oder weil man denkt: Das machen wir mit der Vision am PO aus, das reicht dann schon – oder die Leute haben einfach schlichtweg keine Zeit. Dann heißt es: OK, dann mach mal ohne die. Und wenn das dann wichtige Leute sind, zeigt sich das spätestens, wenn ein Prototyp da steht, und dann denken sie: Nee, das entspricht doch gar nicht dem. Oder sie sagen: Die Priorisierung der Themen entspricht nicht dem, wie ich mir das vorgestellt habe, weil für mich manche Themen total wichtig sind. Also insofern würde ich sagen: Stakeholder tatsächlich so früh und so vollständig wie möglich einbinden.
+
+014 #00:06:24#
+I: Also so früh wie möglich alle relevanten Leute an Bord holen, damit sie auch ihre Meinungen einbringen können?
+
+015 #00:06:32#
+B1: Genau, also ich meine, bestenfalls natürlich – Scrum kommt ja auch aus der Produktentwicklung, und wir sollten eigentlich alle, die ein Interesse an dem Projekt haben, auch die Zeit dafür nehmen. Aber das ist in der Realität nicht immer so. Also, manchmal muss man auch mit irgendwelchen Abstrichen leben, aber dann wäre es wichtig, die Leute so einzubinden, dass man ihnen danach zumindest eine Zusammenfassung gibt von dem, was man entwickelt hat, und sie informiert, damit sie rechtzeitig Bescheid bekommen.
+
+016 #00:07:08#
+I: Hattest du das schon mal, dass Aussagen von verschiedenen Stakeholdern – vielleicht während eines Workshops, oder wenn nicht alle Leute da sind – sich irgendwie widersprechen, dass die Leute unterschiedliche Meinungen haben? Es kann ja auch sein, dass das in einem Workshop zeitlich ein bisschen auseinanderliegt, dass jemand etwas sagt und eine halbe Stunde später kommt eine andere Information, die der ersten Information ein bisschen widerspricht und da noch Klärungsbedarf besteht. Wie gehst du damit um, und wie stellst du sicher, dass dir das auch auffällt, schon während solcher Gespräche und Workshops?
+
+017 #00:07:49#
+B1: Nein, im Workshop zeigt sich das bestenfalls, wenn die Leute alle dabei sind – und das ist eigentlich eine gute Sache. Manchmal versucht man aber auch, so etwas zu vermeiden, weil Konflikte nicht so schön sind, und dann geht man in eine bestimmte Idee rein und versucht, ein bisschen zu harmonisieren, oder geht von bestimmten Annahmen aus. Aber eigentlich ist es gut, wenn man offen ist und sagt: Die Konflikte sollen bitte kommen, so früh wie möglich, denn sonst holen sie uns später wieder ein. Auch in Workshops wäre es wichtig, darauf zu achten, dass jeder zu Wort kommt, also dass nicht einige wenige Leute den Workshop dominieren, sondern dass man Methoden verwendet, bei denen jeder die Möglichkeit hat – nicht nur die Möglichkeit, sondern auch aufgefordert ist, den eigenen Senf einzubringen. Also zum Beispiel Methoden aus Liberating Structures, die partizipativ sind, sodass wirklich jeder eingebunden ist – das finde ich ganz wichtig.
+
+018 #00:08:56#
+B1: Und was passiert, wenn dann jemand später noch mal kommt? Da stellt sich die Frage, wie groß die Themen sind – ob das wirklich etwas ist, das grundsätzlich etwas infrage stellt. Als Erstes würde ich, glaube ich, mit dem PO reden und sagen: Wir haben dieses Problem hier, wie gehen wir damit um? Und entweder kann er das dann auflösen, indem er mit den einzelnen betroffenen Stakeholdern redet, oder, wenn es etwas Grundsätzliches ist, muss man vielleicht die Kunden noch mal zusammenholen.
+
+019 #00:09:25#
+I: Okay, du hast vorhin auch kurz gesagt, dass es aus menschlicher Sicht verständlich ist, dass man um Harmonie bemüht ist, dass es aber trotzdem wichtig ist, unterschiedliche Meinungen anzusprechen, und dass das vielleicht auch eine Stärke von so einem Workshop sein kann. Nutzt du solche Unklarheiten oder Mehrdeutigkeiten aktiv und sprichst sie auch an, oder versuchst du eher, das in Workshops zu umgehen und so zu machen, dass es für alle passt? Oder gehst du wirklich aktiv rein und sprichst es klar an, wenn dir so etwas auffällt?
+
+020 #00:10:06#
+B1: Ich bemühe mich, das zu tun. Ich kann jetzt nicht sicher sagen, dass ich das hundertprozentig mache, aber ich versuche, so ein Verständnis zu erzeugen. Und ein Thema, das ich wichtig finde, ist, dass häufig Missverständnisse entstehen, weil man Dinge unterschiedlich versteht. Man darf nicht davon ausgehen, dass alle das Gleiche unter den gleichen Dingen verstehen. Und was ich sehr viel mache, ist visualisieren. Ich finde, das bringt Dinge auf den Punkt, für die man sonst ganz viele Worte benutzen müsste, um etwas zu erklären, und man am Ende trotzdem unterschiedlich interpretiert – ein Bild bringt dann so einen gemeinsamen Nenner rein. Und ich achte auch immer darauf – oder versuche darauf zu achten –, ob ich das, was der Kunde gesagt hat, auch richtig verstanden habe. Oft wiederhole ich das dann mit eigenen Worten, oder ich skizziere es noch mal auf. Manchmal habe ich das Gefühl, dass das manche Leute vielleicht auch nervt, weil sie denken: Das habe ich doch gerade gesagt. Aber ich habe dann den Gedanken, ob ich das wirklich richtig verstanden habe, was du gesagt hast – also noch mal gegenchecken.
+
+021 #00:11:18#
+I: Das ist auch – ich habe in meiner Recherche einige Studien gefunden, die darauf hingedeutet haben, dass solche Missverständnisse in Gesprächen zum Teil einfach unentdeckt bleiben. Und deine Taktik ist dann, wie du sagst, noch mal zu wiederholen und zu visualisieren, damit so etwas vermieden wird. Oder stehe ich richtig?
+
+022 #00:11:39#
+B1: Ja, genau, das ist eine Sache. Das andere ist, den Confirmation Bias zu umgehen, also nicht nach Argumenten zu suchen, die meine Annahmen bestätigen, sondern zu fragen: Gibt es noch etwas anderes, kann das auch anders sein? Also, gibt es etwas, das meine Annahme widerlegt – in diese Richtung zu schauen und offen zu sein.
+
+023 #00:12:02#
+I: Das ist, glaube ich, sehr wichtig. Du hast das vorhin auch schon kurz angerissen, dass nicht alle Leute gleich laut sind in den Meetings, dass vielleicht auch nicht alle Stakeholder gleich präsent sind. Hast du konkret erlebt, dass bestimmte Perspektiven in einem Projekt zu kurz gekommen sind oder sogar ganz untergegangen sind? Und was sind deiner Erfahrung nach die Perspektiven oder Stakeholder, die am ehesten untergehen, oder die Meinungen, die am ehesten nicht gehört werden?
+
+024 #00:12:39#
+B1: Ich glaube, es ist ganz wichtig, auf die Struktur zu achten, in der man sich befindet. Wenn du in einem Großkonzern bist, mit sehr starken hierarchischen, patriarchalen Strukturen, dann hat sozusagen die oberste Ebene das Sagen. So etwas habe ich mal erlebt, noch bei einem früheren Arbeitgeber, als wir ein Projekt mit ganz klaren Vorgaben und einem Projektauftrag gestartet hatten. Wir saßen dann in einer Runde, in der es um Entscheidungen ging, und da kam ein Hauptabteilungsleiter rein und sagte: Nein, das macht man nicht, weil das in meiner Hauptabteilung irgendeine Auswirkung hat, und das will ich keinesfalls. Und dann hat er tatsächlich alle Annahmen, mit denen wir gestartet waren – also die Voraussetzungen für das Projekt – rausgeklickt. Wir haben am Ende genau das gemacht, was wir eigentlich nicht machen wollten. Na ja, so etwas ist schwer aufzufangen. Da ist es, glaube ich, auch ganz wichtig, gerade in solchen Unternehmen mit allen Leuten zu reden, wirklich herauszufinden, wer die Stakeholder sind, und mit allen zu sprechen. Denn in so einem Umfeld trauen sich auch die Leute nicht, die eigentlich etwas zu sagen hätten. Aber ansonsten war das super.
+
+025 #00:14:04#
+B1: Das war noch mal deine Frage, wie man die einbindet, oder hattest du eine ganz spezifische Frage?
+
+026 #00:14:07#
+I: Ja, genau. Also als Folgefrage dazu: Wenn du so eine Situation hast, oder generell in Projekten – wie geht ihr vor, beziehungsweise wie stellt ihr sicher, dass ihr auch solche leiseren und stellvertretenden Stimmen hört?
+
+027 #00:14:22#
+B1: Tatsächlich in dem Fall Methoden wählen, die partizipativ sind – also wo nicht einer vorne steht und sagt, so und so will ich das haben, sondern dass jeder zu Wort kommt. Und auch nicht, dass man gleich in der großen Runde anfängt, sondern dass man sagt: Wir arbeiten erst mal in kleineren Gruppen, jeder schreibt seine eigenen Gedanken auf, dann tauscht man sich zu zweit aus, dann zu viert, sodass jede Stimme gehört wird und jeder die Möglichkeit hat, sich mehr einzubringen. Sehr dominante Menschen kann man vielleicht nicht ganz so leicht zurückhalten, insbesondere wenn das in der eigenen Hierarchie ist. Aber das erhöht zumindest die Chance dafür. Oder man tauscht sich zusätzlich mit den Leuten aus und sagt: Okay, es gibt zum Beispiel eine Besprechung, bei der die Leute auf der Abteilungsebene dabei sind, und dann sprechen wir aber noch mal separat mit den Usern, weil wir merken, dass das in dem Setting einfach nicht funktioniert. Das muss man, glaube ich, einfach als Gefühl dafür entwickeln und schauen: Hat sich eigentlich jeder gut eingebracht? Habe ich das Gefühl, oder muss ich jemanden vielleicht doch noch mal separat abholen?
+
+028 #00:15:52#
+I: Hattest du das schon mal, dass ihr eine Perspektive komplett vergessen habt oder irgendwelche Lücken hattet und das dann erst im späteren Verlauf gemerkt habt – ah, okay, wir haben hier noch eine Perspektive oder einen Stakeholder, die wir eigentlich gar nicht mitgedacht hatten, die aber eigentlich relevant gewesen wären? Und falls du so ein Beispiel schon mal hattest: Wann habt ihr das dann im späteren Projektverlauf gemerkt?
+
+029 #00:16:20#
+B1: Mhm, weiß nicht, ob ich dir jetzt konkret ein Beispiel nennen kann. Würde es dir helfen, wenn ich dir erzähle, wie ich theoretisch vorgehen würde, oder sollte das wirklich ein ganz konkretes Beispiel sein?
+
+030 #00:16:34#
+I: Wenn du ein Beispiel hast, ist das natürlich super, aber auch die Theorie ist gerne willkommen, falls dir kein konkretes Beispiel einfällt. Wenn du kein Beispiel hast, ist das aber auch okay, dann können wir auch weitermachen.
+
+031 #00:16:52#
+B1: Aber es passiert – so etwas passiert in Projekten öfter, gerade in größeren Unternehmen –, dass man etwas entwickelt, und dann heißt es: Ach, wir haben ganz vergessen, die und die Abteilung zu fragen, die müssen wir jetzt auch noch unbedingt einbinden. Dann kommt jemand rein und bringt einigen Wirbel ins Projekt. Manchmal liegt es an den Leuten, oder daran, dass man sich in späteren Projektphasen befindet und dann merkt: Eine technische Abteilung hatte man noch nicht auf dem Schirm, oder der Datenschutz muss unbedingt noch mit irgendwem abgestimmt werden – es reicht nicht, nur darauf zu achten, es muss auch noch irgendwie abgesegnet werden. So etwas kommt schon öfter vor. Ich glaube, diese Dynamik ist auch relativ normal, dass man nicht immer alles komplett auf dem Radar hat.
+
+032 #00:17:45#
+B1: Und woran merkt man das? Das ist, glaube ich, ganz unterschiedlich. Wenn man eine Nutzergruppe vergessen hat, taucht das beim Testen auf – die sagen dann: Das Ding macht nicht das, was ich brauche. Okay, was brauchst du denn? Dann merkt man, dass es eine ganz andere Nutzergruppe ist. Oder wenn zum Beispiel eine technische Abteilung etwas abnehmen muss, taucht das später auf, wenn man in Betrieb gehen will.
+
+033 #00:18:18#
+I: Ja, verstehe. Da ist es ja eigentlich umso wichtiger, sich dann am Anfang noch mal die Zeit zu nehmen, um wirklich alles zu durchdringen und zu verstehen. Wie ist da deine Erfahrung aus Projekten? Hat man da im Projektalltag genug Zeit, um sich auch wirklich für das Problemverständnis, die Kenntnis und die Analyse Zeit zu nehmen, oder hast du das Gefühl, dass das im Alltag manchmal nicht ausreichend zum Zug kommt?
+
+034 #00:18:48#
+B1: Ist ganz unterschiedlich. Also, insbesondere ist es schwierig in Festpreisprojekten, wenn man dem Kunden irgendwas verkauft hat und sagt: Ja, und die und die und die Features kriegst du. Und so ein Projekt hatte ich letztes Jahr.
+
+035 #00:19:04#
+B1: Und dann waren wir in dem Projekt und haben festgestellt: Die haben noch viel mehr Ideen, als das, was sie eigentlich gewollt haben. Und sie sagen, die sind noch wichtiger als das, was sie eigentlich beauftragt haben. Die wollen anfangen zu tauschen, wissen aber eigentlich nicht richtig, was eine höhere Priorität hat als das andere. Und dann haben wir festgestellt: Na ja, okay, denen fehlt überhaupt eine Vision oder ein Ziel für das Produkt, wo sie genau hinwollen.
+
+036 #00:19:36#
+B1: Die Prozesse waren auch zum Beispiel noch recht unklar, also das, was man auf einem High Level machen würde. Und in den Festpreisprojekten steckst du ziemlich in der Klemme: Entweder schwimmst du mit und machst genau das, was der Kunde will, und am Ende hoffst du, dass er das absegnet und sagt: Ja, okay, das haben wir beauftragt, das haben wir bekommen. Oder du versuchst, das noch irgendwie reinzuquetschen und sagst: Komm, lass uns mal eine Stunde machen, jetzt brauchen wir doch eine Stakeholder-Analyse, oder lass uns mal eure Ziele noch mal klären.
+
+037 #00:20:09#
+B1: Ja, also ich persönlich bin frustriert davon, Dinge nach Schema F abzuarbeiten und am Ende zu sagen: Ja, abgeliefert. Sondern... Ich mag es auch – und ich glaube, den meisten Kollegen geht es auch so – einen Mehrwert zu liefern. Und das ist immer schwer auszutarieren, weil du mit einem festen Budget unterwegs bist. Und wenn du nach Time and Material arbeitest...
+
+038 #00:20:39#
+B1: Also, bei einem variablen Vertrag wird bezahlt, was du leistest. Dann musst du den BU entsprechend überzeugen und sagen: Ja, das macht jetzt aber wirklich Sinn, dass wir uns da zusammensetzen, damit wir später eine Ausrichtung haben.
+
+039 #00:20:54#
+I: Ist bei euch in Projekten so eine Explorationsphase immer fest eingeplant, oder muss man sich das von Projekt zu Projekt neu und aktiv erkämpfen?
+
+040 #00:21:06#
+B1: Ja, ich glaube, das hängt immer vom Kunden ab. Also manche – wir versuchen das, gehe ich mal davon aus. Ich bin bei der Akquise nicht dabei, aber ich gehe davon aus, dass die Kollegen das auch im Kopf haben und versuchen, auch eine Explorationsphase zu verkaufen. Machen sie auch öfter. Manchmal ist es aber auch so, dass die Explorationsphase nicht genau das liefert, was jemand von uns, also von den Digital Designern, sich wünschen würde. Manchmal gibt es so eine Explorationsphase, wo man guckt, ob die technische Migration funktioniert, oder man schaut sich technisch das System an, und dann hat man gesagt: Ja, machbar. Aber das ist nicht wirklich eine Exploration, die uns dann weiterhilft.
+
+041 #00:21:56#
+I: Wie würdest du sagen, ist deine Erfahrung: Hat sich das in den letzten Jahren durch die KI verändert? Also der Zeittakt – wie schnell die Kunden da Lösungen oder Ergebnisse sehen wollen. Wie hast du das erlebt?
+
+042 #00:22:12#
+B1: Also, ich war selbst noch in keinen Projekten, wo man mit Agentic AI arbeitet, sondern eher GPT im Hintergrund nutzt. Frag mal Kollegen – ich weiß nicht, ob du da jemanden noch auf dem Radar hast fürs Interview, die in solchen Agentic-Projekten arbeiten. Da arbeitet man wirklich ganz anders. Also, es lohnt sich bestimmt, da mit jemandem noch zu reden.
+
+043 #00:22:46#
+I: Aber hast du auch generell Erfahrung aus deinen Projekten – die Kunden und Stakeholder wissen ja, dass es jetzt die Möglichkeit durch KI gibt. Haben sich da die Erwartungen der Leute auch geändert? Auch wenn in dem konkreten Projekt vielleicht nicht unbedingt Agentic Coding eingesetzt wird, aber generell die Erwartungshaltung – ob die eine andere ist jetzt in den letzten Jahren.
+
+044 #00:23:15#
+B1: Also, in den Projekten, wo ich war, hatte ich dieses Gefühl nicht genau, aber das ist keine repräsentative Aussage. Andere Kollegen würden dir da etwas anderes erzählen.
+
+045 #00:23:29#
+I: Ja, das kommt dann natürlich auch immer sehr auf die Leute an, auf die Kunden beziehungsweise auf die Menschen bei den Kunden, mit denen man dann arbeitet.
+
+046 #00:23:41#
+I: Du hattest vorhin auch schon mal kurz gesagt, dass es bei Festpreisprojekten schwieriger ist, wenn sich die Explorationsphase ändert oder wenn sich die Anforderungen noch mal ändern. Würdest du sagen, das ist auch der Hauptgrund, warum die Verständnisphase am ehesten unter Druck gerät? Also, ist es meistens einfach eine Geldfrage, warum die Verständnisphase von den Kunden möglichst kurz gehalten wird?
+
+047 #00:24:07#
+B1: Ja, ich glaube schon, dass die Kunden davon ausgehen: Ich habe eine Idee, ich weiß eigentlich schon, was ich haben will – warum sollen wir jetzt noch irgendwie Runden drehen? Um die Frage zu beantworten: Ich glaube, das ist eine Geldfrage, und dass sie es auch oft nicht einschätzen können, welche Auswirkung oder welche Bedeutung das hat, auch für das gesamte Team und für die gesamten Stakeholder. Das braucht an der Stelle einiges an Überzeugungsarbeit, um auch zu sagen: Es bringt euch tatsächlich auch etwas. Also, dann sind wir viel fokussierter, wir wissen, woran wir arbeiten wollen, wir haben alle im Boot. Aber die meisten wollen nicht schnell zum Ziel kommen und sagen: Ja, das will ich haben, liefert mir schnell.
+
+048 #00:25:00#
+I: Ja, also würdest du sagen, manche Kunden verstehen den Mehrwert, den so eine Vision und eine Explorationsphase hat, nicht so hundertprozentig, oder?
+
+049 #00:25:11#
+B1: Ja, es gibt, je nachdem auf wen du triffst – also wenn du beim Kunden zum Beispiel einen PO hast, der selbst einen IT-Background hat oder breiter aufgestellt ist, kann schon sein, dass die sagen: Ja, klar, macht total Sinn. Aber es gibt auch manche Leute, die vom agilen Vorgehen gar nicht so viel verstehen und vielleicht sogar unter dem Druck stehen, irgendwelche Ergebnisse liefern zu müssen und möglichst billig zu machen. Die musst du überzeugen oder gute Argumente liefern, auch damit die dann ihren Vorgesetzten gegenüber das entsprechend begründen und argumentieren können, wofür das Geld dann ausgegeben wird.
+
+050 #00:25:58#
+I: Okay, ja, das macht natürlich Sinn. Die müssen das ja auch dann argumentieren können.
+
+051 #00:26:07#
+I: Nutzt du in den Projekten, in denen du warst, schon KI-Tools in den frühen Phasen beziehungsweise zum Erheben der Anforderungen? Und falls du welche nutzt, was würdest du sagen, wo helfen sie dir da, und wo haben sie vielleicht noch Schwächen? Also, was sind da so deine Erfahrungen mit KI im Alltag?
+
+052 #00:26:32#
+B1: Also, in den Projekten, die ich bisher hatte, habe ich tatsächlich nur mit GPT gearbeitet, und das nutze ich ganz unterschiedlich – viel als Sparringpartner zum Beispiel, um Workshops zu konzipieren oder Recherchen zu bestimmten Themen zu erstellen. Jetzt ist es so, dass ich mich gerade in den letzten Wochen mit VS Code und GitLab auseinandergesetzt habe, auch wie man Claude Code da integriert. Für das nächste Projekt habe ich da schon ganz andere Ideen, auch wie ich Informationen sammeln will und wie ich damit weiterarbeiten kann, aber das ist gerade noch ein bisschen im Umbruch.
+
+053 #00:27:20#
+I: Okay, ja, wie hast du die Rückmeldungen und die Antworten von den KI-Tools genutzt? Du hast gemeint, du hast eher GPT, also den Chatbot, verwendet. Wie ist da deine Einschätzung zu den Antworten, die du bekommst? Also, wenn du zum Beispiel eine Idee hast oder irgendwas, und die KI vielleicht nach einer Einschätzung fragst – was sind da so deine Erfahrungen?
+
+054 #00:27:45#
+B1: Also, ich würde nie etwas ganz konkret eins zu eins so übernehmen, wie es ist. Und ich meine, es ist ja auch bei dem Workshop so, dass ich selbst ganz konkrete Ideen habe. Also, ich nutze es als Inspiration, lasse mir Ideen ausgeben, und dann sage ich: Okay, die nehme ich, die verwerfe ich, und so. Ich arbeite ganz aktiv damit. In einem der letzten Projekte hatten wir zum Beispiel Interviews geführt und haben dann die Ergebnisse der Interviews reingefüttert und um Zusammenfassungen gebeten, um die Themen zu strukturieren. Das fand ich schon ziemlich gut, und was ich da auch toll fand: Das Tool hat das auch noch mit zusätzlichem Wissen angereichert. Also, das war bei [Kunde A], und da war dann auch ein bisschen Kontextwissen mit dabei.
+
+055 #00:28:50#
+I: Habt ihr das Wissen vorher explizit zusammengefasst, oder habt ihr einfach nur die Transkripte hochgeladen und dann versucht, mit den Informationen, die ihr hochgeladen habt, das zusammenzufassen und zu strukturieren?
+
+056 #00:29:07#
+B1: Also, das TIF [?] habe ich hochgeladen, dann hatte ich auch am Anfang den Projektauftrag und aus dem Angebot noch Teile hochgeladen. Und dann hatte ich aber auch ein bisschen recherchieren lassen, weil ich zum Beispiel bei manchen Rollenbeschreibungen gar nicht genau wusste, was diese Rollen genau machen. Da habe ich recherchiert, und das hat mir dann auch geholfen, manche Dinge besser einzuteilen.
+
+057 #00:29:39#
+B1: Und jetzt bin ich zum Beispiel in einem Projekt, das ins Thema Charging von LKWs geht. Und ich war früher mal in einem Projekt beim Charging für Autos, und da habe ich auch gedacht: Da werde ich jetzt auch tatsächlich eine Recherche machen und das Wissen, diese Schlagwörter, die es in dem Umfeld gibt, alle irgendwo abspeichern als Kontextwissen für mich, damit ich das dann auch parat habe.
+
+058 #00:30:15#
+B1: Ja, das geht.
+
+059 #00:30:16#
+I: Nicht verstehen.
+
+060 #00:30:17#
+B1: Ja, klar.
+
+061 #00:30:19#
+I: Genau. Durch KI würde ich sagen, wird man effizienter, wird man schneller. Dadurch, dass die KI auch schnell Ergebnisse liefert – was ist dein Eindruck, wie verändert es das Durchdringen und das Nachfragen von dem Thema? Vorher musste man sich vielleicht länger damit beschäftigen und mehr Zeit mit dem Thema verbringen. Das geht jetzt alles etwas schneller. Hast du da den Eindruck, dass sich dadurch auch das Verständnis ändert?
+
+062 #00:30:57#
+B1: Mhm, eine gute Frage. Ich glaube, das ist ein super Tool, um einen ersten Eindruck zu bekommen. Wenn du viele Transkripte hast, dann lädst du sie hoch, oder irgendwelche Angebote, irgendwelche Dokumente, und fragst: Was sind die wichtigsten Themen? Dann bekommst du einen ersten Eindruck, und das geht sehr schnell. Dahin zu kommen, würde man manuell viel, viel länger brauchen.
+
+063 #00:31:23#
+B1: Und man könnte da auch auf der Oberfläche bleiben. Aber wenn du fundiert arbeiten willst und später Dinge beurteilen willst, dann muss man schon tiefer einsteigen. Die KI kann da unterstützen, aber ich glaube, der Schweiß der Arbeit bleibt trotzdem – das kann man nicht ganz auslagern.
+
+064 #00:31:51#
+B1: Ich denke, dass es auch wirklich helfen kann. Was ich jetzt zum Beispiel neu entdecke: Ich habe eine Systemic-Design-Schulung gemacht und dann die Unterlagen hochgeladen und sie in kleinere Markdown-Files runterbrechen lassen. Und dann haben wir gedacht, das ist voll cool: Mit diesem eingelesenen Wissen im Repo kann ich auch diskutieren, dass ich sage: Wie war der Prozess noch mal, welche Prozessschritte gibt es? Ich finde das so cool, dass man da Zusammenhänge herstellen kann, wenn man das Wissen in das Repo eingibt. Dass man es nicht nur im Kopf hat, wo einem vielleicht Zusammenhänge einfallen, sondern wenn man das auslagert, kann man das Tool auch nutzen, um noch mal Zusammenhänge herzustellen. Und das kann auch helfen, das eigene Verständnis zu vertiefen oder auf Fragestellungen zu kommen, auf die man vielleicht gar nicht gekommen wäre.
+
+065 #00:32:52#
+I: Ja, also nutzt du das eher als Frage-Antwort-Spiel, um Probleme besser zu verstehen, weil du wie eine Art Sparringpartner hast, mit dem du Sachen noch mal durchdenken kannst?
+
+066 #00:33:05#
+B1: Habe ich noch nicht gemacht, aber das ist genau das, was ich auch demnächst nutzen möchte.
+
+067 #00:33:12#
+B1: Was ich auch überlege: Zum Beispiel gehe ich jetzt mit einer PO-Rolle rein, ich habe ja schon einige PO-Rollen gemacht, aber ich habe gedacht: Es steht dann immer wieder am Anfang bei Projekten die Frage, und wie gehne wir jetzt an der Stelle weiter vor? OK, wir müssen irgendwie den Wert bestimmen, aber wie war das noch mal? Und dann schaue ich entweder in Büchern nach oder recherchiere. Das kann man natürlich auch machen, aber es wäre auch voll cool, wenn man zum Beispiel ein gutes PO-Buch in das Tool einlesen könnte und ich mit dem dann auch so sprechen könnte, dass ich sage: OK, gib mir mal die Antworten, wie ich das auch machen könnte. Das kriegst du auch von ChatGPT, aber da ist halt – ah, ich weiß nicht, was der Unterschied ist. Ich glaube, ich würde mich sicherer fühlen. Ich würde dem mehr vertrauen, weil ich weiß, aus welcher Quelle das dann genau kommt. [unverständlich] schränkt es den Kontext auch gewissermaßen ein. Na ja, ich weiß nicht.
+
+068 #00:34:10#
+I: Ja, aber klar, Vertrauen in die Antworten ist auch ein sehr wichtiges Thema. Wenn jetzt angenommen so eine KI-gestützte Anforderung oder Hypothese sich dann als falsch herausstellt – wie ist das bei euch in Projekten mit der Verantwortung geregelt? Im Endeffekt musst du wahrscheinlich trotzdem die Verantwortung dafür tragen.
+
+069 #00:34:40#
+B1: Ja, also die KI kann ja keine Verantwortung übernehmen. Insofern liegt es dann bei mir, oder wir versuchen im Team auch viel zu teilen. Also nicht, dass ich einfach eine blinde Entscheidung treffe und sage: So machen wir das, alle laufen jetzt nach links – sondern dass ich das entsprechend transparent mache und dem Team erkläre, warum ich das so machen würde. Dann haben sie die Möglichkeit, das noch mal gegenzuchecken und zu sagen: Finden wir gut, oder bist du dir da sicher, hast du daran gedacht? Also, dass man hinterher die Verantwortung nicht alleine auf den Schultern trägt, sondern das gesamte Team dahintersteht.
+
+070 #00:35:27#
+I: Ja, es ist auch wichtig, dass das ganze Team solche Entscheidungen mitträgt und dahinterstehen kann. Gibt es nach deinen Erfahrungen Sachen, wo du sagst: Da habe ich bisher schlechte Erfahrungen mit den Ergebnissen von Chatbots oder KI-Tools gemacht, oder wo du sagst: Da vertraue ich der KI noch nicht so ganz, das würde ich lieber noch mal anders abklären? Wie sind da deine bisherigen Erfahrungen?
+
+071 #00:35:56#
+B1: Ja, immer wieder mal. Es überrascht mich immer wieder mit guten Antworten, und es überrascht mich immer wieder auch mit schlechten Antworten, wo ich mir dann denke: OK, vielleicht habe ich nicht spezifisch genug gefragt, vielleicht müsste ich noch etwas mehr Hintergrundwissen, mehr Kontext liefern. Aber es bleibt einfach nicht weg – man kann es nicht weglassen, selber darüber nachzudenken und zu beurteilen: Was ist richtig, was nehme ich mit, was nicht?
+
+072 #00:36:29#
+I: Hast du schon Erfahrungen gemacht, wenn du mehrere Dokumente oder mehrere Informationen hochgeladen hast, die vielleicht auch voneinander abhängig sind – hast du das Gefühl, dass verstanden wird, dass es gewisse Abhängigkeiten gibt? Oder hast du eher das Gefühl, die werden isoliert betrachtet und der Zusammenhang wird nicht unbedingt erkannt?
+
+073 #00:37:00#
+B1: Also, jetzt überlege ich: Ich habe das im privaten Umfeld mal gemacht, dass ich vom Training, das ich privat gemacht habe, die Skripte von den Modulen hochgeladen habe, und da war ich schon ziemlich erstaunt, wie gut da Bezüge hergestellt werden. Manchmal kann man auch darauf hinweisen und sagen: Guck doch mal, wie war das bei dem anderen Modul? Und man kriegt dabei häufig ziemlich coole Antworten.
+
+074 #00:37:34#
+I: Hattest du das schon mal, dass du Anforderungen hattest, die sich schwer zusammenpassen ließen? Wenn du zum Beispiel einerseits das Thema Sicherheit, Datenschutz hast und andererseits möglichst viel Transparenz herstellen willst – also dass du Anforderungen hast, die sich grundsätzlich widersprechen. Wie ist da deine Erfahrung, falls du das schon mal hattest, wie die KI damit umgeht? Versucht sie, das so zu managen, dass es harmoniert, oder werden die Konflikte konkret angesprochen?
+
+075 #00:38:12#
+B1: Nein, das hatte ich nicht – ich habe keine Requirements mit der KI verarbeitet. Aber ich glaube, es ist immer die Frage, wie man fragt. Also, dass man der KI auch beibringt: Ich will niemanden, der nur mit dem Kopf nickt und sagt, super, toll, schön, dass du daran gedacht hast, sondern dass man auch einen kritischen Geist mitgibt. Gerade weil wir selbst auch dazu neigen, unsere Annahmen immer wieder zu bestätigen, ist es doch super, wenn man die KI als so ein kritisches Tool nutzen kann, um diesen Bias zu unterbrechen. Also, dass man etwas reingibt und sagt: Gibt es da noch etwas? Habe ich da etwas übersehen? Fällt dir noch etwas auf? Siehst du da Widersprüche drin?
+
+076 #00:39:10#
+I: Also, du fragst dann aktiv nach und forderst das auch ein. Hast du schon Erfahrung gemacht, dass ein KI-Tool wichtige Vorgaben weglässt oder vielleicht sogar etwas Neues dazu erfindet, was du so gar nicht gewollt hast oder das nicht vorgegeben war?
+
+077 #00:39:36#
+B1: Ich hatte neulich eine PowerPoint-Präsentation hochgeladen, wo vieles über Bilder erklärt wurde – also ein Bild als Symbol und darüber ein abstrakter Begriff. Es gab fünf solche Begriffe. Ich habe der KI gesagt: Halte dich ganz fest an die Skripte. Und da hat sie einen zusätzlichen Begriff einfach dazu gedichtet, weil sie auf einem der Bilder etwas gesehen hat.
+
+078 #00:40:05#
+B1: Ich hatte Schwierigkeiten, ihr das zu erklären. Nein, diesen Begriff gibt es nicht, habe ich gesagt, aber sie hat das ganz felsenfest behauptet. Dann habe ich irgendwann gesagt: Schau mal da in dem Skript, da sind die einzelnen Begriffe erklärt, das sind genau fünf, es gibt keinen zusätzlichen. Dann hat sie das noch mal geprüft. Ja, stimmt, tut mir leid.
+
+079 #00:40:29#
+B1: Aber das war echt hart, weil ich manchmal dachte, ich muss den Chat löschen, weil ich mit ihr nicht weiterarbeiten kann. Sie hat sich ganz fest an die Skripte, an die Vorgabe gehalten. Ja, genau.
+
+080 #00:40:42#
+I: Ja, manchmal muss man das schon sehr kritisch prüfen und noch mal wirklich – weil manchmal sind es auch Dinge, jetzt ist es dir direkt aufgefallen, aber manchmal sind es Dinge, die auf den ersten Blick nicht so klar und eindeutig falsch sind.
+
+081 #00:40:59#
+B1: Genau, ja, also es klang sogar gut. Man hätte sagen können: Da kann man noch eine andere Qualität mit reinbringen. Aber ich kannte den Inhalt und wusste genau, dass es das nicht gibt. Wenn man das aber nicht weiß und für diesen ersten Zusammenhang eine Fassung erstellt, dann kann dabei auch echt Schmarrn herauskommen.
+
+082 #00:41:23#
+I: Hast du da ein System oder eine Routine, wie du KI-Output prüfst, oder machst du das je nach Aufgabe? Oder nach Bauchgefühl?
+
+083 #00:41:42#
+B1: Mhm, gute Frage. Ich glaube eher nach Bauchgefühl, oder ich frage noch weiter nach: Erkläre mir das noch mal. Neulich hat mir jemand gesagt, und das fand ich ganz gut, dass man die KI auch fragen kann, wie sie erklärt, wie sie auf diese Ergebnisse kommt – also dass man das auch noch mal validieren kann. Das fand ich ganz interessant, das mache ich sonst nicht, und ich dachte, das ist super, weil man dann auch versteht, wie die Folgerung, die Argumentationsreihenfolge ist. Es ist nicht nur, dass man ein Ergebnis nimmt und sagt: Ja, schön, passt – sondern man kann den ganzen Prozess bis dahin nachvollziehen.
+
+084 #00:42:34#
+I: Ja, ist ja auch vielleicht wichtig, um das Ergebnis besser verstehen zu können, wenn man weiß, wie der Weg dorthin war.
+
+085 #00:42:41#
+B1: Ja, genau. Aber im Grunde genommen ist es ja nichts Neues, wie bei vielen anderen Dingen, die man irgendwo liest, in Büchern oder im Internet. Man kann die auch schlucken und sagen: Ja, so ist es. Oder man kann sie hinterfragen und sagen: OK, wie kommt man denn überhaupt zu dieser Aussage?
+
+086 #00:43:02#
+I: Ja, im Endeffekt muss man einfach kritisch bleiben, wie es vorher auch schon war, und Dinge hinterfragen, ob es jetzt auf einer Webseite steht oder von der KI ausgegeben ist, dass das stimmt.
+
+087 #00:43:14#
+I: Wenn du dir jetzt so ein KI-Tool oder ein KI-Werkzeug wünschen könntest, das dich in deinen Projekten und vielleicht in den frühen Phasen bei der Anforderungserhebung unterstützt – welche Funktion würdest du dir wünschen, damit es dir im Alltag wirklich hilft?
+
+088 #00:43:35#
+B1: Coole Frage. Darüber habe ich mir noch nicht so Gedanken gemacht. Erstens finde ich gut, dass man entweder die Rolle oder die Aufgabe auswählen kann, dass man sagt: OK, ich bin eine PO-Rolle oder eine [unverständlich]-Rolle. Und vielleicht muss man die Rolle auch gar nicht so festlegen, sondern sagt: Ich bin gerade dabei, eine Vision zu erstellen, oder ein Business Model erarbeiten zu lassen. Dass man das erstmal festlegt, und dann bekommt man vielleicht noch eine kurze Zusammenfassung – das ist gut für Leute, die da noch nicht so tief drinstecken.
+
+089 #00:44:08#
+B1: Dafür ist das und das wichtig, und wir machen es, weil – also so ein bisschen Kontext.
+
+090 #00:44:16#
+B1: Und es hat irgendwie unterstützt und vielleicht auch einen Leitfaden entwickelt. Aber was ich gut finde, ist, dass das im Gespräch passiert. Was mich an der KI am meisten nervt, wenn ich es nicht vorher schon eingestellt habe: Dann stellst du eine Frage und bekommst eine ellenlange Antwort.
+
+091 #00:44:35#
+B1: Dann denke ich: Aber ich – OK, nächste Anweisung: Für mich bitte Schritt für Schritt.
+
+092 #00:44:44#
+B1: Also, ich finde es gut, erstmal einen Überblick zu bekommen, und dann sagt man: OK, jetzt reden wir über den ersten Schritt. Dann im Dialog Fragen stellen und einen Vorschlag machen.
+
+093 #00:44:58#
+B1: Dass es also nicht so ist, dass die KI losläuft und mir ein Ergebnis liefert, sondern dass im Kontakt, im Dialog das entsteht, was entsteht – das fände ich wichtig.
+
+094 #00:45:11#
+B1: Und ich denke, bei den meisten Aufgaben, die man in den frühen Phasen macht, kann man da ziemlich viel machen.
+
+095 #00:45:22#
+B1: Man kann natürlich auch einen allgemeinen Kontext für ein Projekt definieren, aber man könnte auch sagen: OK, ich will ein Big Picture erstellen – was ist bei dem Big Picture wichtig, welche Fragen sollte ich beantwortet haben, welche Abhängigkeiten gibt es und so weiter. Also, dass es einen so ein bisschen durchleitet, dass man auch wesentliche Sachen nicht vergisst.
+
+096 #00:45:43#
+B1: Es ist tatsächlich so, dass ich auch viele Sachen nicht sofort aus dem Kopf sagen kann – wie geht die Methode. Sondern ich weiß, OK, die gibt es, ich weiß ungefähr, worum es geht, und wenn ich es brauche, schaue ich noch mal genau nach, weil mein Arbeitsspeicher im Kopf auch begrenzt ist.
+
+097 #00:46:02#
+I: Ja, das stimmt. Man muss ja nicht alles wissen, man muss nur wissen, wo es steht, wo man es nachschauen kann.
+
+098 #00:46:12#
+B1: Genau, und was hilfreich sein kann, ist, dass man sagt: OK, ich kann das oder das oder das machen, und dann kann ich mit der KI auch sprechen: Was ist jetzt in dem Fall besser geeignet? Das ist mein Fall, so sieht es aus. Und wenn es so ein Tool geben würde, das einen in Projekten durch diese frühen Phasen durchleitet, das wäre schon mega.
+
+099 #00:46:36#
+I: Gibt es irgendetwas, wo du sagst, das ist so eine Sache in den frühen Phasen, da würde ich nie KI nutzen und mich immer auf meine eigenen Sachen verlassen? Oder würdest du sagen, es gibt eigentlich fast alle Aufgaben, wo es einen sinnvollen Einsatz gibt?
+
+100 #00:47:02#
+B1: Also, das kann ich jetzt nicht so genau beantworten. Das ist vielleicht so die Frage von – ich würde fragen, ob wir das so formulieren: Gibt es Aufgaben, wo du dir wünschen würdest, mit niemandem zu reden, oder gibt es Aufgaben, wo du sagst, es wäre so cool, einen Kollegen dabeizuhaben, mit dem ich mich austauschen kann? Ich bin eine Person, die sich sehr gerne mit anderen austauscht, weil ich dadurch, dass ich etwas erkläre oder Fragen stelle, mehr verstehe. Und so sehe ich die KI auch an vielen Stellen – es muss mir nicht unbedingt gleich ein Ergebnis liefern, um Gottes willen, aber es hilft mir auch, mich selbst zu reflektieren.
+
+101 #00:47:54#
+I: Nee, das verstehe ich, das finde ich auch. Ich habe es auch oft so, dass ich das quasi als Person nutze, mit der ich diskutieren und überlegen kann. Dann kommt man auf andere Gedanken und sitzt nicht einfach alleine und muss alles selber machen.
+
+102 #00:48:13#
+B1: Und theoretisch könnte man es mit einem Kollegen machen, aber es fließt natürlich auch viel Hintergrundwissen mit ein bei der KI. Ich habe quasi einen ganz schlauen Menschen, der aber nicht so im Kontext drin ist.
+
+103 #00:48:32#
+I: Ja, das stimmt. Und natürlich haben die Kollegin oder der Kollege auch nicht immer Zeit für die Gedanken. Vielleicht noch zum Abschluss: Gibt es zu dem Thema noch etwas Wichtiges, das wir jetzt noch nicht angesprochen haben, was aus deiner Praxiserfahrung relevant wäre, als letzte Frage?
+
+104 #00:49:06#
+B1: Wenn ich jetzt an ein KI-Tool denke, dann würde ich sagen, das ist gut, wenn das wirklich organisch eingebunden werden kann – dass es nicht nur eine Sammlung von Methoden ist, sondern dass es wirklich so ein Begleiter ist, der einfach mit dir im Projekt mitgeht.
+
+105 #00:49:27#
+B1: Gerade wenn man alleine im Projekt ist und sich austauschen kann und sagt: OK, möchtest du in die oder in die Richtung gehen, dann sagst du: Da lang. Und dann weißt du, es ist so ein langfristiger Begleiter – das wäre zum Beispiel cool.
+
+106 #00:49:43#
+B1: Dass es nicht nur einen einzelnen Chat gibt, wo ich sage: OK, jetzt entwickle ich die Vision, jetzt entwickle ich das – sondern dass auch die Ergebnisse zusammenfließen können, also zum Beispiel, wenn Dateien ausgelagert sind, dass es immer wieder weiterentwickelt werden kann, dass es nicht nur eine punktuelle Nutzung ist.
+
+107 #00:50:01#
+B1: Sondern wenn ich die Persona schon habe, dann kann ich die nehmen, um [unverständlich] zu erstellen.
+
+108 #00:50:08#
+I: Ja, das höre ich sehr gerne, weil das auch ein bisschen die Idee von meinem Prototypen ist, dass man da eine Art Projekt-Box hat und alle Dokumente, die man erstellt hat, in diese Projekt-Sandbox hochladen kann, und die Agenten, mit denen man dann chattet, das immer als Hintergrundwissen schon haben.
+
+109 #00:50:27#
+I: Und dann auch Dokumente, die man erstellt hat, wieder genutzt werden, um sich quasi vorzuarbeiten. Weil die Erfahrung habe ich auch gemacht: Man hat ein Chat-Fenster, und am nächsten Tag macht man ein neues Fenster auf und fängt wieder an, die Dinge zu erklären, die man eigentlich schon am Tag davor erarbeitet hat, oder neue Dokumente hochzuladen. Deswegen ist es, glaube ich, etwas, das ich hoffentlich in meinem Prototypen berücksichtigen kann.
+
+110 #00:50:57#
+B1: Genau das finde ich cool, dass dieser Kontext erhalten bleibt. Aber vielleicht auch der Prozess, dass er weiß: Ah, OK, eine Vision haben wir schon erstellt, ein Business Model Canvas haben wir auch schon. Dann lass uns mal das Big Picture erstellen.
+
+111 #00:51:17#
+B1: Dass es da also auch so ein bisschen ein Tracking hat und nicht nur einzelne Bausteine, sondern, wenn es am Anfang ist, ein bisschen wie ein Leitfaden.
+
+112 #00:51:33#
+B1: Und er sagt vielleicht am Ende auch: Gut, interessante Erkenntnis, aber das passt ja nicht so gut zu deiner Vision. Sollten wir vielleicht zur Vision zurückgehen und sie uns noch mal anschauen?
+
+113 #00:51:45#
+I: Ja, das wäre cool. Auf jeden Fall versuche ich, das zu berücksichtigen.
+
+114 #00:51:50#
+B1: Ist vielleicht nichts für den Prototypen, aber so als Idee.
+
+115 #00:51:57#
+I: Nee, klingt sehr gut.
+
+116 #00:51:59#
+B1: Ich muss jetzt weiter zum nächsten Termin.
+
+117 #00:52:02#
+I: Genau, vielen vielen Dank schon mal für deine Zeit.

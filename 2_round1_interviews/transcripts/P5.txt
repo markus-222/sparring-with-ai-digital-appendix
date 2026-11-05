@@ -1,0 +1,265 @@
+Interview-ID: [P5]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Teams-Call]
+
+001 #00:00:03#
+I: For the start, it would be nice if you could say a few sentences about yourself, about your role in the projects, and maybe one or two sentences on how you approach the early phases before we get into the details.
+
+002 #00:00:21#
+B1: Okay, so my role, my title, is designer, digital designer. I'm supposed to take care of UX and UI. But actually, what I do most is audit existing digital solutions and analyse new digital solutions that were not built yet. For that, I have a kind of process that I follow to make sure that we're solving the right problem and so on.
+
+003 #00:01:09#
+I: Sounds good. If you go into the first conversation or workshops with your customers or stakeholders, probably sometimes they already come with a finished solution in mind instead of telling you the actual problem. How often does that happen, and how do you deal with that?
+
+004 #00:01:31#
+B1: To be honest, the market is not so crowded with people that come to you before building anything. Usually the case is that people have already built something, and it's a mess. So when they start having problems with what they built, that's when they call you. But it is unusual that someone hires you to take part in the ideation phase or in the validation phase, which is once you have an idea in mind and you have not built it yet, to assess how good it is. That is more of a dream scenario than something that happens often, but yeah, I've been in a couple of situations where this happened.
+
+005 #00:02:37#
+I: Okay, so usually they come to you with an existing solution and they want help to improve it, right? How is your approach to understanding what they want to achieve, and what are their pains with the existing product?
+
+006 #00:03:04#
+B1: So usually I do interviews with the CEOs, and I bombard them with questions. I think it's the only possible way — you just ask questions. I like very much to advise them — not advise, sorry, to warn them — that in advance, this is going to be an interview where I will ask thousands of stupid questions, and they need to bear with it. They are the experts in their field, they are the experts in their markets, and you just jump in there to make sense of whatever it is that they are building. You really need to understand the context — for me, that's the crucial part. Understanding context, because otherwise you will not be able to determine whether what they built actually solves the problem that they had.
+
+007 #00:04:33#
+B1: If you ask me how I start, I start by warning them: this will be tough, you will get lots of questions, most of them will be repeated questions. Bear with me — the positive thing about this is that they come from a long period of time where they have coexisted with the solution. Lots of things have been given for granted, and the most stupid question sometimes reveals an assumption that was wrong from the very beginning. So the cleverest thing to do is actually the stupidest thing to do, which is asking very basic questions.
+
+008 #00:05:27#
+I: Okay, so they have to think about their own structures and solutions, which they've lived with for a while. Okay, yeah. They maybe have a lot of experience with their own solutions and they have some solution patterns they want to repeat over and over again. And you are also quite experienced in what you are doing. Do you fall back into familiar solution patterns in different projects, or are you trying to be really open-minded at the beginning? So the question basically is, does your experience help you come up with new ideas, or do you sometimes fall back into solutions you already had before?
+
+009 #00:06:24#
+B1: Well, it depends. In the project that I'm working on now, it's all about the farming industry, whether it's animals or plants. Many times the type of things they are trying to build respond to the same necessities. The first thing is detecting the problem — I don't jump easily into the solution space. Sometimes, if our collaboration lasts for 15 days, the solution space only takes a fifth of it. I spend most of the time in the problem space, trying to really understand what is happening. And then we go through their solution — the only thing is to keep track of the chain of thought, the chain of thoughts that they followed to get there, to actually analyse what features they are trying to integrate into the digital solution and what each feature is meant to achieve.
+
+010 #00:07:46#
+B1: Sometimes, if I already know the problem — the thing we're trying to solve — because I've seen it in different companies, then yes, I can relate to it: okay, in this case, we did this. Does it apply now? Usually it applies with details, with nuances. It's not exactly that you apply the same solution here — it's mostly that if the detection of the problem is correct, then the solution might apply. But the solution you apply is always different. What I do apply is the same method, the same method of analysis. I have a recurrent process that I go through to check what they bring — not only the software, but all the thoughts before it.
+
+011 #00:08:59#
+I: Do you sometimes realise that if you talk to your customers or to the stakeholders, that you have a different understanding or different ideas about the same thing? And how does it come up? So if you talk to somebody and you try to understand it, and you think that you understood it, but sometimes maybe you talked about different things — so you had a different understanding. How do you deal with that, and how does it usually come to light?
+
+012 #00:09:34#
+B1: And again, it happens all the time — that you think you understood the process and you did not. And this is why I insist on the recurring questions.
+
+013 #00:09:54#
+B1: When you start the process, many of the explanations are generic, so we're not talking about something specific. For instance, weighing produce: farmers bring their produce from the land to a scale — the company brings the scale — then they weigh the produce and load a truck with the produce. All of this is recorded into an application. The application needs to record the day, the amount, the price at which the market pays for the produce, and so on. When they explain this to you and you see the actual feature in the application, you might understand the general idea but not the specifics — and the specifics matter. The logistics behind it matter, because it might be the case that sometimes farmers don't go to a specific point, but they can go to a cooperative or wherever it is. So then the whole feature might change, and you did not get the whole picture at the beginning.
+
+014 #00:11:19#
+B1: There is no bulletproof method that allows you to skip this — this will happen. It's only by asking and asking and asking again to make sure that you've got the whole picture. And sometimes it's only about use cases — you have the main use case, okay, is there another use case for which this same process applies? And then they tell you, well, yes, maybe you can do it at a cooperative instead of at the meeting point. Okay, then this changes the whole thing. So again, it's all about being curious and not taking anything for granted.
+
+015 #00:12:09#
+B1: So the big difference between what we do and UX is that UX tries to fix a specific screen — here's the screen where the farmer weighs the produce, make it a clean process, make it as understandable and user-friendly as possible, and then you deal with the elements in this screen. What we do is a step before: tell me the whole context, and I will tell you if this screen is actually supporting what you are trying to do. So it's not UX — well, it's also UX, but it's not only UX. It's systems thinking. It's a wider perspective on the process, checking whether the solution relates to the problem.
+
+016 #00:13:05#
+I: Okay, got it. So if you talked about details, and specifics and details are quite important, how do you deal with vagueness or ambiguities in the conversation? So for example, if somebody tells you something which is not quite clear, or maybe he or she tells you something, and later on tells something which is quite different or contradictory — do you use that to actively bring this up, or do you try to bring these different statements together?
+
+017 #00:13:51#
+B1: I'll tell you what I do. Let me give you an example. (...) I'm opening my Miro board. (...) Trying to find a better example so that you see the method. (...) I don't find a good one.
+
+018 #00:15:38#
+I: You could also try to describe it if you can't find an example at the moment.
+
+019 #00:15:46#
+B1: Yeah. (...) That's a shame because I had one really good [one]. (...) Okay, no worries, I'll show you just any of them.
+
+020 #00:16:23#
+B1: What I do is, when I detect that the reasoning is diverging, I start a flow. So, for instance, I will say: okay, you are an oil producer, what you do is you sell oil, right? Then what is the implication of this? You first said that because you sell oil, you need a facility, right? Yes, I need a facility. So then you said that you have one facility in this place. So then we are training the whole flow, step by step, and whenever something that they told is diverging from an assessment they already made, then we try to figure out: is this correct or not? And if it is, how does it fit with the rest of the argument? We start creating a flow chart where all the reasoning is put step by step. Then we can detect whether contradictions emerge — because usually it's not a contradiction, it's a misunderstanding on our side, from the point of view of us non-expert guys.
+
+021 #00:17:58#
+I: I read some studies that indicate that part of these misunderstandings sometimes go unnoticed during the conversation, because during a conversation you get so much information and so much input. Does this fit your impression, and how do you deal with it?
+
+022 #00:18:17#
+B1: Again, it's the same question as before — it usually happens, it can happen, and just by keeping track of it, you finally get it. The more structured you are in your assumptions, the easier it is to detect. And again, if you do this thing that I showed you with the flow charts, it's much more difficult for contradictions to happen, because you are setting the whole argument and the reasoning step by step. So it's more difficult to get lost. But still, it can happen — it's something that will happen, with major or with lesser topics.
+
+023 #00:19:08#
+B1: What I try to do is always focus on the main loop. The main loop is where users will spend more of their time. So imagine you're doing an administrative application, a complex platform for dealing with the economy of a company. Typically there will be one or two features that will be the most used, with which all the users are, I don't know, getting invoices and putting them together and calculating stuff. You usually ask: what are the core parts of your business? How do you make money? I make money by selling this. For selling this, what do you need? I need to keep track of the produce. Okay, so to keep track of the produce, what do you do? We weigh things at meeting points. Okay, so this is the most important part of the application, so let's focus on this. Of course there will be other features, other services attached to it, but you spend most of the time in the place where the company gets the money, where they get most of the value. Because you will be spending that much time there, and because you are trying to understand the whole process, it is easier to catch these contradictions or these misunderstandings on our side. But it's just because you are an organised person, you follow a method, and you spend a lot of time there.
+
+024 #00:21:09#
+I: Okay, yeah, that will help. You talked about focusing on the main loop, so basically the main stakeholder requirements. Have you ever experienced that certain perspectives or certain stakeholder opinions are neglected or maybe lost during the requirements process? And if so, what's the main reason for this?
+
+025 #00:21:42#
+B1: So you mean that what stakeholders wanted is not in the final product?
+
+026 #00:21:52#
+I: Yes, or that you maybe miss some important stakeholders or some important perspectives of experts that have an opinion but didn't tell you, or something like this.
+
+027 #00:22:11#
+B1: Not generally, I think. I find more often the opposite — not that valuable information did not end up being part of the solution, but the opposite: that many unuseful features end up being part of the final solution. Usually CEOs and companies think that more is better, so they just continue adding features and stuff to the software they build, because they think that the more choices you give the user, the better. And you end up with a lot of [unverständlich] there that people don't care about, or that they don't use so often, or that it's just making the screen look crowded and difficult to navigate. So what you're doing is just increasing the cognitive load and increasing the risk of analysis paralysis.
+
+028 #00:23:45#
+I: Okay, so you try to keep it minimal and keep the focus on the important stuff, and don't overload it with features and stuff, okay?
+
+029 #00:23:56#
+B1: It's not something that's mandatory — things don't need to be minimal. There are cases where you need to put a lot of stuff there, but that's not the average case. The average case is that people try to serve the user better, but they have the wrong idea of how you are serving a user better, and they just put stuff there because they think that's better. I've seen a recent example — I was auditing a shop website for a company, and they had about 20 products, and there was a whole column of filters: from A to Z, from Z to A, most sold products, least sold products, order by price, increasing, decreasing... Man, you have 20 products, you don't need that [unverständlich]. No one is going to use this. I can see all the products in one scroll, I don't need that at all. And they had a whole column full of filtering options. Okay, because we removed it.
+
+030 #00:25:33#
+I: One more question. If you have a meeting, and for example, with the filter options, somebody says, okay, we do need that, and the person is quite loud and extroverted in the meeting — how do you ensure that even quieter voices, or maybe domain experts who are more quiet, are still heard in the process?
+
+031 #00:26:06#
+B1: Usually I don't take part in bigger meetings with a lot of people. It's usually three or four people in the room — me and one person, or me and two or three people. And I don't know, maybe it's just the way that you talk, but my experience is that they really trust what you say. I mean, I am the expert. I don't give them the chance to even challenge such a decision. Man, do you want to keep the filters? Go ahead, keep them. Would I keep them? Of course not — this is of absolutely no use. And I am bold too when I speak about this, because I have no doubt. I am sure of what I'm saying. Do you want to keep it? It's your decision, so it's up to you.
+
+032 #00:27:10#
+I: You just state your opinion and give them advice, but in the end they have to decide, okay.
+
+033 #00:27:15#
+B1: Yeah, it's the company's decision if they feel [strongly about it], but you know, the moment you move the responsibility to their side, they are not so sure. They did it because they thought it was good — now you're telling them it is not. Now it's your responsibility to keep it there. (...) Then maybe I'm not so sure now.
+
+034 #00:27:53#
+I: Yeah, maybe we should listen to the expert then. Yeah, I get this.
+
+035 #00:27:59#
+I: What are your experiences with trying to take your time to understand the problem before building? Does that get enough attention or time in your everyday work, or is it that most companies and customers try to start building quite quickly?
+
+036 #00:28:25#
+B1: As I said, it's rarely the case that you are invited before building something. Rarely the case. So, for instance, I was part of a project very, very few times, maybe one month. This was a truck company that was trying to create a control center operations for self-driven trucks with a logistics plan, and a starting point in a warehouse where the trucks were loaded, then an established path that they need to follow, and they deliver here, then they get loaded again, then they go somewhere else, and so on. So this was an automated thing that tried to figure out where's the demand, where's the supply, what is the most efficient route that the trucks need to follow, and so on.
+
+037 #00:29:51#
+B1: So these doesn't exist. When this is the case, something that does not exist yet, then important companies like [Automobilhersteller A] or [Nutzfahrzeughersteller B] will call experts to help them build this stuff, because the stuff doesn't exist. So this is where you are invited to take part in the ideation process and figure out what is it that needs to be built.
+
+038 #00:30:22#
+B1: But they don't ask you to take part in an e-commerce or any other existing thing. So a CRM application, there are thousands of them - a planner, a calendar, these things already exist. They will call you when what they built doesn't work, or they have problems, or whatever the case. And again, they will call you because they think that they have UX issues or that they need to refine the design because people are not engaging with it or not using it properly, or whatever. So they think that the results that they expected are due to changes in the structure, but not to the whole planning of the thing. Not to the purpose.
+
+039 #00:31:36#
+I: Okay, so usually if you have an existing product, you just care for the implementation phase, but you still have to understand it to be able to implement it.
+
+040 #00:31:49#
+B1: No, that's incorrect. That is incorrect. You don't need to understand the whole thing to implement something. Actually, this is one of the major failures of the agile process - you go into stories and you implement the stories pretty well. You don't need to understand the whole thing. That is what we do: we enter the space, and we move backwards and try to see the whole picture. And there is where you detect that this process has been implemented here, this other has been implemented here, but they belong to the same category. So they should be put together, because it makes more sense and it will actually use fewer steps to complete. So that is the thing that we do.
+
+041 #00:32:43#
+I: Okay, so you're trying to step back and see the big picture, but sometimes you don't have the time to do it in projects, right? To be able to take your time. What do you think is the reason for this? What's the reason that the customers don't give you the time to step back and have a look at the bigger picture?
+
+042 #00:33:15#
+B1: They don't care; they don't care. So, I mean, when you are hired in a project to implement, that's what you do, you implement. You are not going to challenge or make any effort to understand the thing. You are not. You are just not hired for that. That's the thing.
+
+043 #00:33:45#
+B1: And the reason why is because they are not aware... I mean, you need to talk in money terms to companies: your application is working, how much time does it take to do this specific task? X. If I audit it, this task will be cut by half. Then the person using this will have more time to do other stuff. If one minute of your worker equals one dollar, and we are giving him or her one day, two days, one week of extra time a month, this is X amount of money that you are losing because your work is not devoted to another topic. So this is how you convince people that they need to review their applications, but you usually don't have the opportunity to talk to a CEO and tell them these things.
+
+044 #00:35:15#
+B1: And this is why they don't care, because they don't see the problem. They don't see that they are not effective with their apps. They don't see that. They are underusing the potential of the apps.
+
+045 #00:35:31#
+I: Okay, so they just want to get another feature or solution and they want to get it as quickly as possible. Do you have the feeling, or do you have the experience, that the pace of this has changed due to AI? That people are expecting features more quickly and the exploration phase is even more under pressure?
+
+046 #00:35:56#
+B1: Not yet, not yet. But I actually conducted some research this week. The trend points to the opposite direction, because it is easier and quicker to build stuff with AI, more problems will be emerging in the following months or years, because - again - the part can be extremely well executed, but it's a part of a whole, and this whole is what matters. So you might be introducing lots of unnecessary cognitive load, lots of new features that are not that useful. You can be introducing a lot of noise, and that's not good.
+
+047 #00:37:01#
+B1: So at some point in time, we will see this. And actually there is already a type of title that is being created called - what was it - eval expert, eval AI expert, or something like that. Like you look at what AI created and check whether it makes sense to have it or not, not whether it's good. Because I know that our company offers health checks. Health checks are about what I told you before: you go into a screen, you see that everything is well in place, the UX is good, the code behind it is good, the buttons take you to the correct place, and that's it - but they are not refining processes, they are not improving processes. It's just about how good what you have is.
+
+048 #00:38:03#
+I: So you are refining what you build, but you don't refine why you build it, and that's the important thing, okay?
+
+049 #00:38:10#
+B1: Exactly. And the problem with software, especially complex platforms, is that they are huge patches. It's a patch that you build on top of another patch on top of another patch, and there are a lot of things that are put one on top of the other, but that no one really takes the time to interconnect, or decide whether interconnections are needed, or whether they are duplicates, or whether they are even partially repeating stuff that could be put together. And this is the most common scenario with bigger platforms.
+
+050 #00:39:00#
+I: Okay, got it. Let's move to a bit of a different direction. AI tools are quite available and quite good today, but which AI tools do you currently use in the early phases, and where do they really help you, and where do they rather not?
+
+051 #00:39:33#
+B1: I currently use them for ideation and market research. I told you that I follow a process. The process is - I use Claude Code, and first I get a self-assessment of the company I'm working with. So they tell me what they do, how they do it, and so on. Very important for me: how do you make money, and who are your users? Because the solution that you build needs to serve both purposes. If the users are happy and your business model is accounted for, then everything works. So the first thing I do is get this information.
+
+052 #00:40:33#
+B1: Then I look at the competitors, and I create the exact same document filled with information provided by competitors. And then I do a comparison - so again, how do you make money, who are your users, what is your business model, all that stuff, one against the other. So then I see what this company is doing and what others are doing. Then I get a sense of what is needed. Then, of course, we have a conversation with the CEO and start planning. But this is mostly what I do many times. You are the expert on building stuff, but you are not the expert on a specific sector or a specific area or industry, and for that you need to talk with experts. Usually the CEO knows their market well and knows their industry well.
+
+053 #00:41:40#
+B1: And then I try to make sense of the categories - what is needed, what is the main loop, what are the different services that you want to include in the MVP. And that's it.
+
+054 #00:42:02#
+I: How is your experience with the AI feedback if you ask for an assessment of specific ideas or requirements?
+
+055 #00:42:15#
+B1: No, to be honest, I think that AI is so overrated. And it's not that it's not good - it does a lot of things well, but the main problem is that it is so assertive, so confident in what it brings, that it's really easy to get tricked by it and to get wrong conclusions. I'll give you an example. I did market research for an oil company [Kunde A]. The company needed to introduce its product in a specific country, and there were other competitors who already did it. Now, we conduct our market research and see what others did to introduce the product into the market.
+
+056 #00:43:27#
+B1: Then we are building the website for this oil company [Kunde A], and this website is addressed to bigger companies that use oil in their processes - so, for instance, Lay's, you know, the chips that you eat. So these guys use oil to fry their chips.
+
+057 #00:44:04#
+B1: They don't go to the supermarket to buy their oil. They need providers that give them metric tonnes of oil so that they can use it there in their factories, in their facilities. 
+
+058 #00:44:57#
+B1: So then I discovered that there's one person who does this, who scans the market and looks for possible suppliers. They are usually on the lookout for: okay, who's a good supplier? What is their product like? Can I get a sample of this product? So there are a lot of prerequisites that a procurement manager needs to get, needs to feel, so that he or she makes the decision: okay, you will be my next supplier. And everything starts with a web search. So on your website, you need to put a lot of information that covers what this person is looking for. Now, the AI will tell you upfront: you need to put this on your website, because this is what procurement managers are doing. Okay, then you talk to the CEO, the CEO tells you: this is sensitive information, you don't want to put it upfront. You want to convince this guy, but I'm not confident, I'm not comfortable with putting this on my website. And then you start asking: why? I just conducted research, the AI told me to do so. How is it? And then you ask the AI: okay, how many people put this information upfront on their websites? And then it says: you know what, no one, no one does. You just did the research, you did the research, so... Yes.
+
+059 #00:45:56#
+B1: The list of things that our procurement managers need to understand to make a decision is correct. Does this mean that it needs to be on the website? No. This means that you somehow need to get the call so that you can tell on the phone: this is my conditions, this is what I can offer you. But you need to put bait, I don't know, it's so...
+
+060 #00:46:26#
+B1: Again. AI, I use it all the time. But it's tricking me a lot.
+
+061 #00:46:37#
+I: Yeah. So, you have to be careful, careful with the results and the answers it is giving.
+
+062 #00:46:47#
+I: One follow-up question: if the AI delivers the results quite quickly, you explained that you have to think about it and really have to be critical, if that makes sense. But to be able to do that, you have to have an understanding of the goal and the issue. What happens to the questioning and the deep understanding of the problem space compared to the time before AI?
+
+063 #00:47:21#
+I: If the AI delivers results and solutions quite quickly, what's your opinion on that?
+
+064 #00:47:28#
+B1: I don't have a comparison. What I can tell you is that I think I would not have conducted deep research without AI. So the thing is that... Again, I am not sure that AI boosts productivity, boosts productivity. I'm not sure at all, at all. I use it, again, I don't want to be the downer of the room.
+
+065 #00:47:59#
+B1: But you know... Imagine I don't have AI and I do have to conduct this same research. I don't have access to that market information. So I am not able to read ten marketing pages about a specific country's market. I cannot do that.
+
+066 #00:48:24#
+B1: What I would do is I would go to other companies that do the same thing, selling oil to industries, and I would get an idea of what they are offering. And you can be sure that I would not have committed the mistake of telling my customer that he or she needs to put this information upfront, because I would not have seen this information from other competitors. So I would not have made that mistake. It could have taken more time.
+
+067 #00:49:01#
+B1: Time. To get a complete idea of how this website needs to be built, might be — I might have taken more time. But honestly, I tell you, it's not immediate. It's not like you ask the AI, okay, give me a market research about this. No, I need to give it a lot of context. I need to explain a lot of things. When it brings the first draft, I need to correct it. I need to tell it: no, maybe this is not good. Maybe this is not. And it...
+
+068 #00:49:29#
+B1: It takes a lot of time anyway. It's not like you hit a button and then you get the results. It's not like that at all. So first, I challenge the idea that I'm getting this soon and quickly. And second, what I get... it's not... like, it's gold in many cases, because sometimes it really highlights things that you would not think about.
+
+069 #00:50:03#
+B1: But I'm... I'm not sure, I'm not sure how good it is.
+
+070 #00:50:10#
+I: Yeah. Do you think it changes or influences the long-time competence of people to deeply understand systems and problems if they always use AI and sometimes rely on the answers?
+
+071 #00:50:28#
+B1: I don't think so. I don't think so, because at some point you will realize that you don't need to rely on the answers. Some answers are very good, some answers are not that good. But you will see it. And by using it, you develop a kind of sense of: okay, that might be wrong. So... I don't think that this is going to make you worse. This will make you better because you will expand your... Again, there are a lot of things that you would not have realized on your own, and this is... you learning stuff, so...
+
+072 #00:51:16#
+I: Okay, nice. Imagine you could wish for an AI tool that supports you in the early phases or the requirements phases. Do you have a feature that you really want to have to use it in your everyday work? But, like, what are your requirements for an AI tool for the early phases?
+
+073 #00:51:41#
+B1: No, I don't know, not really. You know the problem? I think the problem is semantics. Again, it's not that you explain something and it gets it upfront. So the more concrete idea you have of what you want, the worse. Because you will be more disappointed with what you get, because then you will need to explain: no, no, but it's not like this, what I wanted is actually something more like this. And then you will give another example, and it will bring back something new, but it's not exactly what you wanted, and then you will go back again. But versus, if you have a general idea of what you want, you just tell it: okay, I have this, what about this? And then everything that it brings back will be cool because it's more general and then you're good with it.
+
+074 #00:52:30#
+B1: But I don't have... so the thing is, what I notice is that I have to go back and forth a lot, a lot. I need to spend a lot of time talking to the AI. Actually, yeah, I don't type anymore, I just talk. I have this fluid voice-up and I just talk to it and ask and refine, and then what I do often is: okay, what are the learnings of this session?
+
+075 #00:52:59#
+B1: And I try to collect the learnings and put them in a Claude file that we use to work together, so that, for example, when I'm auditing websites or when we are creating websites for specific industries, I already have a...
+
+076 #00:53:19#
+B1: protocol to follow that has been refined over time by making mistakes and making your things. But still, it will read — sometimes it will read it and interpret it wrongly. Semantics is the problem. It interprets... I mean, human language is not a science.
+
+077 #00:53:47#
+B1: It's based on mental models. I can tell you something that is... I fear because of this, and our interpretation of fear is different. So...
+
+078 #00:54:01#
+B1: Starting from there, imagine the rest. So, I mean, I can see why in protein language, like... chemistry, why AI is good. So developing new drugs or understanding new components, this is awesome, because the language of chemistry is way more precise than human language.
+
+079 #00:54:32#
+I: Yeah, they are defined rules, and we don't have that in human language.
+
+080 #00:54:36#
+B1: Good.
+
+081 #00:54:37#
+I: Okay, one last question. Is there anything regarding the early phases that we haven't addressed yet and you would mention because it's important to you from your practice experience?
+
+082 #00:54:53#
+B1: I do have one recommendation, which is... don't show up as the expert that is going to tell them the truth that they don't know — that makes them feel stupid, and you don't want that. You want to collaborate with them. And for that, asking stupid questions is really a good strategy, because you are starting the conversation as the errant.
+
+083 #00:55:24#
+B1: They know you are an expert. But you are an expert on building stuff, but you are the errant on their field of expertise. And stupid questions are a powerful tool to make them realize their own mistakes. And this is called — I recently learned —
+
+084 #00:55:47#
+B1: that this is called a Socratic approach, based on the philosopher Socrates. What he did was not tell the students what to think. What he did is put the problem in a way that he was driving them to address the problem the way that he looked at it.
+
+085 #00:56:15#
+B1: So this is how a CEO can understand: "Oh, I was doing this because I wanted to solve this problem, but this actually doesn't solve the problem" — which you knew from the very beginning, but the important thing is that they understand it. And if you conduct the collaboration like that, it usually... it's way better.
+
+086 #00:56:53#
+I: Yeah, I never heard of this, but that's a nice and interesting approach. And even in the digital design school, we also learned that we always have to ask a lot of stupid questions.
+
+087 #00:57:14#
+I: Socratic approach, that's nice. So actually, that was the end of the interview. I asked you everything I wanted. Again, thank you very much for the interesting talk. It was nice. And yeah, I think it's really helpful for my thesis.

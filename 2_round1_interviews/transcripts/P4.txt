@@ -1,0 +1,295 @@
+Interview-ID: [P4]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Teams-Call]
+
+001 #00:00:03#
+I: Wäre es gut, wenn du vielleicht ganz kurz ein paar Sätze über dich sagen kannst, was so deine Rollen sind in den bisherigen Projekten und vielleicht ganz kurz zusammengefasst, wie so eine typische frühe Phase bei euch aussieht? Aber nur ein kurzer Umriss, da gehen wir später tiefer drauf ein.
+
+002 #00:00:29#
+B1: Möchtest du, dass ich mich nur auf [Arbeitgeber] beziehe, oder auch Erfahrung aus anderen Firmen?
+
+003 #00:00:34#
+I: Nee, generell gerne auch Erfahrung aus anderen Firmen, ja.
+
+004 #00:00:40#
+B1: Genau, ich bin der P4. Ich bin jetzt seit zweieinhalb Jahren bei [Arbeitgeber], circa.
+
+005 #00:00:49#
+B1: Ich selbst fasse es gerne persönlich einfach als Product Consultant zusammen, was die Rollen vereint von Requirements Engineer, Business Analyst. Manchmal auch ein bisschen UX/UI-Themen, aber auf jeden Fall kein Hauptfokus. Und wenn es sich anbietet und das Projekt es hergibt, dass man dann auch kleine Projekt-Lead-Themen macht. Ich nenne es jetzt explizit Projekt-Lead-Themen, weil die [Arbeitgeber]-Rollenbeschreibung da so explizit rigoros ist zwischen Projekt Lead und Projektmanager.
+
+006 #00:01:33#
+B1: Unabhängig davon ist es, mit draufzuschauen: Sind wir beim Projekt gut wirtschaftlich unterwegs, und wie planen wir Ressourcen? Und das "gut wirtschaftlich" dippt dann sowieso immer rein für: Wie gestalte ich das eigentliche Produkt, wie viel Zeit habe ich dafür, was müssen wir beachten, wie viel Budget, wie viel Kapazität habe ich pro Arbeitsblock.
+
+007 #00:02:07#
+B1: Ich habe bei [Arbeitgeber] relativ viele kleine Projekte bisher gemacht. Das ist sogar relativ unüblich für hier, also viele haben ja große, lange Projekte. Ich war zum Beispiel bei [Kunde A], das ist ein Mittelständler, und habe da ein bisschen Change Management gemacht, aber auch noch ein bisschen ein Product-Discovery-Projekt.
+
+008 #00:02:37#
+B1: Ich war bei [oeffentlicher Auftraggeber] bei verschiedenen Projekten, dann auch immer im kleinen Rahmen. [Kunde B] einmal kurz für eine größere Abrechnungsplattform, Daten- und Abrechnungsplattform. Was noch? Bei [Kunde C].
+
+009 #00:02:57#
+B1: Wie dir wahrscheinlich jeder sagt, wie eine frühe Phase aussieht, variiert es wahnsinnig pro Kunde. Und vor allem hängt es davon ab, wie: Habe ich ein reines Entwicklungsprojekt, oder habe ich vielleicht noch mal eine eigene Explorationsphase?
+
+010 #00:03:21#
+B1: Wenn es ein reines Entwicklungsprojekt ist, dann ist es meistens so, dass mir eine seniorige Person oder eine BU-Person schon eine erste Exploration gemacht und einen groben Rahmen festgesteckt hat. Dann ist meine Richtung relativ klar, weil ich diese Arbeitspakete nehme und schon mal anfange. Im Prinzip nehme ich die Arbeitspakete und arbeite sie ab oder versuche, sie mir irgendwie zu strukturieren, aber diese grobe Richtung ist auf jeden Fall schon klar.
+
+011 #00:04:07#
+B1: Wenn die eigene Exploration mit drin ist, dann muss ich selber die Struktur finden, wie wir die Arbeitspakete definieren. Ich bleibe mal bei einem Beispiel, wo die Exploration mit dabei ist: Ich hatte ein [oeffentlicher Auftraggeber]-Projekt, da habe ich die Exploration selbst gemacht, beziehungsweise das war an und für sich relativ explorativ.
+
+012 #00:04:36#
+B1: Und da standen aber zumindest die groben Produktmehrwerte im Sinne von: Einmal musste das Projekt erst mal rein technisch etwas ermöglichen. Das war dann nicht so sehr meine Aufgabe.
+
+013 #00:05:06#
+B1: Aber in dem Fall war es (...) nicht ganz, aber im Prinzip ein Prozess. Und es hatte sehr viel Prozesselemente und Koordinierungselemente.
+
+014 #00:05:21#
+B1: Da steht dann am Anfang oft ganz banal ein... Oder ich teile es auf: Entweder weiß ich schon die groben Produktmehrwerte, die das Produkt ermöglichen sollen, und die Zielgruppe. Wenn ich es nicht weiß, dann spreche ich zuerst mit den Business-Stakeholdern des Projektes, um mal grob zu erfassen: "Hey, was ist denn eure Vorstellung vom Produkt?"
+
+015 #00:05:57#
+B1: Ich versuche ein Gefühl dafür zu kriegen, wie die Firma Geld macht, unabhängig davon, was das Softwareprodukt soll, damit ich den Gesamtkontext verstehe. Und wenn das feststeht, dann ist es meistens erst mal ganz banal ein erstes Verstehen von: Wie gliedert sich das Produkt im Gesamtgefüge der Firma ein, und dann auch für den Kunden. Das kann dann vielleicht auch der Business-Stakeholder machen, oder es ist einfach ein erstes Interview mit dem Kunden.
+
+016 #00:06:34#
+B1: Um so eine Gesamtübersicht zu kriegen über alles und dann zu sehen: OK, was muss ich jetzt technisch noch weiter anschauen, oder was muss ich vom eigentlichen User-Kontext, vom Prozess zum Beispiel, den er hat, weiter anschauen.
+
+017 #00:06:51#
+B1: Ich glaube, das ist erst mal ganz banal die wichtigste Unterscheidung von: Ist die Produktvision schon genug definiert, dass ich loslegen kann? Hat das zum Beispiel schon ein anderer Kollege, eine andere Kollegin bei [Arbeitgeber] vordefiniert, und ich kann relativ stark loslegen, oder muss ich noch mal weiter höher gehen?
+
+018 #00:07:15#
+I: Da würde ich vielleicht gleich mit einer Anschlussfrage reingehen: Wenn du merkst, dass das Produkt noch nicht so klar ist, aber du trotzdem in dem Workshop mit dem Kunden das Gefühl hast, da kommt jemand, der hat irgendwie eine fertige Lösung im Kopf, und du hast aber das eigentliche Problem von der Person noch gar nicht so richtig durchdrungen, verstanden, und du bekommst nur so: "Hey, wir wollen das umsetzen, mach das bitte." Wie gehst du damit um? Also, was sind da deine Ansätze, um mit dem eigentlichen Problem erst mal vertraut zu sein und das zu verstehen?
+
+019 #00:07:53#
+B1: Es kommt ein bisschen auf die Dynamik beim Kunden drauf an. Da sind wir durch das Consulting vielleicht ein bisschen anders, als wenn man eine interne Firma ist.
+
+020 #00:08:14#
+B1: Da ist die Entscheidung: Habe ich das Gefühl, und das ist dann einfach mehr Bauchgefühl oder menschliche Interpretation. Habe ich das Gefühl, dass wenn ich jetzt (...) - also für mich wäre es eine Entscheidung zwischen: Am liebsten würde ich persönlich sagen: "Hey, klingt voll gut, was sind die Produktmehrwerte und die Produktziele, die du damit erreichen möchtest", um dann eine für den Kunden auch gemeinsame Basis zu schaffen: Wann sind wir erfolgreich?
+
+021 #00:08:51#
+B1: Und das ist nicht unbedingt zu sagen von "Hey, deine Ideen sind schlecht", sondern: Wann können wir beide, also die Kundenseite und auch ich, definieren: "Hey, wir haben jetzt das erreicht", versus das ist nur implizit in deinem Kopf.
+
+022 #00:09:07#
+B1: Weil dann kann man es auch Stück für Stück irgendwie greifbarer machen und dann vielleicht sogar in feste KPIs oder so, im Idealfall sogar noch in Hypothesen ummünzen, die man besser definieren kann, als wenn man nur so eine grobe Aussage macht, dass das Ding das und das erreichen soll.
+
+023 #00:09:36#
+B1: Wenn ich aber merke, der Kunde wäre da gerade nicht für offen, dann kann es auch helfen, dass man loslegt mit der Entwicklung, und vor allem loslegt mit Sachen, wo man weiß: OK, die werden wir wahrscheinlich so oder so brauchen. Da verschwenden wir im dümmsten Fall nicht Zeit.
+
+024 #00:10:00#
+B1: Und versuche es dann unterzubringen oder dem Kunden nochmal zu spiegeln und zu sagen: "Hey, ich verstehe, dass du loslegen willst", oder eben das Risiko zu spiegeln: Wenn wir jetzt loslegen, ohne eine wirklich gute Richtung zu haben - von: "Hey, ich verstehe, dass du loslegen willst, die Idee ist auch gut, lass uns aber noch mal prüfen, was wir wirklich erreichen wollen", und ob wir dann immer irgendwas validieren wollen, durch User Research zum Beispiel, um dem Kunden - oder um dir, jetzt im fiktiven Kundengespräch - zu helfen, dass wir vermeiden, dass wir Sachen bauen, die wir am Ende in die Tonne kloppen müssen.
+
+025 #00:10:53#
+B1: Und wenn der Kunde dann offen ist für die Produktvision, für die Produktmehrwerte, hat er entweder schon welche, um (...). Dann ist es vielleicht einfach ein ganz normales, einfaches Gespräch, wo man synchron irgendwo es auf Miro packt. Oder ich bediene mich an Methoden aus Design Thinking oder Product Discovery.
+
+026 #00:11:23#
+B1: Da gibt es nicht die eine Methode, sondern ich habe Quellen, auf die ich mich gerne berufe, und schaue dann, was gut auf das Projekt passt. Die Entscheidung ist dann ganz banal: "OK, ich brauche jetzt irgendwas in Richtung Product Discovery, Produktvision", und schaue dann für den spezifischen Kontext.
+
+027 #00:12:07#
+B1: Oh, jetzt habe ich gerade den Kontext - was wollte ich jetzt noch fragen? (...) Ja, nee, das passt eigentlich in eine Aussage: Es reicht vielleicht einfach kurz für das Gespräch, oder... oder kleinere bis größere Workshop-Methoden. Kommt dann natürlich auch immer sehr auf den Kontext an, wie groß der Kunde ist.
+
+028 #00:12:30#
+I: OK, du hast ja jetzt schon einige Projekte gemacht und auch ein bisschen Erfahrung mit verschiedenen Lösungen. Hast du da eher das Gefühl, dass dir die Erfahrung hilft, oder hast du auch schon mal erlebt, dass du vielleicht eine bekannte Lösung im Kopf hast und dann in das bekannte Lösungsmuster schnell wieder reingehst, bevor du vielleicht das ganze Problem noch mal (...) Also, anders formuliert: Wo hilft dir deine Erfahrung? Wo hast du das Gefühl: Ah, da wäre es jetzt auch nicht schlecht, wenn man erstmal einfach grob sich alles anschaut und ganz offen an die Sache rangeht?
+
+029 #00:13:17#
+B1: Um den ersten Teil der Frage zu beantworten: Ja, bestimmt habe ich das ständig.
+
+030 #00:13:28#
+B1: Ich mache es an einem Projekt fest. Ich hatte ein [oeffentlicher Auftraggeber]-Projekt, da hatten wir Hardware-Systemkomponenten, die wir nicht beeinflusst haben. Um dir kurz den Kontext zu geben: Es gibt bestehende Funkgeräte bei [oeffentlicher Auftraggeber], das sind analoge Funkgeräte, und darauf kann man eine Adapterklinke stecken, um darauf dann wieder ein Smartphone zu stecken, damit das Smartphone einen Ton ausgibt, der dann über das Funkgerät versendet wird. Das heißt, wir hatten einmal das Smartphone, und darauf haben wir dann die App gebaut, wir hatten das Kabel und hatten das Funkgerät an sich.
+
+031 #00:14:07#
+B1: Die Verlässlichkeit des Gesamtsystems und damit auch das Debugging hing von all diesen Komponenten ab, die wir natürlich nicht über Logs irgendwie checken konnten.
+
+032 #00:14:31#
+B1: Und da musste ich umdenken und habe mich aber am Anfang ein bisschen mehr erwischt, wie ich sehe (...) - ja, ein Stück weit überfordert war, weil ich gar nicht wusste, wie ich debuggen sollte, oder sehr den Anspruch hatte: Man kann ja irgendwie alles vorab einfach über Software definieren, wie man das Ganze einstellen muss.
+
+033 #00:15:03#
+B1: Um jetzt raus aus dem Beispiel zu gehen und deine Frage allgemein zu beantworten: Mir hilft es so zu betrachten - meine Erfahrung hilft mir dabei, erst mal zu schauen, was könnte ich denn ausprobieren, zum Beispiel an bestehenden Requirements-Erhebungsmethoden, um dann aber auch zu checken: Hey, trotzdem ist das jetzt erst mal ein Versuch. Du versuchst, diese Methode jetzt wieder in einem neuen Kontext anzuwenden.
+
+034 #00:15:41#
+B1: Zum Beispiel: Ich komme jetzt auf ein Projekt, wo es mehr wie ein Process-Map-Prozessermöglichungstool ist. Ich kann mal versuchen, die bestehenden Process-Mapping-Methoden, die ich habe, da anzuwenden. Vielleicht scheitere ich aber auch komplett, und dann brauche ich was Neues. Und dann ist es ein Reflektieren: Macht das jetzt gerade Sinn, oder bringt das nichts?
+
+035 #00:16:14#
+B1: Und im Idealfall hat man sich Zeit gespart, weil es dann eben schon direkt passt, oder man muss es noch mal irgendwie umwerfen. Und dieses Beantworten, ob diese neue Methode jetzt passt, ist ein Stück weit Gefühl.
+
+036 #00:16:37#
+B1: Aber es ist vor allem auch: Kann ich den Kunden so durch den Prozess führen, dass es für ihn stimmig ist? Dass er auch weiß, was der nächste Schritt ist, oder antizipieren kann, was der nächste Schritt ist, oder ob er die Übersicht verliert.
+
+037 #00:17:03#
+B1: Oder eine Art Sparring hat mit dem Kollegen: "Hey, der und der Kontext ist das, wir machen jetzt gerade das und das, und das wollen wir damit erreichen." Und dadurch hilft eine Person, die nicht im Detailwissen ist, oder hat da mal eine Gegenprüfung von: Klingt das stimmig, oder verrenne ich mich hier gerade?
+
+038 #00:17:30#
+I: OK, also das Reflektieren ist da dann immer wichtig, dass man seine Methoden immer reflektiert und schaut, ob das dann in dem jeweiligen Projekt passt.
+
+039 #00:17:41#
+B1: Ich würde so vergleichen (...) - dass man seinen eigenen Prozess sieht als ein Produkt oder ein Experiment. Ich versuche jetzt mit diesen Methoden ein Problem zu lösen, genauso wie ich mit einem Softwareprodukt versuche, die und die Produktmehrwerte zu erreichen. Schaffe ich das denn? Also dieses Überprüfen, dieses Experimentieren: Schaffe ich das denn? Und wenn es nicht klappt, zu sagen: "Nee, ich versuche das jetzt nicht weiter, sondern ich versuche etwas anderes."
+
+040 #00:18:15#
+B1: Und meine Erfahrung hilft mir einfach zu wissen, was könnte ich denn ausprobieren. Gleichzeitig aber auch zu sagen: "Nee, das passt jetzt vielleicht nicht, vielleicht muss ich mir da noch mal Theorie draufpacken, oder ich muss mit einem anderen Kollegen darüber reden" - der zum Beispiel in der Domäne, in der Industrie, mehr Erfahrung hat.
+
+041 #00:18:40#
+I: Hattest du das schon einmal, dass du trotz der angewendeten Methodik nach einem Gespräch mit einem Stakeholder rausgegangen bist und ihr dann unterschiedliche Vorstellungen oder unterschiedliche Verständnisse von dem Thema hattet? Oder von derselben Sache. Und falls ja, wie hast du das gemerkt, und wann kam das raus, dass ihr aneinander vorbeiredet, zum Beispiel?
+
+042 #00:19:17#
+B1: Im Termin auf jeden Fall erstmal, oder im Idealfall merkt man das schon im Termin. Entweder direkt über explizites Feedback, also explizites Feedback von "Hey, das passt mir jetzt nicht" oder "Ich kann dir jetzt nicht folgen". Oder implizit, indirektes Feedback: Die Person kann nicht so mitmachen. Ich leite eigentlich die ganze Zeit durch, oder wenn ich Fragen stelle, sind es nur Ein-Satz-Antworten, anstatt dass die Person in die Tiefe geht, weil die Person auch einfach nur an der Oberfläche denken kann. Also der Mitmachanteil ist zu gering, und am Ende kommt dann ein "Hey, das passt jetzt" und "das ist der nächste Schritt im Projekt". Also egal, und auf einem sehr abstrahierten Level. Oder wenn ich dann merke, die Person ist jetzt nicht so dabei, dass sie enthusiastisch sagt: "Ja, das hat gepasst, das ist jetzt der nächste Schritt" oder "das ist gut so". Natürlich variiert das von Personen und von Kultur zu Kultur, wie explizit oder [unverständlich] das ist.
+
+043 #00:20:34#
+B1: Das heißt, in dem Fall ist es erstmal: versuchen, einfach die Person zu lesen. Oder das Feedback dazu kriegen und dann am Ende vor allem auch explizit nachfragen, wenn man es bisher im Projekt nicht hatte. Zum Beispiel: "Passt das so für dich? Ist noch irgendwas unklar, oder wo würdest du gerne noch mal draufschauen?"
+
+044 #00:21:02#
+B1: (...) Manchmal kommt es auch einfach später in der Reflexion, wo man denkt: "So, ja, der Kunde war zwar enthusiastisch, aber irgendwie hat es nicht gepasst." Oder irgendwas ist noch unstimmig.
+
+045 #00:21:27#
+I: Ist dir das mal passiert, dass Widersprüche erst später entdeckt wurden? Weil wenn man jetzt so einen Workshop hat, bekommt man ja ganz viele Informationen auf einmal, und man kann vielleicht nicht immer alles direkt in dem Moment verarbeiten. Hattest du das mal, dass du dann im Nachhinein oder später Widersprüche entdeckt hast? Und falls ja, hast du da ein Beispiel, und wie bist du damit umgegangen?
+
+046 #00:22:02#
+B1: Also ständig, bestimmt. (...) Ich habe gerade kein... Ja, doch, in dem [oeffentlicher Auftraggeber]-Projekt war das. Das war ein internes Meeting zwischen einem Mobile Developer und einem Embedded Developer. Es ging ganz vereinfacht darum: Können wir programmatisch, also über die Software, die Reichweite erhöhen? Zwischen den beiden Kollegen war Uneinigkeit, ob man das machen kann. Fairerweise, das war jetzt nicht nach dem Meeting, deswegen ist es ein schlechtes Beispiel, merke ich gerade.
+
+047 #00:23:01#
+B1: Es ist dann selbst, wenn es während dem Meeting passiert oder im Nachhinein des Meetings - es hilft mir mittlerweile sehr oft, zu sagen: Okay, hier ist jetzt ein Widerspruch, wie wichtig ist das für die Erreichung unserer Produktziele? Also einfach erstmal eine Priorisierung, die ich entweder alleine für mich mache, wo ich sage, okay, das ist jetzt gerade wichtig, oder noch mal mit Stakeholdern gegenprüfe: Ist das jetzt gerade wichtig? Und wenn es einen Widerspruch gibt, kann es erstmal ein fachlicher Widerspruch sein, wo sich Leute zum Beispiel widersprechen. Da ist es dann spannend: Basiert das auf Annahmen, oder wissen die Leute das wirklich? Und wenn es auf Annahmen basiert, hilft es, noch mal mit der Person zu sprechen, oder zu recherchieren, im Sinne von: Wir sprechen noch mal mit einem Experten, wir sprechen noch mal mit einer anderen Person. Und wenn es aber ein Priorisierungswiderspruch ist, weil wir merken, hey, das zahlt jetzt nicht irgendwie auf die Produktziele ein, dann könnte es auch sein: Okay, vielleicht wissen wir gerade nicht, wie stark etwas auf Produktmehrwerte einzahlt. Können wir das irgendwie durch Recherche lösen, zum Beispiel, indem wir uns Daten anschauen? Also jetzt ein super simplifiziertes Beispiel: Auf welchen Markt soll man sich konzentrieren, Deutschland oder Skandinavien? Jetzt völlig vereinfacht, das war's, hier oder da, dann auch fragen und anbieten von: "Hey, möchtest du das selber entscheiden, oder sollten wir das noch mal überprüfen?"
+
+048 #00:25:00#
+I: Okay, also gehst du mit Unklarheiten und Mehrdeutigkeiten im Gespräch eher so um, dass du dir überlegst: Ist es gerade wirklich so wichtig, dass ich es direkt ansprechen muss, um die Konflikte zu lösen, oder ist es vielleicht weniger wichtig, dass ich sie erstmal zurückstellen und akzeptieren kann? Okay.
+
+049 #00:25:21#
+B1: Ja, ja, ja. Und wenn es wichtig ist: zu überprüfen, auf wie viele Annahmen das trifft. Gibt es hier noch Unsicherheiten, die man lösen kann, und dem Kunden dann vor allem anbieten von: "Hey, möchtest du es trotzdem einfach so entscheiden, oder sollen wir es gemeinsam anschauen?"
+
+050 #00:25:41#
+I: Ja, ich habe bei meiner... ich habe schon eine Literaturrecherche gemacht, und da habe ich ein paar Studien gefunden, die gesagt haben, dass Missverständnisse oder Mehrdeutigkeiten im Gespräch oft untergehen und erstmal unbemerkt bleiben. Das passt zu deinem Eindruck auch aus deiner Erfahrung, oder? Dass man das dann erst im Nachhinein oder in der Analyse vielleicht noch mal entdeckt, aber im Gespräch vielleicht gar nicht immer direkt erkennt, wenn da irgendetwas missverstanden wurde.
+
+051 #00:26:08#
+B1: Auf jeden Fall, ja. Fairerweise, ich habe mich jetzt auch einfach auf Unsicherheiten in Produktentscheidungen konzentriert. Fachliche Mehrdeutigkeiten kann es natürlich trotzdem geben. Da ist es dann einfach noch mal ein Nachfragen: "Hey, habe ich das gerade richtig verstanden?" Sich vielleicht auch noch mal Definitionen tatsächlich geben lassen, Prozesse noch mal erklären lassen, oder mit jemandem sprechen, der Expertise hat, oder einfach mit Internetrecherche versuchen, das aufzulösen.
+
+052 #00:26:53#
+B1: Ich muss mal ganz kurz aufs Klo, ich bin sofort wieder da.
+
+053 #00:29:01#
+I: Jetzt bin ich kurz am Überlegen, wo ich stehen geblieben bin. Ich glaube, ich will einfach mit der nächsten Frage weitermachen, die auch ein bisschen daran anschließt. In den frühen Phasen oder im Anfangsprozess muss man ja viele verschiedene Meinungen und viele verschiedene Stakeholder-Perspektiven berücksichtigen. Hast du schon erlebt, dass bestimmte Perspektiven oder bestimmte Stakeholder in den frühen Phasen irgendwie zu kurz kommen oder vielleicht sogar ganz untergehen? Was ist da so dein Eindruck? Und vielleicht gleich eine Anschlussfrage: Woran liegt es dann aus deiner Sicht meistens?
+
+054 #00:29:54#
+B1: Gleichzeitig ist es nicht zwingend immer ein Problem, oder zumindest im Product Consulting, in der Consulting-Arbeit. Wir leben davon, dass wir bestimmte Stakeholder - das ist jetzt eine überspitzte Formulierung -, aber wir leben davon, dass wir bestimmte Stakeholder glücklich machen, zumindest denjenigen mit dem Budget-Topf. Und wenn dann ein paar Stakeholder runtergehen, ist das sozusagen so, weil das dann nicht für uns als [Arbeitgeber] oder als Consultingfirma wichtig ist, um weiterhin Geld zu verdienen. Wenn es aber für die eigentliche Produktgestaltung wichtig ist, dann liegt es daran, dass man einen Prozess oder eine Methode im Requirements Engineering gewählt hat, die die Personen nicht genug berücksichtigt. Oder andersrum formuliert: Wenn ich möchte, dass ich diesen Stakeholder höre, dann versuche ich, die richtige Methode dafür zu wählen.
+
+055 #00:30:59#
+B1: Ich gebe ein Beispiel: Wir haben Interviews geführt für [Kunde B]. Ganz banal: "Hey, was sind deine bisherigen Erfahrungen mit der Bestandssoftware, und was würdest du gerne anders haben?" Wir haben eine Person angeschrieben, ins Interview sind vier Personen gekommen. Das ist ein bisschen schwierig, weil man dann im Interview nicht sagen möchte: "Ja, könnten jetzt bitte drei wieder gehen." Gleichzeitig reden dann oft eigentlich nur zwei, oder die Leute sprechen nicht so offen. Das heißt, wenn ich es abstrahieren möchte: Entweder muss ich selber schauen, dass die Methode so gewählt ist, dass ich alle höre, oder ich versuche dann noch mal im Nachgang mit der Person zu sprechen. Das kann man dann formulieren von: "Hey, wir hatten jetzt die große Übersicht, in der wir mit eingesprochen haben. Ich möchte aber noch mal das im Detail kennenlernen, und ich glaube, dafür bist du die richtige Person."
+
+056 #00:32:43#
+B1: Und wenn es in einem Meeting oder in einem Workshop ist, dann ist es sowieso irgendwann keine Interview-Situation mehr, und dann geht es um die Auswahl der Interviewmethode, der Workshopmethode, um das richtig zu lenken. Im Idealfall weiß man: Okay, das sind jetzt zum Beispiel Workshop-Methoden, da müssen die Personen in kleineren Gruppen arbeiten oder für sich arbeiten, wodurch man sowieso schon ermöglicht, dass jede Person etwas erarbeitet und dadurch allein schon gesehen wird. Oder man kriegt es zumindest so hin, dass man schon im Vorfeld weiß: "Hey, diese Person nimmt viel Raum ein, diese Person weniger oder traut sich nicht so", sodass man das zumindest irgendwie gut verteilt innerhalb der Gruppen.
+
+057 #00:33:32#
+I: Also, ihr stellt sicher, dass leisere oder auch stellvertretende Stimmen für die Fachexperten genug Raum bekommen und auch gehört werden, auch wenn sie jetzt nicht so extrovertiert sind oder keine Ahnung. Okay.
+
+058 #00:33:49#
+B1: Das ist vor allem im B2B, wenn man Stakeholder hat. Ansonsten ist es aber auch oft die Frage von... das ist sozusagen so eine ganz banale Risikoabwägung bei einer Produktgestaltung von: "Hey, übersehen wir hier gerade wirklich wichtige Stakeholder oder Usergruppen, weil sie Einfluss haben" - also zum Beispiel im B2B - oder bei B2C, weil sie einfach groß genug sind. Und bei Letzterem, also bei B2B, kann man das nicht so direkt beantworten, sondern dann muss man sich in den Account reingraben, oder man hat schon eine Person in der Consultingfirma, die den Account kennt, was man fragen könnte. Ansonsten muss man das über das Kennenlernen des Accounts herausfinden.
+
+059 #00:34:49#
+B1: Und bei B2C ist es eine Beantwortung über Daten. Also schon auch qualitativ, weil man erst dadurch die verschiedenen Kategorien von Usern kennenlernt, und dann eine quantitative Verteilung. Und dann hilft es zu sagen: "Okay, hey, das ist aber..." Keine Ahnung, ich mache jetzt mal ein Beispiel, weil wir auch Accessibility haben: Man hat in dem Interview gelernt, okay, wenn eine Person eine [unverständlich]-Einschränkung hat, kann sie die Software aber gar nicht so bedienen. Dann hat man eine Vermutung: Hey, das könnte noch eine relevante Kategorie sein. Man schaut sich an, wie viele Leute das dann noch betreffen könnte, und ob es sich deswegen zum Beispiel lohnt, diese Einschränkung aufzuheben in der App, beziehungsweise zu facilitieren. Ich gebe jetzt mal ein Beispiel: Man muss die App auch mit einer Hand bedienen können, im Idealfall zum Beispiel. Das heißt, entweder ich merke es irgendwie explorativ über die Interviews, oder ich habe schon bestehende Daten, wo ich merke: Okay, das möchte ich mir gerne noch anschauen.
+
+060 #00:36:14#
+I: Eine grundsätzliche Frage, vielleicht auch zum Prozess: Zu der Explorationsphase - wie viel Zeit habt ihr in der Regel, oder wie nehmt ihr euch die Zeit, um so ein Problem erstmal zu verstehen? Eine Explorationsphase zu haben, bevor gebaut wird - kommt das im Praxisalltag genug oder ausreichend zum Zug?
+
+061 #00:36:42#
+B1: Auch wieder sehr projektabhängig. Manchmal kriegen wir explizite Explorationsphasen vorab, oder das Projekt ist eine reine Explorationsphase. Dann ist es natürlich super einfach, weil man dann den Auftrag dafür hat.
+
+062 #00:37:05#
+B1: Ansonsten ist es aber auch oft schon ein: "Hey, wir sollten jetzt schon sofort loslegen", weil gleichzeitig schon die Developer mit dabei auf dem Projekt sind, und die möchten ja auch etwas zu tun haben und würden sonst Geld verschwenden. Das würde ich dann so lösen mit einem: Okay, entweder haben wir schon Aufwände, haben wir schon Entwicklungssachen, wo wir das Gefühl haben, dass wir sie auf jeden Fall machen sollten, und können dann parallel die Explorationssachen machen. Oder dem Kunden sagen: "Ja, ich weiß" - also, was ich vorhin formuliert hatte: "Macht voll Sinn, und es sind gute Ideen. Ich sehe das Risiko, dass wir hier aber gerade in die falsche Richtung rennen." Und ihm dann anbieten: "Hey, entweder wir legen trotzdem los, und du trägst das Risiko, oder wir gehen jetzt zurück in die Exploration." Das heißt, entweder wir haben schon den Auftrag, oder ich versuche fachlich zu begründen, dass wir das machen sollten, und gebe auf jeden Fall aber die Risikoentscheidung, dass man das nicht macht und gegebenenfalls in die falsche Richtung rennt, dem Kunden - um zu sagen: "Hey, ich habe es aber signalisiert, und du hast dich jetzt dafür entschieden, dass wir das Geld so und so verwenden."
+
+063 #00:38:36#
+I: Woran würdest du sagen liegt es, dass die Explorationsphase so unter Druck gerät, oder dass man wenig Zeit dafür hat?
+
+064 #00:38:51#
+B1: Boah, ja, das ist ein bisschen die Gretchenfrage, an der ich auch immer scheitere. Eine wirklich abschließende Antwort habe ich darauf nicht. Ich formuliere jetzt einfach mal ein paar mögliche Ursachen.
+
+065 #00:39:23#
+B1: Am Ende des Tages sind wir eine Software-Lieferungsfirma. Und wenn da vielleicht auch nicht so... Oder: Wir werden als [Arbeitgeber] jetzt nicht so zwingend dafür gesehen, dass wir Product Strategy machen oder Product Discovery – versus wir liefern Software. Und so nach dem Motto: "Was wollen die denn überhaupt in Kombination mit?" Ja, wir werden aber auch überwiegend bei [Arbeitgeber] für Software liefern bezahlt und... Es haben jetzt nicht – oder unsere seniorigen Leute, zum Beispiel Business-User-Leute, haben mit sich immer... Da würde eine Product Discovery sogar vielleicht eher im Weg stehen, Software zu verkaufen, weil: Hier ist das große Software-Projekt, versus: Ich mache es mir vielleicht mit Product Discovery kaputt. Das ist jetzt eine komplette These, von der ich keinen großen Anhalt habe, aber das ist so eine Formulierung.
+
+066 #00:40:21#
+B1: Daran mischt sich dann vielleicht mit rein, oder als überlappender Punkt, dass der Kunde sich falsch gechallenged fühlt, im Sinne von: "Hey, ich weiß doch, was das Ding ermöglichen soll", oder "ich kenne noch meine Prozesse. Wozu sollen wir denn da jetzt überhaupt eine Exploration machen?"
+
+067 #00:40:46#
+B1: Dann natürlich auch interner Druck beim Kunden, sowieso immer gefühlt von "Hey, wir haben keine Zeit für sowas, wir müssen jetzt loslegen". Also dieses Falsche – diese falsche Beschäftigtheit von "Wir haben keine Zeit", oder dieser falsche Druck. Und wir sind sowieso schon zu spät und wir brauchen die Lösung jetzt.
+
+068 #00:41:10#
+B1: Wahrscheinlich noch im Nachhinein 3000 andere Gründe, die uns dann einfallen werden, ja.
+
+069 #00:41:17#
+I: Hast du das Gefühl, dass sich das in den letzten Jahren durch KI verändert hat, also dass die Explorationsphase noch weiter unter Druck gerät und die Leute noch schneller...?
+
+070 #00:41:32#
+B1: Sogar so weit, dass ich teilweise Entwickler hatte, die einfach eigene Features entschieden und gebaut haben.
+
+071 #00:41:42#
+B1: Weil die Begründung von... Oder nochmal anders formuliert: Product Discovery, Product Strategy, Requirements Engineering ist – oder ist eine Betrachtungsweise – ganz banal: Hey, wir nehmen das Risiko raus, dass wir was Falsches entwickeln, und stellen damit sicher, dass wir die Nutzerbedürfnisse und die Produktmehrwerte erreichen. Und das macht man vor allem, weil die eigentliche Entwicklung so aufwendig ist. Also, das ist jetzt eine offensichtliche Aussage, aber das ist der große Aufwand der Entwicklung, und es braucht lange. Deswegen machen wir kleinere Aufwände am Anfang. Ein User Interview am Anfang versus wir haben acht Entwickler, die eine Woche daran arbeiten. Ist eine ganz banale Rechnung. Durch agentische Entwicklung verringert sich diese... diese Rechnung. Und auch das ist eine offensichtliche Aussage, aber dadurch wird dieses "Wir müssen jetzt wirklich sicherstellen, dass wir das Richtige entwickeln" schon geringer.
+
+072 #00:43:09#
+I: Ja, quasi so im Sinne von "fail fast": Wir entwickeln, sehen es funktioniert nicht, dann entwickeln wir einfach was anderes, was dann besser funktioniert.
+
+073 #00:43:19#
+B1: Ja, ich würde es zweiteilen. Einmal würde ich dann beim Kunden argumentieren: "Hey, wir müssen aber trotzdem schauen", dass wir die Kundenwünsche – also dass wir die Produktziele erreichen – und nicht nur in Features denken, so nach dem Motto: "Hey, das könnten wir ja noch machen, und das könnten wir ja noch machen." Allein schon, weil so eine App dann einfach überfrachtet sein könnte und der Nutzer nicht mehr weiß, wie er zu seinem eigentlichen Ziel kommt. Das heißt, das ist dann wieder eine Argumentation von: Haben wir die Vermutung, dass wir... Oder ich versuche es umzudrehen beim Kunden, weil oft kommt man dann aus der Überlegung von: "Hey, wir könnten ja noch das und das Feature machen." Und das dann umzudrehen von: "Nein, wir wollen die Produktziele erreichen. Was brauchen wir dafür? Welche Features brauchen wir davor? Müssen wir das überhaupt programmatisch lösen?"
+
+074 #00:44:14#
+B1: Einmal das, und der andere Teil der Antwort ist aber eben das, was du schon angeschnitten hast, was auch für mich geil ist, weil ich einfach schneller prototypisieren kann, wo man schon... sogar sagt: O.K., wir skippen jetzt einen Teil vom Requirements-Prozess und entwickeln gleich die Lösung, oder wir entwickeln sogar mehrere Lösungen und geben das dem Kunden, um dann sogar noch besseres Feedback zu kriegen. Also, ich gebe ein Beispiel: Dass ich dem Kunden zum Beispiel keine Wireframes mehr zeige für eine Lösung, sondern direkt einen agentisch entwickelten Prototypen, der jetzt nicht auf dem tatsächlichen Mainbranch irgendwie connected ist, sondern einfach kurz zeigt: O.K., das ist so ein richtig guter Klick-Dummy quasi. Oder wir entwickeln gleich mehrere Lösungen komplett und zeigen dann die verschiedenen Optionen, je nachdem natürlich, wie umfangreich.
+
+075 #00:45:18#
+I: Ja, OK, du hast jetzt auch schon wieder bisschen angeschnitten, dass du zum Beispiel KI nutzt, um Prototypen zu erstellen. Welche KI-Tools nutzt du denn gerade in den frühen Phasen, und wo helfen sie dir, und wo vielleicht auch eher nicht?
+
+076 #00:45:53#
+B1: Gefühlt helfen sie eigentlich überall. Ich versuche bloß, mir dadurch das Denken nicht abnehmen zu lassen.
+
+077 #00:46:04#
+B1: Also selbst bei Konzeptionierung oder so hilft mir das. Ich versuche trotzdem, dann noch meine eigene Perspektive draufzukriegen, oder die Perspektive von Kollegen, um sicherzustellen, dass ich mich... oder sondern ich betrachte es dann nicht zwingend als "das ist falsch, das ist wahr", sondern der Agent gibt mir einen möglichen Lösungsweg oder ein mögliches mentales Modell von "so und so sieht das aus", und das versuche ich dann mit reinzugeben.
+
+078 #00:46:39#
+B1: Was ich zusätzlich mache, ist – gerade wenn ich irgendwie einfach Theoriematerial oder fachliches Material – also einmal, sorry, ich renne gerade im Satz. Was ich manchmal mache, ist, quasi Theorie, Product-Management-Theorie-Material zusätzlich reinzuspeisen, zum Beispiel von Product Coaches zu Product Discovery, die ein Buch rausgebracht haben, wo ich dann dem Agenten sage: Hey, nimm dieses Buch. Das ist das eigentliche App-Problem oder Product-Discovery-Problem. Versuchen wir, das mir jetzt mal in diesem Ding zu beantworten. Das heißt, ich nehme nicht das, was der Agent per Default irgendwie ausspuckt, sondern ich gebe ihm das Framework mit. Das hat schon ein paar Mal funktioniert.
+
+079 #00:47:48#
+B1: Ja, genau. Also, um es nochmal sauber runter zu formulieren: Es hilft mir immer beim Brainstorming und im Problem zu denken. Gleichzeitig versuche ich mich aber auch zu lösen, nur immer mit dem Agenten zu brainstormen, und reflektiere so – ohne, oder schaue nochmal selber in Fachliteratur, um nochmal auf einen anderen Pfad zu kommen, oder spreche mit Kollegen. Aber es hilft mir manchmal, das Kollegengespräch zu ersetzen. Das ist sozusagen die Konzeptionsphase und...
+
+080 #00:48:39#
+B1: Ansonsten hilft es mir vor allem einfach für Fleißarbeit, also dieses Meetings transkribieren und dann automatisch zusammenfassen. Oder ein "Hey", wenn man so eine Vermutung hat – bleiben wir mal bei dem Beispiel für Usergruppen oder mit den Userdaten – hey, teile mir das nochmal auf, gib mir nochmal eine Zusammenfassung, wie ist denn jetzt das und das verteilt, dass man das schneller machen kann. Ja. Und was ich nutze, ist einfach das, was die Firma vorgibt, beziehungsweise wo wir am meisten unterwegs sind: Claude über den Terminal. Dann mit den jeweiligen Dokumenten, die ich entweder einzeln einspeise, zum Beispiel Miro-Screenshots von Konzeptionierungen, oder mit Zugriff auf unseren Outline, also von [unverständlich] heißt das, glaube ich, oder? Ja genau, also unser Markdown-Server, sozusagen, ja, ja.
+
+081 #00:49:56#
+I: O.K., wie erlebst du die Rückmeldungen von KI-Tools, wenn du sie nach Einschätzung zu Ideen oder Konzepten fragst?
+
+082 #00:50:13#
+B1: Immer sehr enthusiastisch und bejahend. So nach dem Motto: "Hey, super gute Idee, super gute Frage", also immer dieses, was man auch von anderen Agenten kennt, oder generell auch so in der privaten Nutzung. Immer bejahend und immer so ein bisschen von: Manchmal hat man ja eine Vermutung, die man dann abfragt, und dann immer zu schnell bestätigend. Was dann tatsächlich auch einfach fachliche Fehler wirft. Ich versuche dem zu begegnen, indem ich prompte von: Hey, betrachte das Ganze kritisch und nicht nur bejahend. Kommuniziere Unsicherheiten. Also, ich gebe ihnen quasi so übergreifende Instruktionen von: Nimm Objektivität, oder: die für mehr Objektivität bringen, und dann: recherchiere ausführlich und betrachte auch wirklich die Quellen. Das heißt, das versuche ich einmal im Prompting selber, und versuche dann aber noch mal den Bias rauszunehmen, indem ich selber vielleicht nochmal mit Kollegen spreche oder mir selber nochmal Sachen anschaue. Das heißt, ich beziehe es, aber beziehe es nur als eine Quelle und versuche selber dann die Recherchearbeit von Claude zu objektifizieren, falls das ein Wort ist. Aber du weißt, was ich meine.
+
+083 #00:51:51#
+I: Ich weiß auf jeden Fall, was du meinst. Ja, man hat ja mit KI-Tools auch eigentlich jetzt immer schneller Ergebnisse, alles wird effizienter, aber manchmal braucht man auch einfach Zeit und Nachfragen, um ein Thema zu durchdringen. Merkst du da Veränderungen, dass du quasi schneller zu Ergebnissen kommst, aber vielleicht das Thema weniger tief durchdringst als früher, wenn du alles quasi selber machen musstest?
+
+084 #00:52:20#
+B1: Ja. Bestimmt auch aus diesem: Hey, wenn man einfach mit Material arbeiten muss, dass man allein durch die wiederholte Beschäftigung damit Sachen mehr verinnerlicht. Gleichzeitig auch dieses: "Hey, das Ergebnis ist jetzt schon fertig, du könntest direkt weitermachen." Und diese natürliche Reflexion aber einfach viel länger braucht für uns Menschen. Gleichzeitig sehe ich aber auch den Vorteil, dass es mir manchmal hilft, sich nicht in Details zu verlieren, oder dadurch die Gesamtübersicht zu behalten. Ich sehr lange brauchen würde, um wieder auf ein höheres Level irgendwie zu kommen, gedanklich. Ich geb ein stumpfes Beispiel: Hey, fassen wir mal kurz das Interview zusammen. Da muss ich nicht die Detailarbeit machen und kann stattdessen irgendwie 15 Minuten einfach frei reflektieren: Was habe ich denn jetzt gerade gehört, und was für eine Relevanz hat das jetzt gerade.
+
+085 #00:53:44#
+I: Es hat wahrscheinlich immer ein zweischneidiges Schwert, aber – gibt es in den frühen Phasen Aufgaben oder Themen, wo du sagst, da setze ich wirklich gar nicht auf KI und habe auch vielleicht schon schlechte Erfahrungen gemacht bei gewissen Aufgaben?
+
+086 #00:54:05#
+B1: Also ganz banal: technische Gestaltung von visuellen Übersichten. Das klappt manchmal, klappt manchmal auch nicht, sondern das ist dann einfach schneller, wenn ich es selber mache, und ich vor allem dann selber durch dieses Rumziehen – also ganz banal auf einem Miro-Board zum Beispiel irgendwie versuchen, Zusammenhänge zu ziehen, Prozesse zu mappen oder sonstiges. Das geht aber schneller, und durch dieses Rumziehen versteht man, glaube ich, nochmal selber Zusammenhänge. Und ansonsten alles das, was ich vorher gesagt habe, von "Ja, es hilft". Und ich nehme es als Ergänzung und Erleichterung, aber ich mache es nicht alleine, sondern versuche meine Erfahrung mit reinzubringen, und dann gebe ich einfach Sachen vor, wie es gemacht werden soll, oder ich versuche nochmal unabhängig davon zu recherchieren.
+
+087 #00:55:07#
+I: Du hast gerade schon gesagt, dass du bei Abhängigkeiten so ein bisschen eher auf manuelle Arbeit setzt, zum Beispiel auf Miro. Wie sind deine Erfahrungen mit KI-Tools, wie die mit Abhängigkeiten umgehen, die sich gegenseitig beeinflussen und vielleicht sogar auch widersprechen? Hast du da die Erfahrung, dass das erkannt wird, oder dass die eher isoliert betrachtet werden und versucht wird, sich das möglichst so zu machen, dass es irgendwie zusammenpasst, auch wenn sie vielleicht nicht zusammenpassen?
+
+088 #00:55:52#
+B1: Im Fachlichen hilft es sogar, das manchmal schneller zu erkennen, indem man einfach sagt: "Hey, hast du hier noch irgendwie Unsicherheiten? Gibt es irgendwie Widersprüche?", dass man die nochmal explizit einfach drüberjagt. Ja, wobei jetzt vermische ich – ich vermische gerade eine Antwort, was: Ich probiere auch so ein bisschen eigene App-Entwicklung privat aus, da – und ich habe keinen Software-Developer-Background. Ich habe so ein bisschen Ahnung, ich habe ein bisschen Ahnung von Architektur. Da erwische ich dann aber manchmal, dass bei Widersprüchen der Agent dann sehr viel mit Custom-Entwicklung oder Sonderschleifen irgendwie versucht, zu lösen. Das stört dann. Und ich glaube, aber wenn ich Softwareentwickler wäre, wäre mir so etwas dann schneller in der Konzeptionierung aufgefallen. Also deswegen, nochmal kurz, um das so zu beantworten: Aber das ist eigentlich rausgenommen aus meinem Arbeitskontext. Nein, also da hilft es mir eher, die schneller aufzudecken, oder mir – ich versuche gar nicht, dass das nur der Agent erkennt, sondern ich muss trotzdem die fachliche Übersicht behalten und das fachliche Wort behalten, dass mir die selber auffallen.
+
+089 #00:57:35#
+I: Ich habe noch zwei letzte Fragen. Wenn du dir jetzt so ein KI-Tool für die frühen Phasen wünschen könntest, welche Funktionen würdest du dir wünschen, damit es dir im Alltag wirklich hilft und dich unterstützt?
+
+090 #00:57:56#
+B1: Ja, also Claude, [unverständlich], passt schon ganz gut. Also einfach, dass man sehr viel Kontext eingeben kann.
+
+091 #00:58:09#
+B1: Zwei Sachen, die mir das Leben noch einfacher machen würden, wären: noch mehr Integration in... Ah, jetzt verstehe ich auch einfach, dass es ein Sicherheitsaspekt ist. Also, keine Ahnung: Hey, hier ist unser SharePoint-Projektordner, wo wir alle Dateien ablegen können, können die jetzt nicht in einem... Ja, fairerweise – ich merke gerade, das kann ich auch über ein Repo lösen, also so kleine Usability-Sachen. Das ist aber einfach. Das ist einfach.
+
+092 #00:58:45#
+I: Also quasi, dass du einen Projektordner hast, wo alle Dokumente...
+
+093 #00:58:48#
+B1: Ja genau, aber das ist eigentlich kein KI-Problem, sondern das ist einfach nur ein IT-Governance-Problem, und es ist auch kein Problem, sondern es ist auch sinnvoll, dass man jetzt nicht komplett alles erlaubt. Ich glaube, Visualisierungen – ganz banal Visualisierungen. Wenn das noch geiler könnte, wäre das schon geil. Aber ansonsten habe ich jetzt nichts, was ich so wirklich vermisse, weil es eher ein Produktivitätstool ist, von: Hey, fassen wir das mal zusammen. Oder mir reicht es von: "Hey, ich gebe dir jetzt nochmal den und den Kontext rein", zum Beispiel bei Fachliteratur. Helfen wir das mal zu brainstormen.
+
+094 #00:59:32#
+I: O.K., ja, gibt es zu dem Thema noch etwas Wichtiges, was dir auf dem Herzen liegt? So als Abschlussfrage – was wir noch nicht angesprochen haben, aber was du sagst, ist irgendwie in den frühen Phasen sehr, sehr wichtig und dir in deiner Praxis aufgefallen, was wir jetzt noch nicht angeschnitten oder besprochen haben.
+
+095 #00:59:58#
+B1: Sich durch agentische Entwicklung nicht stressen lassen. Also nur weil man jetzt schneller arbeiten kann, bringt das nicht zwingend Mehrwert, sondern es reicht, wenn man sich gerade Zeit nimmt für Reflexion in der Product Discovery und – auch wenn alle Entwickler jetzt noch schneller arbeiten können – sich da auch nicht stressen lassen. So ein Stück weit aushalten, dass man jetzt selber das Bottleneck ist und nicht mehr die Entwickler oder die Entwicklungsarbeit an sich. Ja, und das – also das habe ich bei mir erlebt und auch bei Kollegen und Kolleginnen erlebt.
+
+096 #01:00:41#
+I: Ja, das hat sich schon geändert – dass jetzt nicht mehr die Entwickler das Bottleneck sind, quasi.
+
+097 #01:00:52#
+I: O.K., ja, cool, dann schon mal vielen, vielen Dank für deine Einschätzungen und Ausführungen. Ich glaube, das hilft mir sehr, und ich glaube, wir werden auf jeden Fall – ich werde bestimmt noch mal irgendwann im [Teammeeting] da sein und meine Arbeit vorstellen oder irgendwie sowas. Also ich denke, wir sehen uns auf jeden Fall noch mal.

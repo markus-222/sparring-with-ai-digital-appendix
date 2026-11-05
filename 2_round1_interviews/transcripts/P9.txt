@@ -1,0 +1,266 @@
+Interview-ID: [P9]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: vor Ort
+
+
+001 #00:00:02#
+I: Und zum Start wäre es gut, wenn du zwei, drei Sätze über dich sagst, was deine Rolle in den Projekten ist und wie du in den frühen Anforderungsphasen grob vorgehst, bevor wir dann in die Fragen reingehen.
+
+002 #00:00:18#
+B1: Grundsätzlich ist mein Job hier Product Owner und auch Projektleitung. In dem Projekt bin ich aktuell für zwei Teams als PO. Das ist mit zwei Teams viel Aufwand, auch um Storys und Backlog gut gepflegt zu haben. Da ist die KI wirklich eine sehr gute Unterstützung. Grundsätzlich gehe ich so vor, dass ich den Anforderungskatalog erstmal der KI gebe und dann mit ihr in den Dialog gehe. Ich nutze die KI als Sparringpartner, um vielleicht auch noch Nachfragen herauszubekommen. Mir fällt jetzt gerade kein gutes Beispiel ein, aber es steht manchmal nur da, das und das muss funktionieren, aber da hängen noch ein paar Randbedingungen dran, die man nicht alle im Kopf hat. Da ist die KI auch ganz hilfreich, um dann Rückfragen herauszufiltern.
+
+003 #00:01:00#
+B1: Das haben wir ursprünglich, bevor das Projekt überhaupt gestartet ist, ganz am Anfang letztes Jahr auch so gemacht, um wirklich einen Fragenkatalog in Richtung des Kunden bereitzustellen: "Hey, wie meint ihr das? Wie meint ihr jenes?", um Details zu klären. Da stand zum Beispiel drin, es muss möglich sein, auf eine Nachricht zu antworten. Was heißt denn Nachricht? Ist es eine E-Mail? Ist es ein Brief? In dem Fall haben wir E-Mails und Briefe. Das konnten wir dann durch Rückfragen klären, weil wir am Anfang dachten, das ist einfach das System, interne Nachrichten, die über das System hin- und herfliegen, was dann aber nicht so war.
+
+004 #00:01:48#
+I: Du sprichst ja auch oft mit den Kunden und hast gesagt, ihr habt schon Rückfragen an die Kunden geschickt. Wenn ihr am Anfang von Projekten mit Kunden sprecht, wie oft kommt es vor, dass die Leute schon mit einer fertigen Lösung im Kopf zu euch kommen und eigentlich gar nicht wirklich das Problem, das sie lösen wollen, mit euch besprechen? Und wie gehst du damit um?
+
+005 #00:02:10#
+B1: Also ziemlich oft. Die haben schon das Gefühl, ihre Lösung zu kennen, wie auch in dem Beispiel, da stand ein Flussdiagramm fest und was es können soll. Nur da fehlen halt viele Detailfragen, um das Problem wirklich zu lösen. Relativ konkret ist es auch so, dass viele verschiedene Rollen das Tool nutzen, aber es muss manchmal Sonderlösungen geben, die damals gar nicht bedacht wurden. Die haben wir, muss man ehrlich sagen, damals in der initialen Phase auch nicht bedacht, aber das stellt sich dann im Nachhinein mit dem Fortschritt des Projektes heraus. Da wir auch agil arbeiten, kann man dann auch gut nochmal mit der KI challengen oder Ideen finden.
+
+006 #00:03:06#
+I: Kann es vorkommen, dass Leute unterschiedliche Vorstellungen von derselben Sache hatten, wenn ihr ein erstes Gespräch führt? Also es sind ja oft auch verschiedene Stakeholder dabei. Dass man dachte, man redet über das Gleiche, aber es war ein bisschen unklar?
+
+007 #00:03:25#
+B1: Ja, das hat man sogar recht oft, würde ich sagen. Auch in der Vergangenheit, ich bin jetzt knapp zehn Jahre Product Owner: Wenn vier Leute gefühlt auch das erste Mal gemeinsam am Tisch sitzen und über das gleiche Problem reden, kommen die mit völlig unterschiedlichen Lösungsansätzen. Derjenige, der den Anforderungskatalog an uns geschickt hat, hat seine Ideen aufgeschrieben, aber nicht die anderen Sachen. Das passiert schon recht oft.
+
+008 #00:03:54#
+I: Wie kommt das meistens heraus und wann?
+
+009 #00:03:58#
+B1: Meistens dann in so einem Kick-off-Workshop. Wir versuchen immer, erstmal so einen Kick-off-Workshop zu machen und uns bewusst einen Tag Zeit zu nehmen, um am ersten Tag nochmal wirklich über die Anforderungen zu reden, unsere Fragen zu stellen, falls die nicht schon vorab per Mail oder Telefonat beantwortet wurden, und dann festzuzurren, was wirklich die Anforderungen sind.
+
+010 #00:04:23#
+I: Ihr versucht also, durch gezielte Rückfragen ein eindeutiges Verständnis zu bekommen. Ist es euch schon passiert, dass sich in so einem Kick-off-Meeting Aussagen widersprechen? Und falls ja, wie geht ihr damit um, wenn zum Beispiel der eine Stakeholder etwas so sagt und der andere etwas anderes?
+
+011 #00:04:48#
+B1: Ja, das kommt schon manchmal vor, aber dann geht man meistens in den Dialog. Manchmal entscheidet auch einfach die Position der Person, es kann sein, dass ein Stakeholder eine höhere Position beim Kunden hat und dann mehr oder weniger von oben herab entscheidet. Aber eigentlich wird es ganz oft einfach im Dialog geklärt. Vielleicht findet man auch einen Kompromiss, einen Mittelweg, oder sind nicht sogar beide Lösungen richtig, sodass man versucht, beide Lösungen zu machen.
+
+012 #00:05:17#
+I: In so einem ersten Meeting prasseln ja viele Informationen auf einen ein. Ist dir schon mal aufgefallen, erst beim Nachbereiten des Gesprächs, dass sich Widersprüche ergeben haben? Hast du dafür ein konkretes Beispiel?
+
+013 #00:05:34#
+B1: Das ist etwas her, mit einem anderen Projekt. Da hatten wir wirklich den Fall, es ging um Ladeinfrastruktur. Da gab es einmal die technischen und die fachlichen Anforderungen, aber die haben sich eigentlich gegenseitig ausgeschlossen. Es ging technisch kurzgesprochen um die Frage: Wer ist der Single Point of Truth für alle Ladesäulen, die es gibt? Die fachliche Anforderung war zuerst, dass es das Tool selber ist. Aber eigentlich gab es schon ein anderes Tool, das der Single Point of Truth war und auch richtiger, weil es noch andere externe Informationen hatte, also ob eine Säule defekt ist oder welche Softwareversion sie hat. Das ist uns im Nachhinein aufgefallen. Wir haben dann nochmal eine E-Mail geschrieben, sogar nochmal einen einstündigen Termin gemacht, weil es beim Kunden auch einen Softwarearchitekten gab. Das haben wir angesprochen, vorab kurz und dann in einem Termin, und dann haben wir eine Lösung gefunden: Das technische System, das es schon gab, war der Single Point of Truth.
+
+014 #00:06:46#
+I: Ihr versucht dann also, nochmal ins Gespräch zu gehen, um Unklarheiten und Mehrdeutigkeiten zu beheben.
+
+015 #00:06:52#
+B1: Ja, neunzig Prozent in meinem Job ist Kommunikation.
+
+016 #00:06:57#
+I: Das passt auch zu dem Eindruck aus den Studien, die ich gelesen habe, dass solche Missverständnisse im Gespräch oft erstmal unentdeckt bleiben und man das Nachbereiten nutzen muss, um sowas aufzudecken. Wenn du Mehrdeutigkeiten im Gespräch direkt bemerkst, sprichst du sie direkt an oder nimmst du sie erstmal mit und klärst sie im Nachhinein?
+
+017 #00:07:23#
+B1: Ich bin eigentlich so ein Mensch, der das immer gleich direkt anspricht. Also nochmal nachfragen: Ich habe das so und so verstanden, ist das jetzt wirklich so? Wenn ich merke, dass es da Gegensätze gibt, spreche ich das direkt an. Dafür ist ja auch so ein Workshop da.
+
+018 #00:07:38#
+I: Hast du schon mal erlebt, dass gewisse Perspektiven oder Stakeholder im Anforderungsprozess zu kurz kommen oder sogar komplett untergehen? Du hattest vorhin schon erwähnt, dass der Mainflow mitgedacht wird, aber manche Edge Cases nicht bedacht werden.
+
+019 #00:08:03#
+B1: Ja, das haben wir auch schon öfter gehabt. Als Beispiel: Ich war in einem Projekt für Heimspeicher, Energiespeicher, und da wurde sehr lange der Service vergessen. Kurz erklärt: Wir haben die Konfiguration von einem Heimspeicher gemacht, für den Techniker, der zum Kunden hin kommt, den Speicher installiert, also technisch anschließt und softwareseitig konfiguriert. Da müssen verschiedene Parameter eingestellt werden. Dafür war die Software perfekt, aber es war super schwierig für den Service, im Fehlerfall die Konfiguration nochmal anzuschauen oder selbst anzupassen, wenn der Service wusste, bei dem Standort müsste das so und so eingestellt werden. Dann musste extra ein Servicemitarbeiter rausgeschickt werden.
+
+020 #00:08:58#
+I: Wie versucht ihr sicherzustellen, dass in den frühen Phasen eines Softwareprojekts alle Perspektiven, alle Stakeholder berücksichtigt werden? Habt ihr dafür bestimmte Methoden oder deckt ihr das einfach im Gespräch mit ab?
+
+021 #00:09:12#
+B1: Eigentlich im Gespräch. Grundsätzlich sitze ich nicht alleine im Workshop, sondern man hat mindestens noch zwei, drei Personen dabei, weil meistens eine Person fürs Mitschreiben zuständig ist, aber natürlich auch mithört und mitdiskutiert. Gerade für die Person, die schreibt, hat man ja Pausen, und dann tauscht man sich aus: Ist dir aufgefallen, dass die Person XY ziemlich ruhig war? Zum Beispiel bei dem Service-Thema, da haben wir die Perspektive vom Service noch gar nicht gehört, dann sollte man vielleicht nochmal nach der Pause nachfragen. Und dann geht man direkt drauf ein: "Ich würde gerne nochmal über den Servicebereich reden, weil wir festgestellt haben, das und das könnte in Zukunft relevant werden."
+
+022 #00:09:57#
+I: Also versucht ihr, leise Stimmen aktiv anzusprechen, um deren Meinung und Input zu bekommen.
+
+023 #00:10:03#
+B1: Genau.
+
+024 #00:10:06#
+I: Habt ihr auch manchmal, dass in so einem Meeting gar nicht die eigentlichen Stakeholder sind, sondern Stellvertreter, die für eine ganze Gruppe sprechen? Wie klappt das aus deiner Erfahrung, falls du das schon mal hattest?
+
+025 #00:10:18#
+B1: Das hatte ich so noch nie, muss ich leider sagen. Es waren eigentlich immer wirklich die Stakeholder da, manchmal gefühlt zu viele, weil die Runden dann zu groß waren, aber sonst waren alle da, die das Tool direkt nutzen oder vertreiben.
+
+026 #00:10:34#
+I: Wenn es zu viele sind, wird es also schwerer, alle Perspektiven zu hören?
+
+027 #00:10:39#
+B1: Ja, wenn es zu viele sind, dauert es auch viel länger. Dann reicht manchmal ein Tag nicht, weil jeder seinen Input geben will, oder man hat stille Zuhörer. Grundsätzlich gibt es bei zu vielen Leuten einfach zu viele unterschiedliche Meinungen. Dann geht man oft in die Diskussion, was der Kompromiss ist, welchen Weg man geht, und verliert dabei viel Zeit.
+
+028 #00:11:00#
+I: Wie läuft es bei euch mit der Zeit, die man sich nehmen kann, um ein Problem erstmal zu verstehen, bevor man anfängt zu implementieren? Hast du das Gefühl, das kommt im Alltag genug zum Zug?
+
+029 #00:11:17#
+B1: Wir arbeiten agil nach Scrum, und in unserer Arbeitsweise versuchen wir schon frühzeitig, wenn der Kunde mit einem Feature um die Ecke kommt, mit dem Team oder, wenn vorhanden, mit dem Architekten zu reden. Aktuell habe ich einen Architekten, dem ich dann sage: Hast du mal fünf Minuten, ich würde dir gerne ein neues Feature vorstellen, siehst du da Probleme, sodass wir das frühzeitig im Team besprechen sollten? Je nachdem kann es sein, dass das straightforward ist und man die Storys einfach runterschreiben kann, oder man spricht es frühzeitig an und arbeitet vielleicht sogar mit Spikes, also Forschungstasks, wo man zum Beispiel bei einer SAP-Anbindung nochmal im Detail prüft, wie die Anbindung funktioniert, sich die Dokumentation einholt, bevor man überhaupt in die Implementierung geht.
+
+030 #00:12:10#
+I: Hast du auch schon mal erlebt, dass ihr bei einem Projekt nicht direkt Features hattet, sondern erstmal das ganze Projekt abstecken und verstehen musstet, was der Scope ist, welche Probleme gelöst werden müssen, also ganz von neu gestartet habt?
+
+031 #00:12:25#
+B1: Grüne-Wiese-Projekte hatten wir schon öfter, jedoch ist es immer so, dass der Kunde bis jetzt eine sehr klare Vorstellung hatte, was er haben möchte. Deswegen geht es eher darum, Dinge innerhalb des gegebenen Rahmens abzustecken. Aber meistens gibt es schon ein relativ klares Bild.
+
+032 #00:12:46#
+I: Hat sich deiner Meinung nach der Zeittakt verändert, wie schnell man anfängt, technisch zu implementieren, durch KI? Und ist auch der Anspruch der Kunden ein anderer geworden?
+
+033 #00:13:02#
+B1: In dem Projekt, in dem ich bin, ist der Anspruch vom Kunden ehrlich gesagt nicht anders geworden. Aber man merkt schon, dass zum Beispiel Spikes dank KI deutlich schneller gehen. Nehmen wir das SAP-Beispiel: Da kriegt man per KI recht gute Unterstützung. Jeder versucht das eigentlich gerne zu umschiffen, weil es immer sehr komplex ist und die Dokumentation meistens nicht so gut ist, aber zum Glück gibt es im Netz genug Hilfe, und da ist KI perfekt, um Informationen gebündelt zu bekommen. Noch ein anderes Beispiel: Wir haben schon in mehreren Projekten Briefe oder PDFs erzeugt, die später ausgedruckt werden müssen. Das war jedes Mal sehr viel Aufwand. Mittlerweile kriegt man das mit KI relativ zügig hin. Das macht es deutlich einfacher. Das war ein sehr konkretes Beispiel bei uns, wo wir erst dachten, wir brauchen drei, vier Wochen, und dann hatten wir es nach einer Woche schon fertig, weil KI eine sehr gute Lösung hatte.
+
+034 #00:14:11#
+I: Hast du das Gefühl, dass die Developer durch KI deutlich schneller geworden sind? Du musst ja das Problem erstmal verstehen und die Tickets schreiben. Setzt dich das unter Druck, wenn die Developer immer schneller werden?
+
+035 #00:14:28#
+B1: Ja, sehr konkret: In dem Projekt, in dem ich aktuell arbeite, sind bloß drei Entwickler. Der Frontend-Entwickler arbeitet wirklich ausschließlich mit KI und hat sich ein sehr gutes Framework eingerichtet. Er ist sehr schnell in der Frontend-Entwicklung, genauso der Backend-Entwickler. Im letzten Sprint waren es, glaube ich, 14 abgeschlossene Storys, 68 Story Points. In dem Team habe ich immer wieder das Problem: Wir haben das Backlog Refinement in Scrum, dort besprechen wir gefühlt zehn neue Storys, aber ganz oft zieht sich die Hälfte davon nach hinten, und dann fängt der nächste Sprint an und man hat nur noch fünf Storys, die man in den neuen Sprint zieht. Man rennt sich so ein bisschen selbst hinterher. Da ist es wirklich ein Stressfaktor, den KI deutlich verstärkt, aber beim Kunden ist die Zufriedenheit hoch, weil wir jede Timeline gehalten haben.
+
+036 #00:15:28#
+I: Also würdest du sagen, das Bottleneck ist das Tickets-Schreiben, die Probleme verstehen und zu den Developern bringen?
+
+037 #00:15:39#
+B1: Das heißt, das Verhältnis aus PO und Anzahl Entwickler verändert sich zunehmend, dass man nur noch für eine kleine Anzahl Entwickler die Storys schafft. Das Team besteht aus drei Personen; vor zwei Jahren hätte ich gesagt, dafür brauchen wir bestimmt sechs Leute. Wir haben nur ein halbes Jahr Zeit, das ist schon tough. Aber das wurde damals mit den Entwicklern besprochen, sehr ausführlich, und die meinten, drei Leute reichen. Und es funktioniert auch sehr gut. Der PO ist da das Bottleneck.
+
+038 #00:16:21#
+I: Du hast vorhin schon erwähnt, dass du KI-Tools nutzt und dass sie dir sehr helfen. Welche KI-Werkzeuge nutzt du gerade in den Anforderungsphasen, und wo helfen sie dir gut und wo vielleicht eher nicht?
+
+039 #00:16:36#
+B1: Aktuell arbeite ich konkret in meinem Projekt mit Claude und habe mir eigene Skills eingerichtet. Zum einen Skills für meine Storys, die ich trotzdem selber noch mit Stichpunkten schreibe, die ich dann aber der KI gebe, damit sie das noch ein bisschen ausformuliert. Das ist zum Beispiel bei dem kleinen Team so, weil ich weiß, dass alle mit KI arbeiten, wo ich bewusst sage: Schreib mal noch mehr Kontext rein, oder wir stellen bewusst Fragen zum Kontext, die der KI helfen. Dadurch werden die Storys deutlich länger, aber es ist sehr viel Kontext drin, sodass es bei der KI gefühlt one-shot-mäßig einfach durchläuft. Noch ein gutes Beispiel: Wir haben auch sehr viel mit der Infrastruktur beim Kunden zu tun und müssen dafür Tickets anlegen, um VPN-Zugänge, Accounts, Datenbankzugriffe und so weiter zu bekommen. Da gibt es sehr viele Nachfragen, und ich habe mittlerweile innerhalb von Claude einen eigenen Skill, in den immer wieder die Tickets und auch die Nachfragen einfließen, um möglichst schon beim Anlegen des Tickets keine Nachfragen mehr zu bekommen. Es sind manchmal Dinge, die man einfach immer wieder vergisst, weil man nur alle zwei, drei Monate mal wieder so ein Ticket anlegt, zum Beispiel für eine Datenbank, kleine Fragen nach dem Ort oder wie der Name sein soll. Da sage ich dann einfach zur KI: Schreib mir mal wieder ein Ticket für eine neue Datenbank für das und das Team, und die anderen Details, wer Zugriff hat, wer Lesezugriff, wer Schreibzugriff hat, sind dann automatisch drin. Das ist für KI einfach ideal.
+
+040 #00:18:15#
+I: Du nutzt es also, um keine Details zu vergessen.
+
+041 #00:18:18#
+B1: Ja.
+
+042 #00:18:20#
+I: Wie erlebst du die Rückmeldungen von KI-Tools, wenn du sie nach einer Einschätzung zu Ideen oder Vorschlägen von dir fragst?
+
+043 #00:18:27#
+B1: Das mache ich eher selten, ehrlich gesagt. Ich gehe meistens schon mit einer konkreten Idee rein. Sparring mache ich manchmal schon, aber eher so, dass ich die KI bitte, mir noch Fragen dazu zu stellen, um den Kontext größer zu fassen und keine Edge Cases zu vergessen. Also die Frage "Was hältst du davon, wenn wir den Button grün machen?" stelle ich selten. Eher sage ich: Ich möchte den Button gerne grün machen, was muss ich bedenken, damit es gut funktioniert? So arbeite ich eher.
+
+044 #00:19:09#
+I: Also nutzt du es eigentlich eher, um nichts zu vergessen, um möglichst viele Rückfragen zu bekommen, die du dann selber beantworten musst.
+
+045 #00:19:17#
+B1: Genau. Wir haben auch immer noch die Besonderheit, dass der Kunde selbst Anforderungen schreibt, die meistens sehr lang sind, weil dann auch immer "nur wenn das passiert, machen die jenes und dieses" drinsteht, und dabei vergessen sie gerne Dinge. Dann sage ich der KI: Guck dir mal die neuen Anforderungen an, fehlen da irgendwelche Fälle? Manchmal fällt uns das auch schon beim Lesen auf, und manchmal findet die KI wirklich gute Punkte, die einem sonst nicht aufgefallen wären.
+
+046 #00:19:52#
+I: Hast du es manchmal, dass du bei genauerem Hinsehen feststellst, dass die KI-Rückmeldung nicht das zurückgeliefert hat, was du erwartet hast?
+
+047 #00:20:06#
+B1: Ja, das passiert manchmal aus komischen Gründen, ich kann es auch nicht erklären. Nehmen wir das Beispiel mit dem Skill für die Infrastruktur, um Tickets anzulegen: Da hatte ich letztens den Fall, dass es die Teams durcheinandergebracht hat. Ich habe zwei Teams, und es sollte eigentlich für das eine Team sein, aber auf einmal hatte er Namen vom anderen Team reingeschrieben. Die Liste ist aber klar hinterlegt, in dem Skill ist wirklich eine Tabelle, das ist Team 1, das ist Team 2, das sind die Namen dazu. Warum das durcheinandergeworfen wurde, keine Ahnung. Man muss nochmal gut nachlesen.
+
+048 #00:20:44#
+I: Durch KI-Tools bekommt man ja auch viel schneller Ergebnisse, zum Beispiel Tickets. Gerade in den frühen Phasen ist es aber auch wichtig, dass man durch Nachfragen bei den Stakeholdern das Thema wirklich durchdringt und versteht. Hast du das Gefühl, dass sich das tiefe Durchdringen und Nachfragen verändert hat, dadurch, dass man Ergebnisse schneller bekommt?
+
+049 #00:21:08#
+B1: Ja, schon. Man ist schneller. Wieder das Beispiel: Wir kriegen die Anforderungen vom Kunden, und früher war das gefühlt so, dass man sagte: Guck dir das mal an, gib mir nächste Woche Rückmeldung. Ich kriege es Montag auf den Tisch und soll nächste Woche Rückmeldung geben. Das geht jetzt schneller. Mittlerweile ist es eher so: Guck es dir an und überleg schon mal selbst, wie du die Storys schreibst. Ich lege schon mal die Storys an, wenigstens mit einer Headline, zum Beispiel: ein grüner Button, ein blauer Button, ein Abbrechen-Button, so salopp gesagt. Und dann gehe ich meistens mit der KI drüber, ob die Storys, die ich als Headline angelegt habe, schon passen oder ob noch etwas fehlt.
+
+050 #00:21:49#
+B1: Es kann sich die Tiefe ändern, in der man die einzelnen Themen versteht. Dadurch, dass man mit KI-Hilfe schneller und mehr Infos bekommt, könnte man dazu tendieren, hier und da oberflächlicher zu werden, weil die KI es einem abnimmt. Das ist der Faktor Mensch. Ich bin da nicht so einer, weil ich immer versuche, die Fachlichkeiten in der Tiefe zu verstehen, um dann auch in die Diskussion gehen zu können. Aber das ist glaube ich vom Typ abhängig. Wie gesagt, KI hilft mir, schneller in die Tiefe zu kommen beziehungsweise schneller die Fachlichkeiten zu verstehen.
+
+051 #00:22:36#
+B1: Bei mir aktuell im Projekt hat das auch mit Gesetzlichkeiten zu tun. Da bin ich nicht super fit, aber da ist es perfekt, um nochmal zu fragen: Wie ist das mit Mahnfristen und so weiter? Früher wäre ich direkt auf den Kunden zugegangen und hätte gefragt, kannst du mir erklären, wie das gesetzlich geregelt ist. So kann man das schon mit der KI machen, dadurch ist man viel schneller und hat die Anforderungen schneller verstanden.
+
+052 #00:23:13#
+I: Hast du die Befürchtung, dass sich langfristig etwas an deiner eigenen Kompetenz verändert, ein System oder Thema tief zu durchdringen, wenn du das schnell mit KI lösen kannst und dich nicht mehr so alleine reindenken musst?
+
+053 #00:23:36#
+B1: Ändern tut sich das schon, das merke ich auch, aber im Endeffekt macht es meinen Job schneller, dadurch aber auch ein bisschen stressiger. Früher hatte man gefühlt zwei Wochen Zeit für eine Anforderung, und auch das Verständnis des Kunden dafür war entsprechend da. Mittlerweile ist es eher so, dass gesagt wird: Gib mir mal übermorgen Rückmeldung. Und wenn man das immer so macht, merkt der Kunde: Ah okay, du schaffst das jetzt in zwei Tagen statt in einer Woche. Das macht es alles ein bisschen stressiger. Trotzdem, bei mir ist es jedenfalls so, dass es mir mehr Chancen gibt, den Teil meines Jobs auszuüben, der mir mehr Spaß macht, also über Fachlichkeiten zu diskutieren, das Menschliche, die Kommunikation. Das hat dadurch einen noch höheren Stellenwert.
+
+054 #00:24:25#
+B1: Ich merke es auch an meinem Terminkalender, ich habe noch viel mehr Meetings. Früher war das ein Indikator, dass man nicht wirklich zum Arbeiten kommt, aber mittlerweile reicht es, wenn ich am Tag so zwei Stunden keine Meetings habe, um meine Anforderungen mit der KI nachzuschärfen, und dann am nächsten Tag wieder in die Diskussion zu gehen: Mir ist das und das noch aufgefallen, wie wollen wir das lösen?
+
+055 #00:24:49#
+I: Hast du das Gefühl, dass sich das Anforderungsprofil an einen PO ändert, vor allem in Bezug auf IT-Kenntnisse?
+
+056 #00:25:43#
+B1: Ich glaube schon, dass es noch ein großer Pluspunkt ist, wenn der PO einen Entwicklungshintergrund hat. Er muss nicht unbedingt Entwickler gewesen sein, aber ich glaube, es reicht mittlerweile eher, ein architektonisches Verständnis zu haben. Man muss nicht mehr im Detail wissen, wie die Datenbank funktioniert, aber man sollte vielleicht wissen, wie man Services schreibt, so ein Verständnis dafür haben. Auf der Ebene bewege ich mich mittlerweile, dass man wenigstens versteht, ob es Sinn macht, in die eine oder andere Richtung zu gehen. Bei architektonischen Entscheidungen habe ich manchmal das Gefühl, dass ich der KI viel mehr Kontext geben müsste, damit sie wirklich genau versteht, wie die Software funktioniert.
+
+057 #00:27:03#
+I: Gibt es in frühen Phasen Aufgaben, wo du sagst, da vertraust du der KI nicht oder hast schlechte Erfahrungen mit den Ergebnissen gemacht? Gerade wenn Anforderungen komplex werden, sich gegenseitig beeinflussen oder voneinander abhängig sind, wie sind da deine Erfahrungen mit den KI-Tools?
+
+058 #00:27:24#
+B1: Unterschiedlich. Es kommt darauf an, wie groß die Software ist und ob man den Kontext geben kann oder nicht. Bei uns ist es schon ein bisschen komplex, da ist die KI manchmal überfordert und gibt auch mal sehr schnell eine falsche Antwort. Es kommt ein bisschen auf das Tooling an und wie komplex das Ganze ist. In dem einen Projekt mit den drei Leuten ist die Fachlichkeit ziemlich gering, es geht einfach nur um Adressdaten, jeder weiß, wie eine Adresse aussieht. Das funktioniert ganz gut mit der KI. Aber bei dem anderen Thema, wo es um Mahngebühren, Mahnen und Vollstreckungen geht, also viel um Gesetzlichkeiten, und wo die Architektur auch sehr komplex ist, da vertraue ich fast nie, sondern frage bewusst unseren Architekten: Meine Idee wäre, das so und so zu machen, was hältst du davon? Weil er einfach viel besser Bescheid weiß über das Tooling, das wir benutzen, als ich. Da vertraue ich der KI eher selten. Da ist auch das Problem, dass es eine neue Version gibt und die KI beim Wissen immer ein bisschen hinterherhängt. Die KI erzählt viel über Camunda 7, aber eigentlich kann man das in Camunda 8 mittlerweile viel effizienter machen. Das weiß die KI meistens nicht oder oft nicht.
+
+059 #00:28:35#
+I: Das bezieht sich dann quasi auf die alte Version.
+
+060 #00:28:37#
+B1: Ja, genau.
+
+061 #00:28:39#
+I: Wie ist deine Erfahrung, wenn sich Anforderungen gegenseitig beeinflussen oder sogar widersprechen, wie vorhin bei der fachlichen und technischen Anforderung, die einfach nicht zusammengingen? Versucht die KI das irgendwie zu glätten, sodass es dann doch irgendwie geht, oder wird der Widerspruch klar angesprochen?
+
+062 #00:29:01#
+B1: Den Fall hatte ich in der Zusammenarbeit mit KI ehrlich gesagt noch nicht, dass es diesen Clash zwischen technischen und fachlichen Anforderungen gab. Das ist mir meistens schon vorher persönlich aufgefallen oder im Gespräch mit unseren Architekten. Deswegen kann ich dir da keine Antwort geben.
+
+063 #00:29:18#
+I: Hast du bei Zusammenfassungen, zum Beispiel bei Gesetzestexten oder Rahmenbedingungen, schon erlebt, dass die KI etwas vergessen oder weggelassen hat, oder vielleicht sogar Dinge dazuerfunden hat, die es so in den Anforderungen gar nicht gibt?
+
+064 #00:29:36#
+B1: Ja, wir hatten letztens ein sehr gutes Beispiel dafür, dass dem Kunden aufgefallen ist, dass in meinem Ticket etwas anderes stand als in den Anforderungen. Mir war das beim Drüberlesen nicht aufgefallen. Es ging darum, wenn der Wert so und so ist, soll es dort und dort hingehen, und die KI hatte "größer als" statt "größer gleich" gemacht. Der Kunde dachte sogar, das wäre nur ein Tippfehler von mir gewesen. Dann haben wir nochmal zusammen auf die Anforderung geguckt, und es war wirklich falsch. Das passiert immer mal wieder, KI ist halt nicht deterministisch. Da hat man immer das Thema, dass irgendeine Wahrscheinlichkeit mal umschlägt auf etwas anderes.
+
+065 #00:30:31#
+B1: Wobei, wenn man es in Summe betrachtet, macht der Mensch wahrscheinlich öfter solche Fehler als die KI. Jeder denkt immer, man kann sich auf eine Maschine verlassen, weil einem der Taschenrechner gezeigt hat, dass er immer genau rechnet, aber das ist so nicht. Trotzdem ist durch die Nutzung von KI die Fehlerquote, oder eher die Missverständnisquote, würde ich es nennen, deutlich geringer geworden. Also das Missverständnis zwischen dem, was in der Anforderung steht, und wie man es umgesetzt hat. Früher, wenn Anforderungen sehr schwammig formuliert waren, ist es öfter passiert, dass man erst in der Entwicklung oder im Review gemerkt hat, dass der Kunde sagt: So habe ich das eigentlich nicht gemeint.
+
+066 #00:31:30#
+B1: Heutzutage hat man den Vorteil, dass man mit der KI spricht, die Storys darunter schreibt, und vielleicht Rückfragen von der KI bekommt, dass man das doch nochmal beim Kunden nachfragen sollte, oder direkt im Fachbereich, der das Tool nutzen soll, wie man es gerne hätte. Ich hätte für mich als PO eine klare Entscheidung getroffen, aber die könnte falsch sein. Aus meinem Selbstverständnis heraus hätte ich das einfach so in die Story reingeschrieben, zum Beispiel: der Button soll grün sein, weil das für mich selbstverständlich ist, da ich das schon dreimal in anderen Tools so gemacht habe. Aber der Fachbereich, der das Tool nutzt, kann aus irgendwelchen Gründen sagen, bei uns muss der Button blau sein, weil wir beim Color-Coding immer mit Blau statt Grün arbeiten. Das sind Dinge, die einer KI bewusst auffallen, weil sie den Kontext im Auge behält. Ich gebe der KI auch immer bewusst den Quellcode mit.
+
+067 #00:32:36#
+B1: Wenn in der Anforderung steht, es soll ein grüner Button sein, aber im Entwurf ist er blau, dann hinterfragt man das trotzdem: Warum hat sich jetzt die Farbe geändert? Es könnte auch sein, dass sich das Designsystem komplett geändert hat, zum Beispiel. Damit vergisst man das einfach nicht.
+
+068 #00:33:15#
+I: Du hast auch gemeint, dass du aus deiner Erfahrung als PO manche Dinge einfach hinnimmst, weil du sie für selbstverständlich hältst. Erfahrung ist ja oft hilfreich, aber hast du es manchmal durch die KI erlebt, dass du relativ schnell, manchmal auch zu schnell, in bekannte Denkmuster gehst und sagst "Ah okay, wir haben hier das und das Problem, das kann man so lösen", und durch die KI dann gemerkt hast, es gäbe eigentlich noch andere Möglichkeiten, sodass du es nochmal mit dem Kunden besprochen hast?
+
+069 #00:33:48#
+B1: Ja, absolut, genau. Das ist für mich auch der größte Mehrwert an der KI, dass ich diese Selbstverständlichkeiten nicht einfach mitnehme, sondern nochmal neue Perspektiven oder neue Rückfragen bekomme.
+
+070 #00:34:03#
+I: Wenn du dir ein KI-Werkzeug für die frühen Phasen eines Projekts wünschen könntest, welche Funktionen würdest du dir wünschen, damit es dir im Alltag bestmöglich hilft?
+
+071 #00:34:16#
+B1: Mittlerweile gibt es fast alle diese Funktionen schon. Vor einem Jahr war es noch nicht mal möglich, eine Excel-Datei richtig hochzuladen. Das geht heute, und man kriegt ja oft vom Kunden eine Excel-Datei. Dann kann man heute sagen: Lies das mal durch, gib mir eine Zusammenfassung, und dann gehen wir in die Diskussion. Das Tooling ist heute schon gut. Vielleicht der Gedanke, den ich gestern hatte: Warum muss ich die Skills selbst erstellen? Warum kann die KI nicht sagen: Ich merke, du stellst ganz viele Fragen zu Infrastrukturtickets, soll ich dir dafür einen Skill anlegen und das Wissen dediziert speichern, wo man es auch nochmal gegenlesen kann? Für mich ist der große Vorteil an Skills, dass man nochmal nachlesen kann, was an Wissen dahintersteckt, oder selbst schnell reagieren kann, wenn zum Beispiel ein Teammitglied hinzukommt, indem man einfach selbst in die Tabelle geht und die Person hinzufügt. Aber sonst finde ich das Tooling schon sehr gut, aus meiner Perspektive.
+
+072 #00:35:21#
+I: Also für alle Probleme, die du hast, baust du dir einen Skill, das ist gerade deine Arbeitsweise?
+
+073 #00:35:29#
+B1: Ja.
+
+074 #00:35:31#
+I: Gibt es in den frühen Phasen oder im Anforderungsprozess einen Schritt, den du ganz bewusst KI-frei halten würdest, wo du sagst, da willst du dich auf das Menschliche verlassen und nicht unbedingt KI nutzen?
+
+075 #00:35:44#
+B1: Das erste Mal lesen. Also wirklich, wie ich es vorhin bei der Anforderung gesagt habe: Ich würde das erstmal selber lesen, mir ein paar Stichpunkte machen, wie ich das verstanden habe, und das dann mit der KI challengen, also sagen: Hier hast du das Dokument, so habe ich das verstanden, habe ich etwas falsch verstanden oder worauf sollte ich noch achten? So würde ich es machen beziehungsweise so haben wir es auch schon gemacht.
+
+076 #00:36:12#
+I: Und das erste Lesen machst du selbst, damit du ein Gefühl dafür bekommst und merkst, falls die KI etwas halluziniert?
+
+077 #00:36:22#
+B1: Ja, genau. Ich bin auch so ein Mensch, der gerne Dinge an einem Text kommentiert, das drucke ich mir auch stellenweise aus. Das haben wir auch wirklich schon gemacht, ausgedruckt und Dinge markiert. Da bin ich manchmal noch ein analoger Mensch.
+
+078 #00:36:58#
+I: Damit du das nochmal visuell vor dir hast. Fehlt dir das Markieren, Kommentieren und Anmerkungenmachen bei der Arbeit mit KI?
+
+079 #00:37:03#
+B1: Das ist vielleicht noch ein spannender Punkt bei meinem Tooling. Ich arbeite gerne mit Markdown-Dateien, ich lasse mir das bewusst als Code ausgeben, um dann zum Beispiel über Git eine Historie zu haben, also um den Diff zu sehen: Okay, hier hat sich etwas geändert, dass ich den Diff bewusst sehe. Claude bietet mittlerweile intern auch an, dass man sich die Diffs der Markdown-Dateien angucken kann. Wenn mir dann etwas auffällt, lese ich nicht alles nochmal, sondern nur noch das Diff.
+
+080 #00:37:35#
+I: Damit du siehst, was sich geändert hat und ob es so korrigiert wurde, wie du es dir vorgestellt hast.
+
+081 #00:37:40#
+B1: Ja, genau.
+
+082 #00:37:59#
+I: Wenn du drei, vier Jahre in die Zukunft schaust: Was wird die KI am Anforderungsprozess deiner Meinung nach übernehmen, und was bleibt oder muss dauerhaft von Menschen gemacht werden?
+
+083 #00:38:14#
+B1: Ich glaube, genau das, was ich schon gesagt habe: Dieses initiale Lesen sollte meiner Meinung nach immer noch der Mensch machen. Ich weiß nicht, ob die Fehlerquote noch deutlich geringer wird, aber ich hätte persönlich schon ein bisschen Sorge davor, dass sich die KI Dinge halluziniert und dadurch Fehler einbaut, die einem dann auf die Füße fallen können. Im schlimmsten Fall macht man den Anforderungsprozess, gibt die Schätzung beim Kunden ab, und der Kunde liest sich das durch und sieht eine Halluzination, die man selbst übersehen hat, weil man es nicht initial gelesen hat. Dann wird man wegen eines kleinen Fehlers abgelehnt, den man hätte vermeiden können. Ich glaube, man muss sich das trotzdem selbst erstmal aneignen.
+
+084 #00:39:01#
+I: Nutzt du, wenn du in der Kommunikation und in Workshops mit Stakeholdern und Kunden bist, dort auch schon KI-Tools?
+
+085 #00:39:22#
+B1: Die Meetings sind eigentlich noch komplett ohne KI, beziehungsweise ich nutze KI höchstens, um die Gespräche aufzuzeichnen, bei mir mit MacWhisper. Das ist auch ein KI-Tool, wenn man so will, das die Meetings transkribiert und zusammenfasst, weil dadurch der Aufwand des Mitschreibens wegfällt. Das ist sozusagen das Einzige, was ich in den Meetings nutze, damit ich mich wirklich auf das Gespräch konzentrieren kann und im Nachhinein die Zusammenfassung habe. Für mich persönlich gibt es nichts Schlimmeres, als etwas nicht gehört zu haben, weil man gerade geschrieben hat. Ich bin kein Mensch, der gleichzeitig gut schreiben und zuhören kann, das funktioniert bei mir nicht.
+
+086 #00:40:08#
+I: Da ist KI natürlich eine große Unterstützung, wenn man sich auf das Wesentliche konzentrieren kann. Das war jetzt schon der Großteil meiner Fragen. Gibt es zu dem Thema noch etwas Wichtiges, das wir noch nicht angesprochen haben, aber das dir aus deiner Praxiserfahrung wichtig wäre zu erwähnen, im Hinblick auf den KI-Einsatz in frühen Softwareprojektphasen?
+
+087 #00:40:34#
+B1: Da gibt es eigentlich nichts, was wir noch nicht angesprochen haben. Wie gesagt: Bitte unbedingt selber gegenprüfen, was die KI gesagt hat, sich selbst trotzdem mit den Fachlichkeiten beschäftigen, um zu merken, wenn eine Halluzination drin ist. Aber sonst haben wir eigentlich alles angesprochen.

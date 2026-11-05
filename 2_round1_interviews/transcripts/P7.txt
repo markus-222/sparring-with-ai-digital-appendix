@@ -1,0 +1,484 @@
+Interview-ID: [P7]
+Interviewer: I
+Befragte Person: B1
+Setting/Modus: [Teams-Call]
+
+001 #00:00:03#
+I: Es wäre ganz cool, wenn du vielleicht ein, zwei Sätze zu dir sagen könntest, was so deine Rolle in den Projekten ist, und vielleicht einen ganz kurzen Umriss geben könntest, wie du die frühen Phasen angehst. Also wie so ein Prozess bei dir ganz grob aussieht. Wir müssen jetzt aber auch nicht zu lange darüber reden, weil ich glaube, wir kommen später noch ins Detail.
+
+002 #00:00:26#
+B1: Ja, ja, okay. Ich habe 2018 bei [Arbeitgeber] angefangen, also jetzt auch schon ein bisschen her. Damals als, also da (...) okay, warte, ich will jetzt nichts weit ausmachen [?]. Davor habe ich Medieninformatik studiert, das heißt Informatik mit einem kleinen Anteil an Kommunikationswissenschaften, und im Master habe ich mich dann auf meine verschiedenen Interaktionen fokussiert.
+
+003 #00:00:57#
+B1: Seit 2018 hat sich der Jobtitel verändert: von IT Consultant zu Digital Designer zu Service Designer. Aber eigentlich ist es im Kern immer das Gleiche, was man macht, nämlich irgendwie die Projekte in den frühen Phasen zu betreuen oder auch noch während des Projekts, dass man eigentlich immer ein bisschen die Brücke schafft zwischen Kunden und Entwicklern.
+
+004 #00:01:22#
+B1: Und ich hatte in der Zeit auch eine kleine Pause und war für ein knappes Jahr weg. Ich bin jetzt seit November 2000, also November letzten Jahres, wieder da.
+
+005 #00:01:34#
+B1: Ich bin seitdem in drei Projekten und war in zwei davon tätig. In einem Projekt war ich so eine typische Digital Designerin, also irgendwie Anforderungen mit dem Kunden aufnehmen, das dann in Tickets umwandeln und die dann in der Entwicklung betreuen.
+
+006 #00:01:51#
+B1: Das andere Projekt, da war ich eher so eine Service Designerin, das heißt, da habe ich ganz viele Workshops mit dem Kunden gemacht. Das war alles eher in der frühen Phase, bevor es mit der Implementierung beginnt.
+
+007 #00:02:06#
+B1: Und bei einem anderen Projekt war ich für drei Monate in einem schon laufenden Projekt, wo wir fachliche Mängel aufgedeckt haben und einfach von außen draufgeschaut und Nutzerinterviews geführt haben. Genau, das ist das, was ich gerade mache.
+
+008 #00:02:20#
+I: Ja, das klingt schon mal sehr gut, auch passend zu dem, was ich in meiner Masterarbeit analysieren will. Wenn du mit Kunden oder Stakeholdern am Anfang von so einem Projekt in den Workshop gehst, hast du das erlebt, dass die Leute schon öfter mit einer fertigen Lösung im Kopf kommen und eigentlich nicht wirklich ihr eigenes Problem mitteilen? Und falls ja, wie gehst du damit um, wenn das passiert?
+
+009 #00:02:53#
+B1: Ja, tatsächlich schon. Die Sache ist: Wenn ich dazu gezogen werde, dann ist meistens das Projekt schon eingetütet. Das heißt, es gibt schon ein Angebot, es gibt dann schon irgendwie einen unterschriebenen Vorschlag, was wir für Arbeitspakete haben und was wir auch machen werden. Für die Kunden klingt es dann so, als ob alles schon komplett durchgeplant und durchgetaktet ist bis zum Ende vom Projekt. Aber für uns ist es nicht ganz so, und wir versuchen in den ersten Workshops einfach ein bisschen klar aufzuzeigen, dass wir das, was im Angebot definiert wurde, so aufbereiten, dass man sieht: Okay, das ist für uns schon gesetzt, darauf committen wir uns, das sind die Deliverables. Aber wir zeigen auch transparent, wo wir noch Fragezeichen sehen, was wir halt irgendwie...
+
+010 #00:03:47#
+B1: ...was noch unklar ist. Und das variiert je nach Projekt. Manchmal ist es schon recht klar, manchmal überhaupt nicht. Aber da versuchen wir eigentlich immer, transparent zu sein.
+
+011 #00:03:59#
+I: Und hattest du das, oder kommt es manchmal vor, dass ihr während der Umsetzung merkt: Eigentlich hatten wir, wir und die Kunden und die Stakeholder, ganz unterschiedliche Vorstellungen von derselben Sache, oder sogar - bei den Kunden selber gibt es ja meistens verschiedene Leute, die daran beteiligt sind, und die Leute haben sogar unterschiedliche Vorstellungen. Falls ja, wie kam das raus, und wann kommt das meistens zur Sprache?
+
+012 #00:04:33#
+B1: Ja klar, hatte ich das schon mal. So etwas kommt meistens erst zu spät zur Sprache, wenn es dann schon passiert ist. Ich hatte das zum Beispiel in meinem letzten Projekt, das war ein Projekt, wo ich Service Designerin war. Da war klar: Wir sind drei Personen von [Arbeitgeber], wir haben drei Monate Zeit, wir hatten eine Liste von Deliverables und haben uns darauf committet, dass wir jede Woche einen Workshop mit ihnen machen und dadurch diese Deliverables erarbeiten. Und das hat sich dann so in der Mitte vom Projekt gezeigt,
+
+013 #00:05:08#
+B1: dass sie gar nicht wussten, was das Konzept ist. Und wir hatten zu dem Zeitpunkt schon Personas erstellt, wir hatten Interviews gemacht, wir waren eigentlich schon beim Service Blueprint. Aber uns haben die Informationen gefehlt, die wir in diesen Service Blueprint einfüttern, weil die einfach nicht wussten, was ihr Konzept ist. Also mussten wir noch mal irgendwie fünf Schritte zurückgehen, drei Konzepte erstellen, ihnen die Konzepte...
+
+014 #00:05:28#
+B1: ...vorstellen. Sie mussten sich für ein Konzept entscheiden, damit wir mit dem Konzept überhaupt weitermachen konnten. Und dann haben wir statt einer Woche drei Wochen für den Service Blueprint gebraucht, und das hat der Kunde irgendwie gar nicht verstanden, und das haben sie uns auch irgendwie... Wir haben sie, glaube ich, drei-, viermal hinterfragt. Immer wenn wir Weeklys hatten oder auch bei der Endpräsentation, haben sie gesagt, dass sie das nicht verstehen, bei der Timeline, die sowieso viel länger gebraucht hat. Und wir haben es ihnen immer wieder erklärt, aber irgendwie haben sie es einfach nicht gecheckt.
+
+015 #00:05:59#
+B1: Nur so ein Beispiel dafür, dass man, obwohl man informiert handelt und immer transparent ist und den Kunden immer mitnimmt, manchmal trotzdem ein bisschen gegen eine Wand spricht.
+
+016 #00:06:12#
+I: Also die wollten dann schon relativ früh in etwas detailliertere Anforderungen reingehen, aber hatten das große Ganze eigentlich noch gar nicht wirklich hundertprozentig verstanden. Gab es da dann auch zwischen den Leuten bei den Kunden unterschiedliche Meinungen und Differenzen, oder war das eher ein Problem zwischen euch und den Kunden dann?
+
+017 #00:06:37#
+B1: Ich glaube, es war auch beim Kunden so: Wir hatten von Kundenseite drei Personen, die total unterschiedlich tief involviert waren. Eine Person war wirklich jede Woche beim Workshop dabei, eine kam so alle zwei, drei Wochen mal dazu, und der eine war ein bisschen höher in der Hierarchie und war eigentlich nur zum Kickoff, zum Ende und dann zu den organisatorischen Meetings dabei. Und der wollte natürlich am meisten mitreden, obwohl er eigentlich am wenigsten verstanden hat, was wir tatsächlich tun.
+
+018 #00:07:08#
+B1: Und die untereinander hatten dann keine Konflikte, aber hatten unterschiedliche Meinungen.
+
+019 #00:07:22#
+I: Wie gehst du damit um, vielleicht auch im Vergleich zu deinen Anfängen in dieser Rolle? Du hast ja mittlerweile schon ein bisschen mehr Erfahrung. Wie gehst du damit um, wenn jemand direkt eine Lösung fordert und sagt: „Okay, wir wollen das so und so machen", du aber merkst, dass das Grundverständnis oder die Vision noch gar nicht da ist?
+
+020 #00:07:45#
+B1: Ich muss sagen, ich habe am Anfang die Arbeit super persönlich genommen. Ich dachte, wenn der Kunde mit meiner Leistung unzufrieden ist, dass es mit mir als Person zu tun hat, dass ich mich zu wenig reingehängt habe, dass ich irgendwie schuld daran bin. Und ich bin dann auch schon voll emotional geworden - nicht vor dem Kunden, aber ich habe es mir irgendwie voll mitgenommen.
+
+021 #00:08:05#
+B1: Und ich schaffe es mittlerweile viel besser, das abzugrenzen. Also so, dass alles, was ich in der Arbeit mache, jede Entscheidung, die ich treffe, und jeden Schritt, den ich tue, mit meinem besten Wissen und Gewissen tue. Ich stehe zu dem Zeitpunkt, an dem ich es mache, voll dahinter, und es kann sein, dass ein Kunde oder andere Personen das anders sehen.
+
+022 #00:08:26#
+B1: Und dann lasse ich mich auch gerne mal von etwas anderem überzeugen, aber ich lasse Arbeit einfach Arbeit sein. Und ich weiß nicht, ob das mit meiner Berufserfahrung zu tun hat, ich weiß nicht, ob es damit zu tun hat, dass ich jetzt Mama bin, aber wenn Feierabend ist und es da irgendwie Konflikte gab, dann, mein Gott.
+
+023 #00:08:47#
+I: Ja, kannst du es also besser abtrennen? Hast du dann auch gewisse Lösungsmuster oder Ansätze, die du immer wieder verfolgst, wo du sagst: Ich habe gewisse Schablonen, die ich auf verschiedene Situationen anwenden kann? Oder machst du das immer abhängig vom Projekt, von den Leuten?
+
+024 #00:09:14#
+B1: Also jetzt nicht so richtig professionelle Lösungsansätze oder Schablonen. Ich glaube, dass Transparenz immer richtig wichtig ist. Ich glaube, es ist gut, wenn man vor dem Kunden transparent ist. Ich glaube, dass man auch im Team transparent sein sollte.
+
+025 #00:09:30#
+B1: In dem Projekt, von dem ich vorhin gesprochen habe, da hat eine Kollegin - das fand ich richtig cool - am Anfang intern einen Termin aufgesetzt, wo wir in einer Stunde besprochen haben, wie wir arbeiten, was uns wichtig ist, wie wir ticken, zu welcher Zeit wir am besten arbeiten und wo man bei uns persönlich richtig ins Fettnäpfchen treten kann und so weiter. Und da hatten wir zu dritt zum Beispiel herausgearbeitet, dass uns allen Ehrlichkeit sehr wichtig ist, offenes Feedback und offener Austausch. Und wo es dann mit dem Kunden vielleicht mal ein paar Fragezeichen gab, war es dann so, dass wir...
+
+026 #00:10:09#
+B1: ...immer versucht haben, direkt nach den Terminen mit dem Kunden miteinander zu sprechen, sodass wir von [Arbeitgeber] wussten: Okay, wir sind zu jedem Zeitpunkt auf derselben Seite, wir haben denselben Stand, wir vertreten dieselbe Meinung und sind irgendwie so eine...
+
+027 #00:10:24#
+B1: ...geschlossene Front. Und mir persönlich hilft es auch immer sehr, darüber zu sprechen, denn auch wenn ich hinter meiner Meinung stehe: Wenn man dann sieht oder hört, dass zwei andere Personen das genauso sehen, dann fühlt man sich noch mal bestärkt und kann es dann auch gegenüber anderen Personen, wie einem Kunden, noch mal stärker vertreten.
+
+028 #00:10:42#
+I: Du hast gerade gesagt, dass ihr danach das Gespräch mit dem Kunden noch mal ein bisschen Revue passieren lasst. Passiert es manchmal, dass ihr mit Kunden oder Stakeholdern im Gespräch seid und dass sich in dem Gespräch vielleicht Aussagen der verschiedenen Stakeholder widersprechen, euch das aber im Gespräch gar nicht auffällt, sondern erst beim Nachbearbeiten auffällt? Falls ja, hast du da vielleicht sogar ein Beispiel dafür?
+
+029 #00:11:18#
+B1: (...) Ich überlege gerade. (...) Ich denke gerade an ein anderes Projekt, an dem ich gerade dran bin. Ich war letzte Woche in [Ort], da haben wir einem Kunden einen Workshop gemacht - das ist ein Softwareimplementierungsprojekt. Wir haben im April den Prototypen abgeschlossen, jetzt waren wir in der zweiten Phase und haben...
+
+030 #00:11:45#
+B1: ...am Donnerstag alle Features reviewt, die wir innerhalb dieser drei Monate implementiert haben. Und während der Kunde sich da durchgeklickt und alles getestet hat, haben wir mitgeschrieben. Ich bin gerade dabei, diese Mitschriften in Tickets umzuwandeln, und manche Sachen, die ich da munter aufgeschrieben habe, machen einfach gar keinen Sinn, weil er irgendwelche Sachen gesagt hat, die einfach nicht so sind. Wir waren da irgendwie voll drin. Ich bereite gerade eine E-Mail vor, wo ich ihn noch mal darauf anspreche, ob er das bitte noch mal klarstellen kann. Klar, ich könnte auch einen Termin mit ihm machen, aber ich glaube, das ist manchmal...
+
+031 #00:12:23#
+B1: ...bei manchen Dingen gar nicht so schlecht ist, wenn man es schriftlich hat. Auch in dem Projekt, von dem ich vorhin erzählt habe, haben wir es so gemacht, dass wir, wenn mal etwas widersprüchlich war, nach den Workshops noch mal eine Mail rausgeschickt haben, in der wir geschrieben haben: Heute im Workshop waren diese Personen dabei, das wurde alles besprochen, das war unser Verständnis. Damit haben wir uns dann so ein bisschen abgesichert.
+
+032 #00:12:55#
+I: Wenn dir solche Unklarheiten oder Mehrdeutigkeiten im Gespräch direkt auffallen: Nimmst du dir das dann erst mal mit, oder sprichst du es aktiv an - „Hey, mir ist gerade aufgefallen, da war eine Unstimmigkeit" - und versuchst, es direkt zu adressieren, um Unausgesprochenes oder Verständnisfragen direkt zu klären? Oder machst du es, wie du gesagt hast, so, dass du es erst mal mitnimmst und später noch mal nachhakst?
+
+033 #00:13:24#
+B1: Wenn es mir direkt auffällt, dann würde ich es auch direkt im Meeting ansprechen, einfach um es so aus der Welt zu schaffen - neutral, und nicht irgendwie in Form von Fingerpointing, wie „Hey, du widersprichst dir hier, du hast hier was falsch gemacht", sondern einfach nur fragend.
+
+034 #00:13:48#
+I: Ist dir auch schon mal aufgefallen, dass durch deine Rückfragen beim Kunden Dinge angeregt wurden, sodass sie dachten: Okay, da ist gerade etwas hochgekommen, das wir selbst noch nicht genau wissen? Oder dass sie dachten, sie wissen es schon genau, aber durch die Frage herauskam, dass es vielleicht doch unklar ist?
+
+035 #00:14:12#
+B1: Ja, ja. Schon, da hatte ich bisher... ich hatte grundsätzlich echt Glück mit meinen Kunden bisher, dass das offene Menschen waren, die auch reflektiert sind und sich eingestehen konnten, wenn etwas vielleicht nicht ganz klar war.
+
+036 #00:14:30#
+I: Dass sie das reflektieren konnten und dass es dann gemeinsam noch mal erarbeitet wurde.
+
+037 #00:14:38#
+I: Du hast vorhin gesagt, dass ihr in eurem Projekt drei Leute habt - eine Person, die etwas tiefer drin ist, und eine, die eigentlich nur zum Kickoff und am Ende dabei ist. Hast du schon mal erlebt, dass manche Perspektiven in den frühen Phasen zu kurz kommen oder vielleicht sogar ganz untergehen, und dass stellvertretende Rollen dann Entscheidungen treffen, die sie eigentlich gar nicht zu hundert Prozent treffen können? Vielleicht als Beispiel: dass eine Abteilungsleitung kommt und irgendetwas entscheidet, obwohl sie eigentlich gar nicht die Person ist, die das entscheiden sollte.
+
+038 #00:15:30#
+B1: In dem Projekt, über das wir gesprochen hatten, war das nicht so, da ist mir das nicht aufgefallen. In meinem ersten Projekt nach der Elternzeit war das vielleicht so - das war ein Bahnprojekt, wo wir schon...
+
+039 #00:15:51#
+B1: ...das Projekt schon länger implementiert haben. Die Product Ownerin ist eine sehr stolze Person, die meint, dass sie das Produkt am allerbesten kennt von allen Personen, und irgendwie...
+
+040 #00:16:06#
+B1: Wir haben dann extra auch Nutzerinterviews geführt. Wir haben zehn Personen interviewt, die tatsächlich mit der Software arbeiten, und haben dann basierend darauf Empfehlungen ausgesprochen. Und...
+
+041 #00:16:19#
+B1: ...hätten uns eigentlich auch bei den Interviewteilnehmern andere Personen gewünscht, weil die Interviewteilnehmer auch von der Product Ownerin ausgesucht wurden. Und die hat das schon sehr gezielt ausgesucht, dass es Personen sind, von denen sie wusste, dass ihnen die Software gut gefällt. Eigentlich ist es ja vielleicht auch ein bisschen besser, wenn man Leute interviewt, denen es nicht so gut gefällt, die...
+
+042 #00:16:39#
+B1: ...die nicht zufrieden sind, die irgendwelche Workarounds verwenden. Das war alles schon so ein bisschen... wir haben da einfach mit den falschen Leuten gesprochen, und es wäre auch besser gewesen, jemand anderen zu involvieren. Aber das war mit der Kundin irgendwie so eine Kundenmanagement-Geschichte. Sie wusste einfach aus Erfahrung, dass diese Person ihre eigene Meinung als die wichtigste einschätzt und dass es eigentlich auch nicht zulässt, dass andere Meinungen dazukommen. Und ich glaube, zu Beginn meiner...
+
+043 #00:17:17#
+B1: Karriere bei [Arbeitgeber] wäre ich da, glaube ich, noch sehr viel idealistischer gewesen. Da hätte ich mich dann mehr dafür eingesetzt, dass wir noch ein weiteres Interview machen. Aber dadurch, dass es ein drei Monate laufendes Projekt ist, kann man auch nichts machen, außer dass man es ein paar Mal...
+
+044 #00:17:34#
+B1: ...anspricht, ein paar Mal empfiehlt, und wenn eine Person darauf einfach gar nicht eingeht, dann kann man diese Person ja auch nicht zwingen, zum Glück.
+
+045 #00:17:42#
+B1: Aber ja, kommt das schon echt auch mal vor, dass man einfach nicht mit den richtigen Personen spricht.
+
+046 #00:17:52#
+I: In dem [unverständlich] ist es ja quasi an dem Stolz oder an dem Charakter der einen Person - ist es aus deiner Erfahrung meistens der Grund, dass bestimmte Perspektiven untergehen oder bestimmte Stakeholder nicht gehört werden? Oder gibt es da noch andere Gründe?
+
+047 #00:18:13#
+B1: Ich glaube, das ist oft ein Grund. Ich glaube auch manchmal, dass man einfach mehr Nutzer einbeziehen sollte, aber dafür nicht die Ressourcen hat, was Zeit und Geld angeht, oder auch gar nicht...
+
+048 #00:18:28#
+B1: Ich war auch mal eine Zeit lang auf diesem [Kunde A]-Projekt, und da kommt man einfach gar nicht an die Nutzer dran, weil die...
+
+049 #00:18:37#
+B1: ...sich niemals dazu herablassen würden, sich interviewen zu lassen. Das war natürlich auch ein totaler Sonderfall. Und manchmal merkt man vielleicht erst zu einem zu späten Zeitpunkt, dass man noch weitere Personen mit einbeziehen müsste, und dann...
+
+050 #00:18:55#
+B1: ...ist das Projekt schon so weit fortgeschritten, dass es dann zu aufwendig wäre, noch mal zurückzugehen.
+
+051 #00:19:03#
+B1: Da gibt es schon vielseitige Gründe.
+
+052 #00:19:06#
+I: Wenn ihr solche Lücken erst spät bemerkt, wie bemerkt ihr das dann meistens, oder wie kommt das dann meistens zutage?
+
+053 #00:19:24#
+B1: Manchmal kommt so etwas auch einfach nur so raus, also man... Gerade bei so großen Konzernen kann man ja nicht ganz hinter die Kulissen schauen, wer alles gebraucht wird. Man kann natürlich fragen, wen man mit einbeziehen muss, aber manchmal kommt es auch erst zu einem sehr späten Zeitpunkt zufällig in einem Gespräch heraus, dass es noch eine Rolle XY gibt, die auch eine Software nutzt. Dann kann man versuchen, die Person noch mit einzubeziehen, eher durch User Testing oder Ähnliches, wenn das Produkt schon implementiert ist. Aber meistens ist es dann eher zufällig.
+
+054 #00:20:07#
+I: Habt ihr irgendwelche Methoden oder Ansätze, um so leisere oder vielleicht stellvertretende Stimmen, wie zum Beispiel Fachexperten in Meetings, trotzdem zu hören? Also, wenn du merkst, wir haben hier eine Perspektive, die ein bisschen unterrepräsentiert ist, wie gehst du damit um?
+
+055 #00:20:28#
+B1: Also, wir wissen schon, dass wir diese Person brauchen, aber die Person ist auch im Meeting, ist aber nicht so laut wie zum Beispiel [unverständlich].
+
+056 #00:20:38#
+I: Ja, zum Beispiel.
+
+057 #00:20:40#
+B1: Da haben wir aber [Arbeitgeber]. Ich weiß nicht, kennst du diesen PD-Workshop?
+
+058 #00:20:46#
+I: Ja, habe ich schon mal.
+
+059 #00:20:48#
+B1: Ja, also dieser Partizipative Design Workshop, das war in einer frühen Phase immer eine super beliebte Methode. Da gibt es ein Erklärvideo, das kannst du dir mal anschauen, weil man da irgendwie so... Man bringt einen Use Case mit, dann macht man Scribbles. Das kann man in Miro machen oder früher auch immer noch in einem Raum auf Papier, und hat alles voll getimeboxt. Man hat getimeboxt, wie lange die Personen scribbeln, man hat getimeboxt, wie lange die Personen sprechen, und dann hat auch jemand...
+
+060 #00:21:20#
+B1: Und jetzt als Stereotyp gesprochen: Ein sehr extrovertierter PO hatte genauso nur eine Minute Zeit wie jemand, der eher Fachexperte ist. Dann musste man versuchen, sich kurz zu fassen und in der Minute das Wichtigste zu sagen, oder hatte eben auch diese eine Minute Raum. Das ist nur ein Beispiel, wie man durch eine Methode so etwas ganz gezielt moderieren kann.
+
+061 #00:21:51#
+I: Ja, jetzt habt ihr also gewisse Methoden, um das sicherzustellen. Generell, aus deinen Erfahrungen im Projektalltag: Wie sieht das mit der Zeit aus, um ein Problem tiefgehend und richtig zu verstehen, bevor angefangen wird zu implementieren? Hast du den Eindruck, dass das bei euch im Alltag ausreichend zum Zug kommt? Also auch für euch die Explorations- und Problemverständnisphase?
+
+062 #00:22:26#
+B1: Das ist natürlich auch von Projekt zu Projekt unterschiedlich. Bei den Projekten, auf denen ich bisher war, war es unterschiedlich gut, aber im Großen und Ganzen hat es schon gepasst.
+
+063 #00:22:40#
+I: Was sind die Gründe dafür, oder woran liegt es, dass man manchmal mehr Zeit hat und eine Explorationsphase manchmal auch ein bisschen unter Druck gerät und man vielleicht nicht so viel Zeit hat?
+
+064 #00:22:56#
+B1: Budget.
+
+065 #00:22:57#
+I: Ja, es ist meistens eigentlich einfach eine Kostenfrage, dass die Leute schnell...
+
+066 #00:23:00#
+B1: Kostenfrage, weil es abhängig von den Kosten unterschiedlich angeboten wird. Und wenn man mehr Budget zur Verfügung hat, dann ist es vielleicht im Angebot schon direkt so eingeplant, dass man das vorher noch einmal exploriert, oder dass es nur ein Explorationsprojekt ist oder Ähnliches. Und eigentlich hängt es voll am Geld und an der Akzeptanz des Kunden. Und auch ein bisschen daran, wie gut die Sales-Leute und die BU-Leute es verkaufen.
+
+067 #00:23:34#
+I: Also, es hängt eigentlich am Angebot und am Projekt, ob man die Explorationsphase fest eingeplant hat, oder ob man sich das im Nachhinein aktiv erkämpfen muss.
+
+068 #00:23:47#
+I: Hast du das Gefühl, dass sich der Zeittakt durch KI verändert hat, also dass die Leute schneller Ergebnisse erwarten oder schneller implementieren wollen?
+
+069 #00:24:11#
+B1: (...) Bevor ich in Elternzeit war, wurde KI noch nicht wirklich eingesetzt. In den Projekten danach waren zwei Projekte noch gar keine Implementierungsprojekte, sondern eher Explorationen. In dem einen Implementierungsprojekt, in dem ich bin, das ist ein agentisches Projekt mit [Projekt A], da sind wir superschnell. Aber unser Kunde hat uns jetzt schon mehrfach darum gebeten, dass wir langsamer sind. Auch letzte Woche wieder.
+
+070 #00:24:43#
+B1: Am Donnerstag hat er gesagt, dass er für die nächste Projektphase... Er ist super zufrieden mit unserer Arbeit, alles toll, aber wir sollen bitte langsamer werden, weil er einfach nicht mitkommt. Das ist nicht das einzige Thema, das er auf dem Schreibtisch hat, das ist eins von fünf Themen, und er hat einfach nicht die mentalen Kapazitäten, diese ganzen schnellen Änderungen an den Features so zu erfassen, wie wir es machen, die Vielfalt der Features. Wir haben eigentlich in unserem Standard-Projektsetup mit ihm zwei Reviews die Woche, wo wir eine Stunde lang Features vorstellen, das, was er iteriert, direkt mit aufnehmen und bis zum nächsten Termin auch umsetzen. Parallel refinen wir aber auch zwei oder mehr Themen, und er hat einfach gesagt, das sei ihm zu viel.
+
+071 #00:25:40#
+I: Okay, also er kommt fachlich mit den Anforderungen nicht hinterher, weil ihr im Endeffekt zu schnell implementiert.
+
+072 #00:25:47#
+B1: Implementieren, aber auch Prototypen erstellen.
+
+073 #00:25:53#
+B1: Und das, was früher ohne KI ein bisschen Zeit verschafft hat – man hat ja die Tickets geschärft, wenn man das zumindest geschrieben hat und Ähnliches, das hat alles ein bisschen entzerrt –, das fällt jetzt weg.
+
+074 #00:26:11#
+B1: Und das Feedback habe ich bekommen, und ich weiß auch von anderen Kollegen, die dasselbe Feedback von ihren Kunden bekommen haben, die auch an agentischen Projekten arbeiten.
+
+075 #00:26:19#
+I: Okay, also dass die Kunden fachlich nicht mehr hinterherkommen und die neuen Features nicht mehr wirklich verarbeiten, sich keine Gedanken mehr darüber machen können.
+
+076 #00:26:27#
+I: Welche KI-Werkzeuge nutzt du heute in den frühen Phasen, und wo helfen sie dir wirklich gut, und wo vielleicht eher nicht so?
+
+077 #00:26:43#
+B1: Ich verwende das GPT von [Arbeitgeber] in den frühen Phasen. Das ist ganz hilfreich. Man hat das Angebot, dass man Text reinhaut und komprimiert zusammengefasst herausbekommt, dass man Fragen dazu stellen kann. Das hilft bei der Informationsverarbeitung. Es hilft.
+
+078 #00:27:15#
+B1: In der Aufbereitung von Ergebnissen – wir haben zum Beispiel in dieser Explorationsphase viel in Miro gearbeitet, weil wir ein remote verteiltes Team waren, wir waren in Spanien, den Niederlanden, Deutschland und Indien, und haben eigentlich immer zusammen mit Miro gearbeitet. Wir haben dann viel in die GPT reinkopiert und dadurch viel Hilfe bei der Erstellung des Design Specification Documents gehabt, das so ein bisschen unser Projektabschlussdokument war. Wir mussten eine Zwischenpräsentation und eine Endpräsentation machen, und da haben wir uns auch ein bisschen unterstützen lassen. Wir haben nicht die Folien erstellen lassen, aber ein bisschen die Überschriften und Bullet Points generieren lassen, aber immer in so einem Hin und Her, also wir haben nie einfach etwas übernommen, wie es erstellt wurde, sondern immer wieder Feedback gegeben, und dann kamen auch ganz gute Sachen dabei heraus.
+
+079 #00:28:22#
+B1: Und in dem anderen Projekt, von dem ich erzählt habe, da verwende ich Claude Code. Ich weiß nicht, ob das noch als frühe Phase zählt. Ich erstelle die Proposals und die Designs, lasse sie mir davon prototypisch erstellen und bespreche sie dann mit dem Kunden, und bin dadurch superschnell im Erstellen von Designs. Ich habe in dem Projekt auch eine Zeit lang Figma Make verwendet, aber das Playground von Claude ist einfach viel besser. Deswegen haben wir das mittlerweile schon wieder abgesägt.
+
+080 #00:29:00#
+I: Also du nutzt es einfach, um Mockups oder Prototypen zu erstellen. Okay, wie erlebst du die Rückmeldungen von den KI-Tools, wenn du sie nach Einschätzungen zu einer Idee oder zu einem Mockup oder Ähnlichem fragst?
+
+081 #00:29:19#
+B1: (...) Was?
+
+082 #00:29:25#
+B1: Manchmal überraschend gut, manchmal überraschend schlecht.
+
+083 #00:29:30#
+I: Die Qualität der Antworten.
+
+084 #00:29:35#
+I: Hast du da [unverständlich]
+
+085 #00:29:35#
+B1: Also, was angenehm ist: Bei dem Mockup hat die KI das gesamte Produkt im Hinterkopf, und wenn man sagt, man braucht jetzt ein Toast-Element und möchte, dass es genauso gemacht wird wie an einer anderen Stelle, dann kann sie kurz auflisten, wo es schon verwendet wurde und wie. Das ist ganz gut, dass man nicht mehr alles selbst im Hinterkopf behalten muss. Aber manchmal kommt auch einfach Schmarrn dabei heraus.
+
+086 #00:30:10#
+I: In meiner Literaturrecherche habe ich ein bisschen den Effekt, dass KI grundsätzlich immer sehr enthusiastisch und vielleicht auch ein bisschen schmeichelnd ist. Könntest du diesen Eindruck bestätigen?
+
+087 #00:30:30#
+B1: Privat schon, beim Arbeiten (...) nicht so ganz.
+
+088 #00:30:37#
+I: Machst du da konkret etwas, damit das vermieden wird, oder hast du das Gefühl, dass es grundsätzlich nicht so ein großes Problem ist, wenn du etwas analysieren lässt?
+
+089 #00:30:51#
+B1: Also, als ich an diesem Design-Dokument gearbeitet habe, habe ich immer darauf verwiesen, dass es Arbeitskontext ist, dass es sachlich und professionell sein soll, dass die Überschriften zu reißerisch sind, dass alles ein bisschen zu unsachlich ist. Ich glaube, damit habe ich das GPT schon in eine gewisse Richtung gedrängt, und ich glaube, da haben ChatGPT und ich einen etwas professionelleren Ton miteinander als privat.
+
+090 #00:31:22#
+B1: Aber das, was du gerade beschreibst, mit dem Schmeichlerischen – ich habe wegen meines Bienenstichs damit gesprochen, und da ist es wirklich unfassbar nervig. Du denkst dir: Kannst du mir noch mehr in den [unverständlich] kriechen? Und dann schreibst du einfach: Oh, ich habe draußen eine Biene gesehen, bin ich jetzt allergisch? Und die Antwort ist: Ja, ich verstehe deine Sorge, ich verstehe deine Angst. Das ist einfach super nervig.
+
+091 #00:31:44#
+B1: Im Arbeitskontext ist mir das jetzt noch nicht so untergekommen.
+
+092 #00:31:47#
+I: Früher hat man in frühen Phasen deutlich mehr Zeit gebraucht, um Ergebnisse zu bekommen. Ein Prototyp hat zum Beispiel Zeit in Anspruch genommen, oder auch ein Anforderungsdokument zu erstellen. Das geht durch KI jetzt alles deutlich schneller. Was, hast du den Eindruck, passiert dadurch mit dem Nachfragen und Durchdringen von Themen im Vergleich zu vorher? Hast du das Gefühl, du hast zwar schnellere Ergebnisse, aber das Thema vielleicht nicht mehr so tief durchdrungen wie vorher?
+
+093 #00:32:26#
+B1: (...) Nein, ich glaube, das hängt komplett davon ab, wie man mit der KI arbeitet, ob man einfach Sachen ungesehen copy-pasted. Ich lese mir das aber schon sehr genau durch und finde es eigentlich eher ein Hilfsmittel, um noch tiefer zu gehen, weil manchmal auch Dinge bedacht werden, auf die ich vielleicht gar nicht gekommen wäre.
+
+094 #00:32:55#
+B1: Und ich checke natürlich auch immer alles eher doppelt und dreifach und identifiziere, ob etwas Schmarrn ist, und lasse das dann rausstreichen oder Ähnliches.
+
+095 #00:33:12#
+B1: Eigentlich hilft es mir eher bei den nervigen Tätigkeiten. Ich glaube, in meiner Rolle bin ich mit der KI sehr dankbar. Ich bin keine Designerin, ich bin kein Requirements Engineer. Das waren aber immer Sachen, die zu meinem Tätigkeitsfeld gehört haben. Aber mir ist jetzt nicht das Herz aufgegangen dabei, dass ich mir eine richtig tolle User Story ausdenke.
+
+096 #00:33:28#
+B1: Jetzt macht das einfach die KI für mich, und ich kann immer noch entscheiden, ob sie gut oder schlecht ist, und kann es dann noch anpassen. Ich glaube, dass die KI bei mir an einem guten Punkt eingeführt wurde, nämlich als ich schon Berufserfahrung hatte, schon eine gewisse Expertise hatte und entscheiden konnte, was gut ist, was schlecht ist, was ich anders machen würde. Es ist jetzt einfach so, als ob mir jemand zugearbeitet hätte, aber ich würde die Arbeit trotzdem nicht einfach ungesehen übernehmen und weitergeben. Wenn ich das so machen würde, dann würde ich gar nichts mehr checken.
+
+097 #00:34:10#
+B1: ...aber mach ich nicht.
+
+098 #00:34:12#
+I: Also, dir hilft's eigentlich eher so als Sparringpartner, um irgendwie lästige Arbeiten abzugeben oder schneller zu machen und sich aber auf die wichtigen Dinge trotzdem noch selber konzentrieren zu können.
+
+099 #00:34:20#
+B1: Ja, ja, ja. Also bei diesem einen Explorationsprojekt, wo wir jede Woche einen Workshop gemacht hatten, da hatten wir Personas erstellt, Service Blueprint und so weiter, und dann hatten wir zusammen mit der KI zu dritt so ein Design-Specification-Dokument erstellt. Aber irgendwie so: Wir haben das Inhaltsverzeichnis vorgegeben, wir haben alles von Miro reingefüttert, wir haben immer jedes Kapitel einzeln erstellt, einzeln gereviewt, einzeln angepasst, und dann hatten wir schon so 50 Seiten, wo die gesamte Projektphase zusammengefasst war.
+
+100 #00:34:55#
+B1: Und dann war das letzte Kapitel, dass wir ein bisschen einen Ausblick geben wollten, was die zehn nächsten Schritte sind, weil wir natürlich eine Folgebeauftragung haben wollten. Ich hätte es zu dem Zeitpunkt einfach nicht gewusst, was wir dem Kunden vorschlagen sollten. Und dann habe ich gesagt: "Hey, kannst du bitte das ganze Dokument mal durchlesen und mir sagen, was es ist?" Und dann kamen zehn richtig gute Vorschläge dabei raus, was wir als Nächstes machen können, weil es einer KI viel leichter fällt, 50 Seiten zu erfassen, als jetzt einem Menschen.
+
+101 #00:35:33#
+B1: Und da war ich wirklich krass überrascht, und da war ich einfach eher dankbar als bedroht.
+
+102 #00:35:41#
+I: Ja, voll.
+
+103 #00:35:42#
+B1: [unverständlich]
+
+104 #00:35:47#
+I: Also, hast du eher das Gefühl, dass du die KI-Zusammenhänge und Sachen gut erkennen und analysieren kann und dadurch dann gut unterstützen kann?
+
+105 #00:35:58#
+B1: Yep, yep.
+
+106 #00:36:03#
+I: Gibt es in den frühen Phasen oder auf der Anforderungsebene auch Aufgaben, wo du sagst, da vertraue ich der KI irgendwie nicht oder habe schlechte Erfahrungen mit den Ergebnissen gemacht? Also, wo stößt die KI an ihre Grenzen?
+
+107 #00:36:27#
+B1: Ich, klar, ich fand es immer, wenn man sie zu frei laufen lässt und die Aufgabenpakete zu groß schneidet, dann kam teilweise voll der Wildwuchs raus, und man hat gesagt: "Hey, das ist jetzt das Feature, mach das mal." Aber wenn man dann...
+
+108 #00:36:47#
+B1: Also, das hat besser geklappt, wenn man es ein bisschen aufgebaut hat, dass man gesagt hat: "OK, zuerst wollen wir das machen, dann wollen wir das machen, dann wollen wir das machen." Und dann musste man die KI noch ein bisschen mehr an die Hand nehmen.
+
+109 #00:37:03#
+I: Ja, dass man ein bisschen gezielter sagt: "OK, ich will jetzt genau das und das machen", und nicht einfach drauflos rennen lässt.
+
+110 #00:37:09#
+B1: Ja, ja.
+
+111 #00:37:13#
+I: Wie ist dein Eindruck, wenn du komplexe Anforderungen hast, also vielleicht Anforderungen, die sich mit anderen Anforderungen im Projekt beschäftigen, widersprechen oder sich gegenseitig beeinflussen? Wie ist da der Eindruck – hast du das Gefühl, dass das erkannt wird, hey, du hast jetzt hier die und die Anforderung, aber eigentlich widerspricht das einer Anforderung, die wir haben, oder einer Rahmenbedingung, die wir haben – oder wird das eher isoliert betrachtet und versucht, beides möglich zu machen?
+
+112 #00:37:46#
+I: Also, zum Beispiel, wenn du sagst, wir haben jetzt das Thema Sicherheit, das soll alles möglichst sicher und in sich geschlossen sein, aber gleichzeitig wollen wir auch eine möglichst gute Zugänglichkeit und Usability haben. Dass das quasi alles einfach... Widerspruch erkannt wird und auch gesagt wird: Hey, hier musst du Einschränkungen oder Abstriche machen.
+
+113 #00:38:11#
+B1: Von der KI jetzt, oder wenn wir mit dem Kunden sprechen, um Features zu priorisieren?
+
+114 #00:38:15#
+I: Von der KI jetzt, also dass es quasi erkannt wird, oder wird eher gesagt: Ah ja, wir können das machen, aber das können wir auch machen – also dass versucht wird, möglichst alles zu erfüllen, was du an Anforderungen hast?
+
+115 #00:38:29#
+B1: Also, [Kollege] hat es bei uns ganz gut aufgesetzt, den Claude, dass er bestimmte Skills hinzugefügt hat, und da hat er schon berücksichtigt, dass wir Accessibility, Usability, Security ganz gut mit einbeziehen. Aber trotzdem – weil er eher von der Dev-Perspektive draufschaut und ich von der Design-Perspektive – machen wir es dann trotzdem immer mal wieder, dass wir es glattziehen, weil einfach manchmal beides ein bisschen vernachlässigt wird und sich eher auf dieses fachliche Feature konzentriert wird.
+
+116 #00:39:11#
+I: Mhm, hast du schon mal erlebt, dass wichtige Rahmenbedingungen vergessen wurden oder dass irgendwelche Dinge dazu erfunden wurden [?], die eigentlich gar nicht so vorgegeben waren?
+
+117 #00:39:24#
+B1: Ja.
+
+118 #00:39:26#
+I: Und wie gehst du damit um, wenn das passiert, wie versuchst du das rauszufinden und zu bemerken, und dann...?
+
+119 #00:39:34#
+B1: Also, ich bemerke es immer, weil ich mir genau anschaue, was die KI produziert, und dann gebe ich das direkt zurück als Feedback, dass ich sage: "Was ist denn das? Das ist doch Schmarrn, wo hast du das her?" Und dann kommt die KI auch immer gleich an den Punkt, wo sie sagt: "Oh, ich weiß auch nicht mehr, wie ich da draufgekommen bin, keine Ahnung, aber es kommt schon vor."
+
+120 #00:39:58#
+I: Also einfach durch kritisches, manuelles Review, und dann OK.
+
+121 #00:40:02#
+B1: Ja.
+
+122 #00:40:03#
+I: Wenn du dir jetzt ein KI-Tool für die frühen Phasen wünschen könntest, welche Funktionen müsstest du unbedingt haben, oder wären dir wichtig, damit es dir im Projektalltag wirklich, wirklich hilft?
+
+123 #00:40:17#
+B1: Mhm, ich muss sagen, ich bin gerade mit dem Setup schon voll zufrieden. Finde gerade eine ganz gute Balance, dass man Tätigkeiten abgenommen bekommt, aber auch noch mitentscheiden kann.
+
+124 #00:40:37#
+B1: Weil man selbst wird ja trotzdem in seiner Rolle noch gebraucht als die Brücke zum Kunden, dass man alles mitnimmt, und – wir arbeiten schon meistens in Miro, und man kann klar dann auch alles von Miro irgendwie in GPT oder Claude reinkriegen, aber ich brauche auch noch, dass ich selbst die Prompts schreibe, weil ich will ja trotzdem auch immer noch aussagekräftig sein, und das muss sich ja auch dem Kunden gegenüber, den Entwicklern gegenüber (...). Und deshalb bräuchte ich jetzt zu diesem Zeitpunkt nicht noch mehr Automatisierung, sondern bin eigentlich ganz happy damit.
+
+125 #00:41:20#
+I: Also, ihr nutzt quasi verschiedene Skills und eure Dokumente, die ihr im Projekt habt, und promptet sie dann aber selbst, damit du trotzdem noch weißt, um was es geht, und auch Verständnis für das Projekt hast.
+
+126 #00:41:35#
+I: Ja, hast du einen bestimmten Schritt im Anforderungsprozess oder in den frühen Phasen, wo du sagst, das halte ich bewusst KI-frei sozusagen?
+
+127 #00:41:45#
+B1: Ich glaube, das ist so ein bisschen dieses Texte-Zusammenschreiben. Also, wir haben jetzt in Miro Texte mitgeschrieben, was der Kunde gesagt hat, und das schreibe ich gerade mit der Hand um.
+
+128 #00:41:59#
+B1: Einfach weil wir haben so 30 Tickets, und die schauen sich dann die Entwickler an und fragen mich, was es nochmal ist, und ich weiß einfach besser, was der Kunde gesagt hat, wenn ich es selbst geschrieben habe.
+
+129 #00:42:14#
+B1: Weil es ja Feedback ist, teilweise sind es fünf Sätze, und ich finde, das kann ich auch einfach selbst schreiben, bevor ich...
+
+130 #00:42:22#
+I: Also, quasi das Feedback vom Kunden während dem Gespräch schreibst du dir noch selbst zusammen, machst dir Stichpunkte, damit du das besser im Kopf hast. OK, ja.
+
+131 #00:42:33#
+B1: Genau, und das dann in Tickets zu verarbeiten, mache ich auch selbst. Also, das sind super leichtgewichtige Tickets, das sind nur Miro-Cards, wo es so "Current State" zwei Sätze und "To-do" ein Satz sind, und das schreibe ich einfach selbst. Das könnte ich mir wahrscheinlich auch erstellen lassen, aber...
+
+132 #00:42:50#
+B1: Irgendwie weiß ich dann nicht, ob ich es mir damit leichter machen würde.
+
+133 #00:42:56#
+I: Ja, das verstehe ich. Ich finde auch, wenn man Kundenfeedback bekommt, dann – wenn man das in seinen eigenen Worten niederschreibt, hat man das auch besser im Kopf und versteht die Formulierungen vielleicht doch besser.
+
+134 #00:43:07#
+B1: Ja, und E-Mails schreibe ich selbst. Weil ich einfach – ich weiß nicht, die Mail liest ja auch ein Mensch, und ich finde, man merkt an der Tonalität schon, wenn es eine KI geschrieben hat, und...
+
+135 #00:43:21#
+B1: Ehrlich gesagt, weiß ich nicht. Ich schreibe... ich muss jetzt nicht so unfassbar viele E-Mails schreiben, und mein Gegenüber hat es auch einfach verdient, dass ich mich an diese Person richte und nicht an die KI.
+
+136 #00:43:35#
+I: Also, quasi die Kommunikation willst du weiterhin KI-frei halten?
+
+137 #00:43:38#
+B1: Ja, ja.
+
+138 #00:43:41#
+I: Ja, verstehe ich.
+
+139 #00:43:41#
+B1: Ja, weil andersrum würde ich ja auch – also, wenn der Kunde uns so einen generierten Text schickt, kannst du das ja raushören – dann denke ich mir: Ja, super, vielen lieben Dank auch...
+
+140 #00:43:53#
+B1: Brauche ich dann einfach nicht.
+
+141 #00:43:53#
+I: Ja, das stimmt.
+
+142 #00:43:56#
+I: Das würde mich auch schon zu meiner letzten Frage bringen. Gibt es zu dem Thema frühe Phasen und KI-Unterstützung noch etwas Wichtiges, was ich jetzt durch meine Fragen bisher nicht angesprochen habe, aber was dir aus deiner Praxiserfahrung sehr wichtig wäre, zu erwähnen, wo du sagst, das ist ein Punkt, der sehr relevant und wichtig ist?
+
+143 #00:44:28#
+B1: Also, vielleicht einfach nur, dass die Arbeit mit der KI nicht immer entlastend ist, sondern manchmal auch ein bisschen belastend, weil es einfach sehr viel intensiver geworden ist, und man einfach so...
+
+144 #00:44:46#
+B1: So einfache Tätigkeiten, die man davor gemacht hat, wo man vielleicht froh ist, dass man die abgenommen bekommt, aber die einem vielleicht auch ganz gut getan haben – dass man einfach so eine Stunde am Tag ein bisschen in Figma rumklickt oder eine Stunde am Tag etwas schön schreibt – das fällt komplett weg. Und du musst eigentlich deine gesamte Arbeitszeit damit verbringen, dass du krass nachdenkst, dass...
+
+145 #00:45:05#
+B1: ...du krass analysierst, dass du voll da bist, dass du krass promptest, und das, was du liest, auch die ganze Zeit nur reviewst. Und ich hatte jetzt auch zwei Projekte parallel, weil...
+
+146 #00:45:22#
+B1: ...man vielleicht kleinere Arbeitsberge hat, aber die Arbeit ist sehr viel intensiver, und deshalb schaffst du es einfach gar nicht mehr, voll ausgelastet zu sein durch ein Projekt – du musst zwei Projekte haben, aber es ist dann trotzdem fordernd, und das ist ein sehr viel fordernderes Arbeiten als davor.
+
+147 #00:45:42#
+B1: Und ich habe da schon so ein bisschen einen Ehrgeiz, dass ich da voll mitkommen will, aber ich weiß nicht, wie langfristig man das aufrechterhalten kann, ehrlich gesagt.
+
+148 #00:45:54#
+B1: Weil es schon sehr intensiv ist, also...
+
+149 #00:45:58#
+B1: Und ich, ja... Ich bin gespannt, wo das hinführt, und wie sich das Projektgeschäft verändert, wie sich die Arbeitsweise verändert, wie die Arbeitstage ausschauen werden und wie man sich selbst managen wird, dass man nicht krass schnell ausbrennt.
+
+150 #00:46:23#
+I: Ja.
+
+151 #00:46:24#
+I: Ja, das verstehe ich. Das merken, glaube ich, gerade viele, dass wenn man viele Sachen parallel macht und sich immer wieder in neue Konzepte, neue Projekte in immer kürzeren Abständen reindenken muss, das ist auf jeden Fall sehr, sehr herausfordernd, das stimmt.
+
+152 #00:46:43#
+B1: Ja, und ich meine, es kann ja irgendwie voll... Es ist ja voll offen, was dabei rauskommt.
+
+153 #00:46:48#
+B1: Also, ich war mal in einem Urlaub, und da war so ein Typ von einer Patentanwaltskanzlei, die machen ja auch sehr fordernde Tätigkeiten, und der hat gesagt, er hat seine angestellten Anwälte, und er weiß, dass wenn die einen Arbeitstag haben, dass er von den acht Stunden, die sie da sind, nur vier Stunden in Rechnung stellen kann, weil sie die anderen vier Stunden etwas anderes machen – Kaffee trinken mit anderen Leuten, irgendwelche Vorbereitungssachen. Und vielleicht wird das bei uns auch so, dass wir vier Stunden richtig krass intensiv arbeiten, die restliche Zeit aber eher etwas anderes machen.
+
+154 #00:47:25#
+B1: Das wäre ja auch nicht schlecht, aber...
+
+155 #00:47:28#
+I: Ja.
+
+156 #00:47:28#
+B1: Also, nur hudeln wird halt nicht gehen.
+
+157 #00:47:31#
+I: Ja, das stimmt.
+
+158 #00:47:34#
+I: Ich glaube, das hält man auch keine acht Stunden am Tag so aus. Also, ich glaube, niemand kann sich acht Stunden am Tag wirklich permanent konzentrieren und hundert Prozent konzentriert sein. Ja, ja, wir werden sehen, wo sich das hin entwickelt.
+
+159 #00:47:49#
+B1: Ja.
+
+160 #00:47:49#
+I: Dir schon mal vielen, vielen Dank für deine Zeit und die Antworten, die du mir gegeben hast.
